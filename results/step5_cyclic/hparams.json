@@ -1,0 +1,13 @@
+{
+  "outdir": "results/step5_cyclic",
+  "num_cycles": 32,
+  "total_steps": 1000,
+  "batch_size": 2,
+  "accum": 2,
+  "lr": 0.0001,
+  "rank": 8,
+  "alpha": 8,
+  "max_len": 384,
+  "seed": 42,
+  "presets": "{\"A\": {\"w_bits\": 8, \"a_bits\": 8}, \"B\": {\"w_bits\": 4, \"a_bits\": 4}, \"C\": {\"w_bits\": 3, \"a_bits\": 4}}"
+}

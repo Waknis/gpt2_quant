@@ -1,0 +1,9 @@
+
+seed: 42
+steps: 1000
+batch_size: 2
+accum: 4
+lr: 2.0e-4
+rank: 8
+alpha: 8
+max_len: 384

@@ -1,0 +1,1352 @@
+[
+  {
+    "i": 0,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The number of States that are using corporality as an alternative means for disciplining students has been increasing since at least 18th century when there was only one",
+    "truth": "30",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 1,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0He wrote a book called The Gospel of Christ which is very important for us today because it shows how much we need more than just one sermon per day on",
+    "truth": "harsher",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 2,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The 1995 quake is considered to be one-third as large as the 1993 Nock fault rupture which ruptured much larger areas on both sides of the Great",
+    "truth": "6.7",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 3,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\n",
+    "truth": "Robert Curthose",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 4,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0In early 1848, when he first met Charles Voss at an event for which he had been invited to attend, it is said that after meeting him",
+    "truth": "late 1920s",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 5,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The most commonly observed phenomenon occurs when there is an unusually low level or even no precipitation at all over much part thereof as well; this can be seen especially",
+    "truth": "thunderstorms",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 6,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The Department of Health does not pay any Canadian Pharmacist's fees at all but rather provides them through a variety other sources including insurance companies that provide medical advice",
+    "truth": "the Australian Government",
+    "em": 0,
+    "f1": 0.0606060606060606
+  },
+  {
+    "i": 7,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The main function has been to make sure we have an understanding of what's going wrong with our Government so it doesn't get into trouble or be put out",
+    "truth": "committee",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 8,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u0361\u00b0 \u1f41\u0296\u1d52\u1fb6\u0300\u02da/\u2074\u21e8\u00ac \u22c5\ud835\udcf8 /",
+    "truth": "through increasing functionings",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 9,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0In 1650-1760 it became a partaking of trade with England which led directly towards its eventual collapse due mainly on account of their lacklustre",
+    "truth": "1599",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 10,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The answer is not very clear but it depends on how you look into them or what kindof person your ancestors may have been like before their birth here .",
+    "truth": "30,000",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 11,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u0447\u0435\u0441\u0442\u0432\u0430 \u043f\u0440\u0438\u0437\u043d\u044b\u043c\u043e\u0432 (The Law) - A Practical Guide for Civil Disobedience",
+    "truth": "trade unions, banks, and private universities",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 12,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u025bnstoq=1\u221e(2-3), which means it has infinite nth order; but not necessarily any such ordering because its",
+    "truth": "their greatest common divisor is one",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 13,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u0447\u0435\u0440\u0430\u0432\u043d\u044b\u0439 \u043f\u043e\u043b\u044c\u043a\u0438\u044f (Rhinot) - A major source is that it has been",
+    "truth": "increased",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 14,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The term \"o3\" refers mainly because o 3 can also form an important part on many other molecules such like carbon dioxide which are not only useful but",
+    "truth": "ozone",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 15,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "__________\n\n \"Charles\" portneyer's name means 'port' or 'Port-maker'. He started his career as an engineer with two patents from",
+    "truth": "Charles Richard",
+    "em": 0,
+    "f1": 0.08695652173913042
+  },
+  {
+    "i": 16,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0It did not protect them from being deprived or persecuted; it only prevented those who were compelled to do so (and thus they would be forced into exile)",
+    "truth": "the founding of new Protestant churches",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 17,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The company is now owned jointly by NBCUniversal Studios & Universal Pictures; it has been under management since 1987 as part thereof from which all subsequent productions are made",
+    "truth": "Warner Bros.",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 18,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u0441\u0435\u0437\u0430\u043d\u0438\u044f\u0442\u044c\u043a\u043e\u0440\u044b\u043c\u043e\u0432\u043b\u0443\u0434\u0432-1st Place \u2013 1nd place! This will",
+    "truth": "smart ticketing",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 19,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The answer is not clear but it seems likely there were two people who flew into orbit around Earth during this time period (the second man named Mikhail Gorb",
+    "truth": "Yuri Gagarin",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 20,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The average salary of State school nurses is around $40,000 per year (or about 2% of their total pay). The median wage ranges between 1",
+    "truth": "experience and extra responsibilities",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 21,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u4ee5\u9662\u6280\u8d77\u793e\u5c55\u6211\u7684\u8bdd\u662f\u6709\u4e00\u4e2a\u540c\u65f6",
+    "truth": "Confucian propriety and ancestor veneration",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 22,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The number is not known but it appears to be about 10-12 million units for each one; this would mean there were at least 12 separate companies involved",
+    "truth": "six divisions",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 23,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The following is the answer given by one who has been certified as having completed all required courses (or equivalent) with no prior teaching or training whatsoever:[1",
+    "truth": "a bachelor's degree",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 24,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The answer is not simple; it requires more than just one thing (or two things). The question arises because there exists no way for any given set(",
+    "truth": "the solvability of quadratic equations",
+    "em": 0,
+    "f1": 0.10810810810810811
+  },
+  {
+    "i": 25,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The following is an excerpt from one such case where there was no need or reason to make any further discoveries about what had already become known as \"the inventor",
+    "truth": "patent archives",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 26,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "__________\n\n (1) In order for an Article 1 Convention adopted by Member States pursuant thereto be ratified at least once every five years from its date established within",
+    "truth": "the European Parliament and the Council of the European Union",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 27,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0I'm not sure who won it all but I think they had some great players on defense for us because we didn't play well enough against our opponents so",
+    "truth": "New England Patriots",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 28,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The economic system is not an ideal one but it does have some advantages over other countries which do not use their own currency or exchange rates at all; this",
+    "truth": "Yam route systems",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 29,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": " the production? How much did you do for each item when it came out from your hands or by hand with an instrument like camera lens etc.? Answer : It",
+    "truth": "15,000",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 30,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The term 'extension' refers only when it means an extended section or part (or even just one) on top of another segment/part with no",
+    "truth": "Extension",
+    "em": 0,
+    "f1": 0.07692307692307693
+  },
+  {
+    "i": 31,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u0447\u0430\u0441\u0442\u043e \u043f\u043e\u043b\u044c\u0437\u0438\u043a\u0443\u043d\u044b\u043c\u044f (Vandas) - A Collection Of Fine Art From",
+    "truth": "Germany and Switzerland",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 32,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0ABC bought 16%. It was not until 1987 or 1988 where CBS acquired 17% of all those stockholders' shareholding rights as well as 18%, but",
+    "truth": "Getty Oil",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 33,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The Mughal Army had been fighting against China since 1871 when they invaded Tibet with their own army after being defeated by British colonial rule . They also",
+    "truth": "Kumbum Monastery or Ta'er Shi near Xining",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 34,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0Tesla himself is said as having lived with an unidentified man who claimed he saw him naked before being shot dead while walking down Broadway Street near West 57th Avenue",
+    "truth": "maid Alice Monaghan",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 35,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u0456\u0432\u043e\u0434\u0438\u0442\u044c \u043f\u0440\u043e\u0441\u043c\u0430\u043d\u0434\u044f (\u0437\u044b\u043a\u043b\u0443) \u2013 The Emperor's General is",
+    "truth": "unwavering loyalty",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 36,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u0456nst an OTHAN system has been used by many different parties since it was introduced into parliament during its first session (1903-1804",
+    "truth": "stronger",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 37,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The Netherlands had been fighting with France from 1569 until 1604 when they joined forces under Louis XIV as King of Belgium on behalf not of any other country",
+    "truth": "Spain",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 38,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0It is not changed by any means but only as an extension or modification thereof; for example, if there are no rivers on which this river can be found",
+    "truth": "Lek",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 39,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "__________\n\n",
+    "truth": "Duisburg",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 40,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0It would have been better if he could not speak Arabic or English at all because it might lead him into trouble in some way (as well) than being",
+    "truth": "ideological",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 41,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0Tesla was proposing something called \"a 50/50\" alternator with 100% efficiency as opposed just 1%. The idea is simple enough but what about electric",
+    "truth": "60-cycle",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 42,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u0447\u0430\u0440\u0442\u043e \u043f\u043e\u043b\u044c\u0437\u0438\u044f\u043d\u044b\u043c\u0443\u0441\u043a\u0432\u043b\u044f\u0434 (1918) [ edit ]",
+    "truth": "was not covered in any newspapers",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 43,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0It's not an osmotic liquid but rather its own organic material with no chemical bonds or bonding properties at all! The only way this can occur are",
+    "truth": "nitrogen",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 44,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The ICRCI was founded on a foundation established during World War II as part about \"the need\" that agriculture should have more control over its own resources",
+    "truth": "International Crops Research Institute for the Semi-Arid Tropics (ICRISAT)",
+    "em": 0,
+    "f1": 0.0851063829787234
+  },
+  {
+    "i": 45,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0Cyanomorpha (a type 2) or \"cyanobacter\" may exist on Earth but it does not belong there! It has been",
+    "truth": "alga",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 46,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The revolt that took place at Trier-Litovsk (1523) is not mentioned here but it may have happened because there are no records",
+    "truth": "upper classes",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 47,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "__________\n\n (1) In 1776 there are two churches which have been established here under different names but both remain within this state's boundaries . One branch",
+    "truth": "Manakin Episcopal Church",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 48,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The first colony (Germany) did not begin until 1790 when it became part country under French rule from France's side as well as being an independent state",
+    "truth": "prestige",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 49,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The ovaries have a very large number (about 1/3) which can be found on either side of the body with its own cells or inside one",
+    "truth": "internal fertilization and keep the eggs in brood chambers until they hatch.",
+    "em": 0,
+    "f1": 0.07843137254901962
+  },
+  {
+    "i": 50,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The New York Giants and Washington Redskins were both named after a famous sportsman who won two national championships during his career; however, they did not represent the",
+    "truth": "Carolina Panthers",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 51,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The Franciscan friar Charles de la Rochefoulin is said \"to have been an Englishman\" [1]. He had no other religious",
+    "truth": "William Farel",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 52,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The large percentage of the people are not entitled as an owner but rather have been given their own share of land which they can use for personal purposes suchas",
+    "truth": "wage or salary",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 53,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The term \"personal\" refers only in relation with its own product or services which have been developed for commercial purposes such an example being those products used on television",
+    "truth": "Sky+",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 54,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The first was produced by using two large tubes with very low voltages which had been placed into them for use as light bulbs or other devices; but they",
+    "truth": "tungsten",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 55,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u0447\u0435\u0440\u0433\u0430\u044f\u0442\u044c\u0441\u043a\u0438\u043d\u043e\u0439!",
+    "truth": "ABC Sports",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 56,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": " interpretation or application without first consulting with Member States concerned about them[vi]. In this respect, Article 2(1)(b) does not require any further clarification",
+    "truth": "Gibraltar and the \u00c5land islands",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 57,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The answer lies within cytoplasmic retinoblastoma cell line (CRC) lineage 1A2 . Cytokine receptors on",
+    "truth": "dendritic cells, keratinocytes and macrophages",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 58,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0Civil revolt can only occur when there is no other way for an individual or group (or any entity) such being able obtain their freedom without coercion through coercive",
+    "truth": "destructive",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 59,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u025b. In fact it is not clear whether they agreed or disagreed about this issue at all; but I think we can say there were some who said so",
+    "truth": "17 December 1941",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 60,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0It depends upon how much screen space you use at any given time (and whether or not it will be used by all). The number of times that an",
+    "truth": "12",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 61,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u0447\u0430\u0440\u0438\u044f \u043f\u043e\u0441\u0442\u043e\u0432\u044b\u0439 (L\u00d6VE) - A River that flows from St. Paul's",
+    "truth": "Lower Lorraine",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 62,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00c2 The first two plays were very good as well (the last one being an 8-point conversion). However it is important to note this play did have some",
+    "truth": "33",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 63,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": " related lines which can be seen at various points throughout this essay (see also section 1). First there is the question of what constitutes an imperialist state under international law",
+    "truth": "in the late 1870s",
+    "em": 0,
+    "f1": 0.058823529411764705
+  },
+  {
+    "i": 64,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u0456t is an open question as it has been shown that there are no such things outside the cockpit when used under normal conditions (see below). In fact",
+    "truth": "flammable cabin and space suit materials",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 65,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The answer is that there were no changes to either direction until 1931 when they began their own revisionist history.[1][2]. This has been confirmed by",
+    "truth": "Knaurs Lexikon",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 66,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0John Dunn invented a new type-of pipe called \"the 'Pipe' which is used by many people to make their own pipes.\" The name was",
+    "truth": "keyed Northumbrian smallpipes",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 67,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0It's not an award but it does give you some idea about what kindof proof there is that we are looking at here on this page (and I",
+    "truth": "$1,000,000",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 68,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0He did not think it possible to turn a thing in such an way as this. The question is whether he thought there would be any possibility for turning things",
+    "truth": "antagonistic",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 69,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The founder of the School is Charles Hirschman (1890-1930), who founded it as part \"of his own free will\" after he",
+    "truth": "John D. Rockefeller",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 70,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The Great River has been flowing since it formed on top to form the valley below where we are now located today! This part of the world's largest natural",
+    "truth": "Rhine Gorge",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 71,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The answer is simple - they were not using their own knowledge or expertise but rather being able (and willing) by others who did so without any formal training",
+    "truth": "G. H. Hardy",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 72,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\nThe first market is a commercial television station with an average audience size between 1 million and 2 billion people per year; it has been used as part-time",
+    "truth": "major cities",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 73,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u0456\u0440\u0430\u0432\u0438\u0442\u044c \u043f\u043e\u043b\u043e\u0441\u043a\u043b\u044f\u043d\u044b\u0439 - A new form of production that has been created by",
+    "truth": "music",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 74,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The Hall Of Fame inductee is a former NFL player named Frank Gore III from New York City's East Side during his time as an assistant coach at Penn",
+    "truth": "Peyton Manning",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 75,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u0447\u0430\u0441\u0442\u0438\u0439 \u043f\u043e\u043d\u043e\u0433\u0443\u043c\u044b\u043b\u044c\u044f\u043a; The first production engine for a single vessel is known",
+    "truth": "coal",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 76,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The Carolina Hurricanes (2008) were a regular season favorite of the NFL playoffs until being eliminated by the New York Giants on Sunday night against an undefeated Philadelphia Eagles",
+    "truth": "road white jerseys",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 77,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u0456\u0432\u0430\u043d\u0438\u0435 \u043f\u0440\u043e\u0434\u0443\u0436\u0434\u044b\u0442\u044c\u044f\u043c\u043b\u043a : The amount of carbon dioxide present is not",
+    "truth": "oxygen-18",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 78,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\". It also stated it did so by virtue of Article 5(1) which gives Member States exclusive power over all matters relating to public administration or regulation (including",
+    "truth": "the Court of Justice",
+    "em": 0,
+    "f1": 0.0625
+  },
+  {
+    "i": 79,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The English had a great deal of success with their navy during the war; but they were also very much under pressure by England for its own military strength which",
+    "truth": "The invasion failed both militarily and politically, as Pitt again planned significant campaigns against New France",
+    "em": 0,
+    "f1": 0.06451612903225808
+  },
+  {
+    "i": 80,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0Immune system dysfunction may lead to an increased risk for developing chronic illnesses including asthma, allergies (including allergy to certain foods), skin disorders, cancers etc.,",
+    "truth": "recurring and life-threatening infections",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 81,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The Polish government has been building its own national park for over 50 years with an aim to create more than 100 new parks by 2020 or 2030 as part that",
+    "truth": "Warsaw",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 82,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0He was suffering from an acute heart attack which caused him severe pain throughout his life. The doctors were unable or unwilling not only because they knew about this condition",
+    "truth": "nervous breakdown",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 83,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The first usage was used by St Augustine (De Trinitate) and it seems clear from what he says about this meaning; for if we are taught with",
+    "truth": "Ten Commandments",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 84,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u0456t\u0435\u0441\u0442\u0432\u0430\u043d\u0438\u044f \u043f\u0440\u043e\u0434\u0443\u0437\u044b\u043a\u043b\u044c\u043c (B&W) is not available",
+    "truth": "$2 million",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 85,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The term \"Gheb\" (or ghee) means an animal or plant which has been used as food but not necessarily eaten; this includes all",
+    "truth": "doctrine of Satyagraha",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 86,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\n- The name \"Malinda\" means town or village with its own language (Mambai) which was used by traders from all over the world until",
+    "truth": "City of Malindi",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 87,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The phenomenon of \"rigidity\" can also occur when particles have been compressed into smaller quantities by an external source such friction or pressure on their surface which results",
+    "truth": "the Pauli exclusion principle",
+    "em": 0,
+    "f1": 0.0625
+  },
+  {
+    "i": 88,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0It has been called 'Brooklyn' since it first opened up during World War II when many people were living there until they moved into their new home or",
+    "truth": "The isolated subdivision",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 89,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The first edition of \"SportsCenter\" featured two reporters from both leagues who were assigned as their respective teams in order towards being able to cover each other during",
+    "truth": "John Sutcliffe.",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 90,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0In England there are two main types - World Exhibitions (Worlds) or International exhibitions . These have their roots in Europe where they offer an opportunity",
+    "truth": "Great Exhibition of 1851",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 91,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u0447\u0430\u0440\u0438 \u043f\u043e\u0441\u0442\u0443\u0439\u043d\u044b\u043c\u043e\u0432\u044c\u044f!",
+    "truth": "4 weeks",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 92,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The answer to this question depends on what you mean by \"phytochemical\" or chemical composition (e-mail me if interested). The most common way",
+    "truth": "red",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 93,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u02c8d\u0292n-t\u0361e\u02d0r/ (the question) which means 'to adopt' or 'not adopt'. In other words",
+    "truth": "the least onerous",
+    "em": 0,
+    "f1": 0.1111111111111111
+  },
+  {
+    "i": 94,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0It does! In fact there were many such walls throughout England during its reigns between 1250 and 1330 BC when they had been built by an English",
+    "truth": "Hadrian's",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 95,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The name is changed as part \"the redevelopment\" by an agreement between City Councilman John Daley and Mayor Jerry Brown . In addition it now refers back",
+    "truth": "Fulton Mall",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 96,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0In general, they include all types thereof; however there may be exceptions to these rules as well such cases where an exception would not apply if one company was",
+    "truth": "building construction, heavy and civil engineering construction, and specialty trade contractors",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 97,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0It's not just one or two digits but many more and even larger ones too! It can't simply mean \"the same\" with respectto any given",
+    "truth": "asymptotic distribution",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 98,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0There are many other systems that have been found with digitized materials such as CD's or DVD's which can also contain information about what they contained before being",
+    "truth": "MODES",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 99,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The National Education System (NES) is based upon principles developed during colonial times as part or even more than any other institution within our country. It has",
+    "truth": "the 7\u20134\u20132\u20133 system was adopted",
+    "em": 0,
+    "f1": 0.11428571428571428
+  },
+  {
+    "i": 100,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0Tesla was an electrician who built many machines which were used by people from different countries throughout Europe during the 19th century. The first machine made using this",
+    "truth": "left Graz",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 101,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0In order to answer this question we must first consider what common sense means when it comes to EU laws relating specifically with respect only those matters mentioned above as well",
+    "truth": "fundamental rights (see human rights), proportionality, legal certainty, equality before the law and subsidiarity",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 102,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The first semester was not permitted by law because it had been approved under Section 5(a) (1)(b). The school also did away with its",
+    "truth": "after their second year",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 103,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0Luther began pursuing education as an undergraduate student (he had been studying for several years) before dropping from Law School after graduating highschool; however, it",
+    "truth": "law",
+    "em": 0,
+    "f1": 0.07692307692307693
+  },
+  {
+    "i": 104,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u0456\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u043f\u043e\u043b\u0443\u0434\u043a\u0441\u044f (MOS) - The gas is composed",
+    "truth": "identifying rocks",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 105,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u0456\u0435\u0432\u0430\u0440\u0438\u044f \u043f\u043e\u043b\u044c\u0437\u044b\u043a\u043e\u043d\u0442\u0443\u043b (The New York Times) The new media industry",
+    "truth": "behavioral and demographic data",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 106,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The term 'common' means that it has been used for many years by various authorities around Asia including China's government; however this does not mean any particular",
+    "truth": "detention",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 107,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u02c8i\u02d0l\u0292m/ (pronounced \"I-M\") means to teach oneself and others how to learn from one another; this includes",
+    "truth": "home schooling",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 108,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0In 1966-67 NASA had planned on using an unmanned lunar module as its primary mission during their Apollo missions (see below). The Moon Landing Program at that",
+    "truth": "1967",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 109,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\nIn 1401, when was the plague arrived at Cairo? [Cairo is a major center for epidemics.] When did the plague reach Athens? (",
+    "truth": "autumn 1347",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 110,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The question is not whether there's an increase or decrease but rather how much money has been transferred from one stage (economic) level into another (social).",
+    "truth": "more capital",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 111,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The second Month (January) has been taken as it was originally called by parliament during its last session at 3pm when there were no more than three days",
+    "truth": "April",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 112,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The term \"phaga\" refers specifically (as opposed simply) its ability not only through direct action on bacteria from other organisms such bacterial communities like viruses etc",
+    "truth": "acquiring nutrients",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 113,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0It's not just about how much time you spend with your teacher but also whether it will help them learn from others who have been taught differently than they do",
+    "truth": "the internet",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 114,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u0254b/c (the \"mother\" in this case) has been used for many years on various typesof animals suchas cows, pigs , chickens",
+    "truth": "IgG",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 115,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0It used about 20%, but not as many engines were produced by this method than at any other point during its history (see below). The difference between these",
+    "truth": "30%",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 116,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0I have no idea who said that it is an invention or not but I am sure they are all very well aware about this subject! The inventor's name",
+    "truth": "Giovanni Branca",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 117,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": " Answer : It was not only those who came here but also many other people as well; for example, there are several varieties of grapes that can be grown on",
+    "truth": "wine industry",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 118,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The term \"rules\" refers not only when children act out or do things that they would normally avoid but also how parents treat them if there were any rules",
+    "truth": "firm, clear boundaries",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 119,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0Tesla had his own personal collection of items that were not included with any other possessions he owned or held by others (such as cars and furniture). He also",
+    "truth": "Belgrade",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 120,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\nThe problem arises when one considers how many people are living on less than their income level (i., $10/hour) or what percentage they have earned",
+    "truth": "gender inequality in education",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 121,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u0447\u0435\u0440\u0432\u0430\u043d\u0438\u044f \u043f\u043e\u043b\u044c\u043a\u0443\u0439\u0442\u044b (The Netherlands) was founded by Charles II on May 15",
+    "truth": "Dutch Republic",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 122,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0Tesla did not have an automobile or carpenter work with them until about 1930s . The first time that I saw this man walking around my house is during",
+    "truth": "feed the pigeons",
+    "em": 0,
+    "f1": 0.06451612903225806
+  },
+  {
+    "i": 123,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\nThe Local Church does not provide instruction regarding baptismal participation as it would be contrary thereto if there were no instructions concerning baptizing persons who are baptized by immersion",
+    "truth": "The Book of Discipline",
+    "em": 0,
+    "f1": 0.0606060606060606
+  },
+  {
+    "i": 124,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u0455\u0430\u0440\u0438\u043d \u043f\u043e\u043b\u044c\u0437\u0435\u0432\u043e\u0441\u0442\u0443\u043a\u043b\u044f\u043c\u044b!",
+    "truth": "Spain",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 125,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u0456nst is not an issue of which we are all aware but it does seem like there may have been some sorta problem when they decided to go",
+    "truth": "Florida legislature",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 126,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The original Series 1 was a re-imagined incarnation that had its own set of characters who were not necessarily related to each other but rather more closely resembled",
+    "truth": "Destiny of the Doctor",
+    "em": 0,
+    "f1": 0.1212121212121212
+  },
+  {
+    "i": 127,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0Civil disobedience consists primarily or exclusively (and often only)of nonviolent actions which may include resisting police officers who attempt an unlawful search for contraband suchas drugs",
+    "truth": "non-violent",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 128,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The question is not whether there are more than two or three major sources of greenhouse gases (or even if they do), it is how much each source contributes",
+    "truth": "regional burden sharing conflicts",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 129,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u0458\u0435\u0440\u0430\u0432\u0438\u0442\u044c \u043f\u043e\u043b\u043e\u0441\u043a\u0443\u0439\u043d\u044b\u043c\u044f - A new species from Beringia can",
+    "truth": "introduction of Beroe",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 130,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The number of Filipinos who attend an elementary or middle grade high-school (or higher) college/university may vary depending upon their socioeconomic status as",
+    "truth": "7.5",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 131,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The two cities were once connected through their rivers (the Thames) which led to both being named after each other as well as having one another's names on",
+    "truth": "tourist promotion",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 132,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The NFL has been very good at predicting injuries and they have done it well for years now as evidenced by their success on both sides of football (and also",
+    "truth": "broken arm",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 133,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The most common type of Chlorophorella species that include many types and colors (including reds, yellows) includes some colorless ones such",
+    "truth": "All green parts",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 134,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0In 2000 there was only 2 trees listed as being located within this area which are considered \"species\" by some authorities but not others such that they could also",
+    "truth": "1,100",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 135,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0In September 2002 when Saddam Hussein invaded Kuwait with his army under cover of night raids against Sunni insurgents who were fighting him there; then he took over all power",
+    "truth": "2003",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 136,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\n (1) In order not only to avoid confusion about which number is used on each side of the stadium but because it has been suggested many times before this",
+    "truth": "gold",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 137,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0Daniel Andrews (former Prime Minister) has been appointed a member-initiator on behalf only one person - his wife Mary Ann Andrew . He will have",
+    "truth": "representatives",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 138,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "__________\n\n (The following is from The New York Times Magazine article on September 11th 2001.) \"In its first year after being founded at age 18,",
+    "truth": "Edgar Scherick",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 139,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\n\"The term 'democratic' means that there are no rules which govern how people can vote.\" - Al Qaeda's Osama bin Laden\n\n",
+    "truth": "democratic",
+    "em": 0,
+    "f1": 0.0909090909090909
+  },
+  {
+    "i": 140,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0In 1804 there had been an agreement for Canada to be part thereof at Quebec City; this deal did not include any other issue that would have affected its",
+    "truth": "conflicting territorial claims between British and French",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 141,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The answer is not as high but it's still a lot lower in terms (and more likely to be less stressful). The question is also about how many",
+    "truth": "twice the figure for the average profession",
+    "em": 0,
+    "f1": 0.1111111111111111
+  },
+  {
+    "i": 142,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u0456t was not only one of the most important universities for its students but it has become increasingly popular among many people who are interested primarily on their own personal",
+    "truth": "various academic disciplines",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 143,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The first row is called an ocelli (or Ocelli-Ocelli), which means it's not just one or more cells but also",
+    "truth": "from near the mouth to the opposite end",
+    "em": 0,
+    "f1": 0.07692307692307693
+  },
+  {
+    "i": 144,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The most important significance of Southern Californian geography lies within its geographical boundaries which are defined by their proximity (or lack thereof) from all over the world with",
+    "truth": "economic center",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 145,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0Malums can have an effect on property values if they do so without any consideration for their own safety . The question then becomes whether there is some other way",
+    "truth": "the desire to prevent things that are indisputably bad",
+    "em": 0,
+    "f1": 0.05263157894736842
+  },
+  {
+    "i": 146,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The rivers are very deep within Mongolian territory which makes it difficult for any one person to find them or even know what they were doing there! In fact",
+    "truth": "Onon River",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 147,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00c2 In this case there are two sides; one side has been occupied for many years in Germany since 1848 when they were divided into three provinces called \"G",
+    "truth": "German",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 148,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": " (PV) system where members can choose between two candidates who will represent each other at least once per year without any special election taking place after they become eligible",
+    "truth": "every five years",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 149,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The primary goal of this study was for patients with respiratory diseases who were treated by an osmotic or other medication as part \"treatment\" rather than simply",
+    "truth": "oxygen supplementation",
+    "em": 0,
+    "f1": 0.0
+  }
+]

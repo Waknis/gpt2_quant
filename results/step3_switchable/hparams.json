@@ -1,0 +1,15 @@
+{
+  "outdir": "results/step3_switchable",
+  "presets": "{\"A\": {\"w_bits\": 8, \"a_bits\": 8}, \"B\": {\"w_bits\": 4, \"a_bits\": 4}, \"C\": {\"w_bits\": 3, \"a_bits\": 4}}",
+  "steps": 1000,
+  "batch_size": 2,
+  "accum": 4,
+  "lr": 2e-05,
+  "rank": 8,
+  "alpha": 8,
+  "beta_cdt": 0.02,
+  "temperature": 2.0,
+  "max_len": 384,
+  "seed": 42,
+  "fast": false
+}

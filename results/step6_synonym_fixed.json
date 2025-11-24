@@ -1,0 +1,1352 @@
+[
+  {
+    "i": 0,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The number of States that are using corporality as an alternative means for disciplining students has been increasing since at least 18th century when there was only one",
+    "truth": "30",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 1,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0He wrote a book called The Gospel of Christ which is very important for us today because it shows how much we need more than just one sermon per day on",
+    "truth": "harsher",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 2,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The 1995 quake is considered to be one-third as large as the 1993 Nock fault rupture which ruptured much larger areas on both sides of the Great",
+    "truth": "6.7",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 3,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\n",
+    "truth": "Robert Curthose",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 4,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0In early 1848, when he first met Charles Voss at an event for which he had been invited to attend, it is said that after meeting him",
+    "truth": "late 1920s",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 5,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The most commonly observed phenomenon occurs when there is an unusually low level or even no precipitation at all over much part thereof as well; this can be seen especially",
+    "truth": "thunderstorms",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 6,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The Department of Health does not pay any Canadian Pharmacist's fees at all but it may be a matter that will arise where there is no other source available",
+    "truth": "the Australian Government",
+    "em": 0,
+    "f1": 0.0606060606060606
+  },
+  {
+    "i": 7,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The main function has been to make sure we have an understanding of what's going wrong with our Government so it doesn't get into trouble or be put out",
+    "truth": "committee",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 8,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u3008Achievement in life has been defined by its value for one or more persons who have attained that achievement.\" The concept of achieving excellence can be seen",
+    "truth": "through increasing functionings",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 9,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0In 1650-1760 it became a partaking of trade with England which led directly towards its eventual collapse due mainly on account of their lacklustre",
+    "truth": "1599",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 10,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The answer is not very clear but it depends on how you look into them or what kindof person your ancestors may have been like before their birth here .",
+    "truth": "30,000",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 11,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The question here does not apply when a person has been arrested for violating an order or other lawful act by another individual who was acting on behalf thereof (e",
+    "truth": "trade unions, banks, and private universities",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 12,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The answer lies within an equation which has been shown by some mathematicians who believe it does not follow from any mathematical proof but rather simply proves what they say",
+    "truth": "their greatest common divisor is one",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 13,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0It is not clear what caused it but I think that this has been an important factor since then as well as other factors suchas high rainfall (which can",
+    "truth": "increased",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 14,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The term \"o3\" refers mainly because o 3 can also form an important part on many other molecules such like carbon dioxide which are not only useful but",
+    "truth": "ozone",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 15,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0Charles Porter's invention has been described as being \"a very good one\" because it had an excellent mechanical design that could not only make its way into production",
+    "truth": "Charles Richard",
+    "em": 0,
+    "f1": 0.06451612903225806
+  },
+  {
+    "i": 16,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0It did not protect them from being deprived or persecuted; it only prevented those who were compelled to do so (and thus they would be forced into exile)",
+    "truth": "the founding of new Protestant churches",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 17,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The production companies involved are not mentioned here as they have been owned by their respective owners since at least 1983 when it became clear from an early press release dated",
+    "truth": "Warner Bros.",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 18,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0It will be necessary to replace every single one of the existing tickets with modern ones which have been upgraded by hand or through other means than via public transport systems",
+    "truth": "smart ticketing",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 19,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The answer is not clear but it seems likely there were two people who flew into orbit around Earth during this time period (the second man named Mikhail Gorb",
+    "truth": "Yuri Gagarin",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 20,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The average salary of State school nurses is around $40,000 per year (or about 2% of their total pay). The median wage ranges between 1",
+    "truth": "experience and extra responsibilities",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 21,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u4ee5\u9662\u6280\u8d77\u793e\u5c55\u6211\u7684\u8bdd\u662f\u6709\u4e00\u4e2a\u540c\u65f6",
+    "truth": "Confucian propriety and ancestor veneration",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 22,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The number is not known but it appears to be about 10-12 million units for each one; this would mean there were at least 12 separate companies involved",
+    "truth": "six divisions",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 23,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The following is the answer given by one who has been certified as having completed all required courses (or equivalent) with no prior teaching or training whatsoever:[1",
+    "truth": "a bachelor's degree",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 24,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The answer is not simple; it requires more than just one thing (or two things). The question arises because there exists no way for any given set(",
+    "truth": "the solvability of quadratic equations",
+    "em": 0,
+    "f1": 0.10810810810810811
+  },
+  {
+    "i": 25,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The following is an excerpt from one such case where there was no need or reason to make any further discoveries about what had already become known as \"the inventor",
+    "truth": "patent archives",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 26,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "__________\n\n (1) In order for an Article 1 Convention adopted by Member States pursuant thereto be ratified at least once every five years from its date established within",
+    "truth": "the European Parliament and the Council of the European Union",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 27,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0I'm not sure who won it all but I think they had some great players on defense for us because we didn't play well enough against our opponents so",
+    "truth": "New England Patriots",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 28,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\n-The economic system is based on an exchange rate which has been established through trade agreements or other means; it does not depend on any one country having its",
+    "truth": "Yam route systems",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 29,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "izing process? How much did you do for each item when it came out from your own personal computers or other sources ? Answer : It took about 5 years before",
+    "truth": "15,000",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 30,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The term 'extension' refers only when it means an extended section or part (or even just one) on top of another segment/part with no",
+    "truth": "Extension",
+    "em": 0,
+    "f1": 0.07692307692307693
+  },
+  {
+    "i": 31,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0In Europe there was also some large collections that included many fine art pieces by artists like Leonardo da Vinci or Michelangelo (and others). In America it",
+    "truth": "Germany and Switzerland",
+    "em": 0,
+    "f1": 0.06666666666666667
+  },
+  {
+    "i": 32,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0ABC bought 16%. It was not until 1987 or 1988 where CBS acquired 17% of all those stockholders' shareholding rights as well as 18%, but",
+    "truth": "Getty Oil",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 33,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The Mughal Army had been fighting against Soviet Union since 1871 when they first invaded China with their own army led by General Zhonghua who later",
+    "truth": "Kumbum Monastery or Ta'er Shi near Xining",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 34,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0Tesla himself is said as having lived with an unidentified man who claimed he saw him naked before being shot dead while walking down Broadway Street near West 57th Avenue",
+    "truth": "maid Alice Monaghan",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 35,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The general's attitude towards these commanders is not that which would be considered \"unacceptable\" by most people who are familiar with him or even those around him",
+    "truth": "unwavering loyalty",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 36,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The question has been asked by many people who have not heard about them but they do know what it's like being an MP or member of the House of",
+    "truth": "stronger",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 37,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The Netherlands had been fighting with France from 1569 until 1604 when they joined forces under Louis XIV as King of Belgium on behalf not of any other country",
+    "truth": "Spain",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 38,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0It is not changed by any means but only as an extension or modification thereof; for example, if there are no rivers on which this river can be found",
+    "truth": "Lek",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 39,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "__________\n\n",
+    "truth": "Duisburg",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 40,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0It would have been better if he could not speak Arabic or English at all because it might lead him into trouble in some way (as well) than being",
+    "truth": "ideological",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 41,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0Tesla was proposing something called \"a 50/50\" alternator with 100% efficiency as opposed just 1%. The idea is simple enough but what about electric",
+    "truth": "60-cycle",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 42,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0Thoreaus' imprisonment for writing about politics did not occur before this period; however, there were several occasions where people had their own personal issues with government",
+    "truth": "was not covered in any newspapers",
+    "em": 0,
+    "f1": 0.0625
+  },
+  {
+    "i": 43,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0It's not an osmotic liquid but rather its own organic material with no chemical bonds or bonding properties at all! The only way this can occur are",
+    "truth": "nitrogen",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 44,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The ICRCI was founded on a foundation established during World War II as part about \"the need\" that agriculture should have more control over its own resources",
+    "truth": "International Crops Research Institute for the Semi-Arid Tropics (ICRISAT)",
+    "em": 0,
+    "f1": 0.0851063829787234
+  },
+  {
+    "i": 45,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0Cyanomorpha (a type 2) or \"cyanobacter\" may exist on Earth but it does not belong there! It has been",
+    "truth": "alga",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 46,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The revolt that took place at Trier-Litovsk (1523) is not mentioned here but it may have happened because there are no records",
+    "truth": "upper classes",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 47,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The National Association of Christian Churches (NAC) holds its annual meeting every year where it meets members seeking membership or information about churches located within state boundaries which",
+    "truth": "Manakin Episcopal Church",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 48,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The first colony (Germany) did not begin until 1790 when it became part country under French rule from France's side as well as being an independent state",
+    "truth": "prestige",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 49,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The ovaries have a very large number (about 1/3) which can be found on either side of the body with its own cells or inside one",
+    "truth": "internal fertilization and keep the eggs in brood chambers until they hatch.",
+    "em": 0,
+    "f1": 0.07843137254901962
+  },
+  {
+    "i": 50,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The New York Giants and Washington Redskins were both named after a famous sportsman who won two national championships during his career; however, they did not represent the",
+    "truth": "Carolina Panthers",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 51,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The Franciscan friar Charles de la Rochefoulin is said \"to have been an Englishman\" [1]. He had no other religious",
+    "truth": "William Farel",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 52,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The large percentage are not independent from each other but share their own resources with others as well as those who have no access (or lack) to them at",
+    "truth": "wage or salary",
+    "em": 0,
+    "f1": 0.0625
+  },
+  {
+    "i": 53,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The term \"personal\" refers only in relation with its own product or services which have been developed for commercial purposes such an example being those products used on television",
+    "truth": "Sky+",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 54,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The first was produced by using two large tubes with very low voltages which had been placed into them for use as light bulbs or other devices; but they",
+    "truth": "tungsten",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 55,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0ABC's current headquarters are now owned entirely off site with no access or control over any part thereof except those areas where they have been used since 1976 when their",
+    "truth": "ABC Sports",
+    "em": 0,
+    "f1": 0.06060606060606061
+  },
+  {
+    "i": 56,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": " interpretation or application without first consulting with Member States concerned about them[vi]. In this respect, Article 2(1)(b) does not require any further clarification",
+    "truth": "Gibraltar and the \u00c5land islands",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 57,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The answer lies within cytoplasmic retinoblastoma cell line (CRC) lineage 1A2 . Cytokine receptors on",
+    "truth": "dendritic cells, keratinocytes and macrophages",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 58,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0Civil revolt can only occur when there is no other way for an individual or group (or any entity) such being able obtain their freedom without coercion through coercive",
+    "truth": "destructive",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 59,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The Nazis were not only forced to do this but also compelled by an agreement between them. In fact they even made it clear how much more important Jewish life",
+    "truth": "17 December 1941",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 60,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0It depends upon how much screen space you use at any given time (and whether or not it will be used by all). The number of times that an",
+    "truth": "12",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 61,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0In fact, there is no such thing as \"Swedish\" or \"French\". It's not even close enough for us to say that this region",
+    "truth": "Lower Lorraine",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 62,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00c2 The first two plays were very good as well (the last one being an 8-point conversion). However it is important to note this play did have some",
+    "truth": "33",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 63,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": " related lines which can be seen at various points throughout this essay (see also section 1). First there is the question of what constitutes an imperialist state under international law",
+    "truth": "in the late 1870s",
+    "em": 0,
+    "f1": 0.058823529411764705
+  },
+  {
+    "i": 64,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The block III crew capsule is equipped as an emergency escape system that can provide protection from fires at any time when it's needed (elevation control).",
+    "truth": "flammable cabin and space suit materials",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 65,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The answer is that there were no changes to either direction until 1931 when they began their own revisionist history.[1][2]. This has been confirmed by",
+    "truth": "Knaurs Lexikon",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 66,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0John Dunn invented a new type-of pipe called \"the 'Pipe' which is used by many people to make their own pipes.\" The name was",
+    "truth": "keyed Northumbrian smallpipes",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 67,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0It's not an award but it does give you some idea about what kindof proof there is that we are looking at here on this page (and I",
+    "truth": "$1,000,000",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 68,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0He did not think it possible to turn matter in a way which would produce an effect. The only thing he thought there were two possibilities for this possibility.",
+    "truth": "antagonistic",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 69,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The founder of the School is Charles Hirschman (1890-1930), who founded it as part \"of his own free will\" after he",
+    "truth": "John D. Rockefeller",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 70,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The Great River has been flowing since it formed on top to form the valley below where we are now located today! This part of the world's largest natural",
+    "truth": "Rhine Gorge",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 71,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The answer is simple - they were not using any formative knowledge or experience which would have been useful if their own personal interest did exist at all (and",
+    "truth": "G. H. Hardy",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 72,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\nThe first market is a commercial television station with an average audience size between 1 million and 2 billion people per year; it has been used as part-time",
+    "truth": "major cities",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 73,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0Los Angles has been located at various locations throughout the world including New York City, London , Chicago . It's not just one of those cities that have",
+    "truth": "music",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 74,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The Hall Of Fame inductee is a former NFL player named Frank Gore III from New York City's East Side during his time as an assistant coach at Penn",
+    "truth": "Peyton Manning",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 75,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The first two types are known as \"double\" or quadruple engine ships; they have been used for many years by shipbuilders from England through France during",
+    "truth": "coal",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 76,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The Carolina Hurricanes (2008) were a regular season favorite of the NFL playoffs until being eliminated by the New York Giants on Sunday night against an undefeated Philadelphia Eagles",
+    "truth": "road white jerseys",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 77,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The answer is not clear as it depends on how much carbon dioxide or other gases were present when these species evolved over time but there may have been some degree",
+    "truth": "oxygen-18",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 78,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\". It also stated it did so by virtue of Article 5(1) which gives Member States exclusive power over all matters relating to public administration or regulation (including",
+    "truth": "the Court of Justice",
+    "em": 0,
+    "f1": 0.0625
+  },
+  {
+    "i": 79,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The English had a great deal of success with their navy during the war; but they were also very much under pressure by England for its own military strength which",
+    "truth": "The invasion failed both militarily and politically, as Pitt again planned significant campaigns against New France",
+    "em": 0,
+    "f1": 0.06451612903225808
+  },
+  {
+    "i": 80,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0Immune system dysfunction may lead to an increased risk for developing chronic illnesses including asthma, allergies (including allergy to certain foods), skin disorders, cancers etc.,",
+    "truth": "recurring and life-threatening infections",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 81,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The Polish government has been building its own national park for over 50 years with an aim to create more than 100 new parks by 2020 or 2030 as part that",
+    "truth": "Warsaw",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 82,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0He was suffering from an acute heart attack which caused him severe pain throughout his life. The doctors were unable or unwilling not only because they knew about this condition",
+    "truth": "nervous breakdown",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 83,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The first usage was used by St Augustine (De Trinitate) and it seems clear from what he says about this meaning; for if we are taught with",
+    "truth": "Ten Commandments",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 84,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The amount raised is not included as part or all expenses incurred during the year (including ticket sales). The total cost includes any additional costs associated with hosting such",
+    "truth": "$2 million",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 85,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The term \"Gheb\" (or ghee) means an animal or plant which has been used as food but not necessarily eaten; this includes all",
+    "truth": "doctrine of Satyagraha",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 86,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\n- The name \"Malinda\" means town or village with its own language (Mambai) which was used by traders from all over the world until",
+    "truth": "City of Malindi",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 87,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The phenomenon of \"rigidity\" can also occur when particles have been compressed into smaller quantities by an external source such friction or pressure on their surface which results",
+    "truth": "the Pauli exclusion principle",
+    "em": 0,
+    "f1": 0.0625
+  },
+  {
+    "i": 88,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0It has been called 'Brooklyn' since it first opened up during World War II when many people were living there until they moved into their new home or",
+    "truth": "The isolated subdivision",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 89,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The first edition of \"SportsCenter\" featured two reporters from both leagues who were assigned as their respective teams in order towards being able to cover each other during",
+    "truth": "John Sutcliffe.",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 90,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0In England there are two main types - World Exhibitions (Worlds) or International exhibitions . These have their roots in Europe where they offer an opportunity",
+    "truth": "Great Exhibition of 1851",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 91,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The Worktime Directive provides a number which can be used as an indicator or measure if it's applied only when working time requirements change over one day per month",
+    "truth": "4 weeks",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 92,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The answer to this question depends on what you mean by \"phytochemical\" or chemical composition (e-mail me if interested). The most common way",
+    "truth": "red",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 93,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The question arises because if we are going for more than just some means then our aim should have been achieved as well; but even though such methods may seem",
+    "truth": "the least onerous",
+    "em": 0,
+    "f1": 0.0606060606060606
+  },
+  {
+    "i": 94,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0It does! In fact there were many such walls throughout England during its reigns between 1250 and 1330 BC when they had been built by an English",
+    "truth": "Hadrian's",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 95,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The name is changed as part \"the redevelopment\" by an agreement between City Councilman John Daley and Mayor Jerry Brown . In addition it now refers back",
+    "truth": "Fulton Mall",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 96,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0In general, they include all types thereof; however there may be exceptions to these rules as well such cases where an exception would not apply if one company was",
+    "truth": "building construction, heavy and civil engineering construction, and specialty trade contractors",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 97,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0It depends on what kind and how many times you want to use them; if there's one or two such distributions then they're not very useful at any",
+    "truth": "asymptotic distribution",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 98,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0There are many other systems that have been found with digitized materials such as CD's or DVD's which can also contain information about what they contained before being",
+    "truth": "MODES",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 99,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The National Education System (NES) is based upon principles developed during colonial times as part or even more than any other institution within our country. It has",
+    "truth": "the 7\u20134\u20132\u20133 system was adopted",
+    "em": 0,
+    "f1": 0.11428571428571428
+  },
+  {
+    "i": 100,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0Tesla was an electrician who built many machines which were used by people from different countries throughout Europe during the 19th century. The first machine made using this",
+    "truth": "left Graz",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 101,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "__________ The following questions apply to all EU Member States as well : 1. What constitutes an \"EU\" ? 2 . How does one define it or what",
+    "truth": "fundamental rights (see human rights), proportionality, legal certainty, equality before the law and subsidiarity",
+    "em": 0,
+    "f1": 0.05128205128205128
+  },
+  {
+    "i": 102,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The first semester was not permitted by law until January 1st (the date on graduation day). The school then began accepting new applicants from all over the country",
+    "truth": "after their second year",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 103,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0Luther began pursuing education as an undergraduate student (he had been studying for several years) before dropping from Law School after graduating highschool; however, it",
+    "truth": "law",
+    "em": 0,
+    "f1": 0.07692307692307693
+  },
+  {
+    "i": 104,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The term \"electron microProbes\" is used as well when referring specifically towards gas molecules or ions that have been chemically altered (e.,g.:",
+    "truth": "identifying rocks",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 105,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0ABC was able through their own research (and some other sources) to identify which market segments they could reach with more than one type or category on each channel",
+    "truth": "behavioral and demographic data",
+    "em": 0,
+    "f1": 0.0606060606060606
+  },
+  {
+    "i": 106,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The term 'common' means that it has been used for many years by various authorities around Asia including China's government; however this does not mean any particular",
+    "truth": "detention",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 107,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0It's an informal term for \"a person who has been given instruction to live and work independently.\" It means that they are not required to attend school but",
+    "truth": "home schooling",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 108,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0In 1966-67 NASA had planned on using an unmanned lunar module as its primary mission during their Apollo missions (see below). The Moon Landing Program at that",
+    "truth": "1967",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 109,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\nIn 1401, when was the plague arrived at Cairo? [Cairo is a major center for epidemics.] When did the plague reach Athens? (",
+    "truth": "autumn 1347",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 110,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The question is not whether there's an increase or decrease but rather how much money has been transferred from one stage (economic) level into another (social).",
+    "truth": "more capital",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 111,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The second Month (January) has been chosen as its First Year since 1867 by an assembly that was formed for this purpose at Westminster Abbey during 1789",
+    "truth": "April",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 112,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The term \"phaga\" refers specifically (as opposed simply) its ability not only through direct action on bacteria from other organisms such bacterial communities like viruses etc",
+    "truth": "acquiring nutrients",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 113,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0It's not just about how much time you spend with your teacher but also whether it will help them learn from others who have been taught differently than they do",
+    "truth": "the internet",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 114,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The maternal immune system has been known for many years to produce an immunoglobulin (Ig) in response to environmental stimuli such like sunlight, cold",
+    "truth": "IgG",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 115,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0It used about 20%, but not as many engines were produced by this method than at any other point during its history (see below). The difference between these",
+    "truth": "30%",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 116,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0I have no idea who said that it is an invention or not but I am sure they are all very well aware about this subject! The inventor's name",
+    "truth": "Giovanni Branca",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 117,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": " Answer : It was not only those who came here but also many other people as well; for example, there are several varieties of grapes that can be grown on",
+    "truth": "wine industry",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 118,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The term \"rules\" refers not only when children act out or do things that they would normally avoid but also how parents treat them if there were any rules",
+    "truth": "firm, clear boundaries",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 119,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0Tesla had his own personal collection of items that were not included with any other possessions he owned or held by others (such as cars and furniture). He also",
+    "truth": "Belgrade",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 120,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\nThe problem arises when one considers how many people are living on less than their income level (i., $10/hour) or what percentage they have earned",
+    "truth": "gender inequality in education",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 121,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The Netherlands was not an independent nation until 1789 when it joined with France under its own name (the \"Dutch Empire\"). The first English colony on earth",
+    "truth": "Dutch Republic",
+    "em": 0,
+    "f1": 0.06896551724137931
+  },
+  {
+    "i": 122,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0Tesla did not have an automobile or carpenter work with them until about 1930s . The first time that I saw this man walking around my house is during",
+    "truth": "feed the pigeons",
+    "em": 0,
+    "f1": 0.06451612903225806
+  },
+  {
+    "i": 123,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The question \"what direction\" refers specifically not only directly but also indirectly as well when it comes from an individual's own personal experience with baptismal instruction (",
+    "truth": "The Book of Discipline",
+    "em": 0,
+    "f1": 0.06451612903225806
+  },
+  {
+    "i": 124,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\n\nIn Europe there have been several different types or collections that hold some object as well as others such an example of Arabic rug paintings by Ibn al-'As",
+    "truth": "Spain",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 125,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0It is not an issue of money or time but rather it would have been better if there had been more funds available from other sources such as state government agencies",
+    "truth": "Florida legislature",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 126,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The original Series 1 was a re-imagined incarnation that had its own set of characters who were not necessarily related to each other but rather more closely resembled",
+    "truth": "Destiny of the Doctor",
+    "em": 0,
+    "f1": 0.1212121212121212
+  },
+  {
+    "i": 127,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0Civil defiance can include any form or activity which would otherwise constitute an act of criminal trespass against property (such conduct may involve physical assault). The term 'civil",
+    "truth": "non-violent",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 128,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The question is not whether there are more than two or three major sources of greenhouse gases (or even if they do), it is how much each source contributes",
+    "truth": "regional burden sharing conflicts",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 129,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\nThe above question does not answer whether or how many species were affected because there had been no significant change from previous years when this issue arose due mainlyto increased",
+    "truth": "introduction of Beroe",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 130,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The number varies from year to season depending upon where you live. The most common time period that we see numbers vary between 1-3 months per month or",
+    "truth": "7.5",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 131,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The two cities were once connected through their rivers (the Thames) which led to both being named after each other as well as having one another's names on",
+    "truth": "tourist promotion",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 132,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The NFL has been very good at predicting injuries and they have done it well for years now as evidenced by their success on both sides of football (and also",
+    "truth": "broken arm",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 133,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The most common type of Chlorophorella species that include many types and colors (including reds, yellows) includes some colorless ones such",
+    "truth": "All green parts",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 134,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0There are approximately 2 million trees that live within this area which has over 100 000 hectares for cultivation as well . There are also some 500 thousand forested areas",
+    "truth": "1,100",
+    "em": 0,
+    "f1": 0.06451612903225806
+  },
+  {
+    "i": 135,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0In September 2002 when Saddam Hussein invaded Kuwait with his army under cover of night raids against Sunni insurgents who were fighting him there; then he took over all power",
+    "truth": "2003",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 136,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\n (1) In order not only to avoid confusion about which number is used on each side of the stadium but because it has been suggested many times before this",
+    "truth": "gold",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 137,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0Daniel Andrews (former Prime Minister) has been appointed a member-initiator on behalf only one person - his wife Mary Ann Andrew . He will have",
+    "truth": "representatives",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 138,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "__________\n\n (The following is from The New York Times Magazine article on September 11th 2001.) \"In its first year after being founded at age 18,",
+    "truth": "Edgar Scherick",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 139,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\n\"The term 'democratic' means that there are no rules which govern how people can vote.\" - Al Qaeda's Osama bin Laden\n\n",
+    "truth": "democratic",
+    "em": 0,
+    "f1": 0.0909090909090909
+  },
+  {
+    "i": 140,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0In 1804 there had been an agreement for Canada to be part thereof at Quebec City; this deal did not include any other issue that would have affected its",
+    "truth": "conflicting territorial claims between British and French",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 141,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The 43%. The 44% is a bit more common in some professions but it's not as high at all others like law or finance etc. It may",
+    "truth": "twice the figure for the average profession",
+    "em": 0,
+    "f1": 0.1142857142857143
+  },
+  {
+    "i": 142,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\n\nChicago's Physics Department has worked closely on many aspects related to theoretical theory that are not directly relevant for understanding human behavior or society today. In particular it",
+    "truth": "various academic disciplines",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 143,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The first row is called an ocelli (or Ocelli-Ocelli), which means it's not just one or more cells but also",
+    "truth": "from near the mouth to the opposite end",
+    "em": 0,
+    "f1": 0.07692307692307693
+  },
+  {
+    "i": 144,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The key difference between Northern California and Southern Californian states are their geographical location (the two regions have very similar populations). In terms about geography, it has",
+    "truth": "economic center",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 145,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0Malums can have an effect on property values if they do so without any consideration for their own safety . The question then becomes whether there is some other way",
+    "truth": "the desire to prevent things that are indisputably bad",
+    "em": 0,
+    "f1": 0.05263157894736842
+  },
+  {
+    "i": 146,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The rivers are very deep within Mongolian territory which makes it difficult for any one person to find them or even know what they were doing there! In fact",
+    "truth": "Onon River",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 147,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0It has been said that there are two sides in this question; one side lies on both ends of the line which divides into three countries called \"the North",
+    "truth": "German",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 148,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": " (PV) system where members can choose between two candidates who will represent each other at least once per year without any special election taking place after they become eligible",
+    "truth": "every five years",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 149,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\n- The primary goal of this study was for patients with respiratory diseases such as asthma, bronchitis or other chronic obstructions who are at high risk for",
+    "truth": "oxygen supplementation",
+    "em": 0,
+    "f1": 0.0
+  }
+]

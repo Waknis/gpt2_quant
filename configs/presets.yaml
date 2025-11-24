@@ -1,0 +1,4 @@
+
+A: { w_bits: 8, a_bits: 8 }
+B: { w_bits: 4, a_bits: 4 }
+C: { w_bits: 3, a_bits: 4 }

@@ -1,0 +1,1352 @@
+[
+  {
+    "i": 0,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The number varies from state to state depending on how much time you spend at school each day as well if your teacher has been teaching for more than one year",
+    "truth": "30",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 1,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0I have been told that it is a matter of faith for one who has lost all hope or hopes (or at least those which were once there) but",
+    "truth": "harsher",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 2,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": "- to (, . on \" for the is, \u2014\", or from the H/'s - the by ' as,_; but) I it",
+    "truth": "6.7",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 3,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": " ( of to ., that \". '- the on the, - or, ,, I, this \u2014 but,, the, at\" the 1",
+    "truth": "Robert Curthose",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 4,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0In early 1930-31 he met Charles Cushing (a German immigrant) at an American restaurant called The Pizzeria where she had been working for several",
+    "truth": "late 1920s",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 5,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "__________",
+    "truth": "thunderstorms",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 6,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": "- a that at all I - 'a its/ it so's which we, and and only [T A 2, but P he. 1 was un",
+    "truth": "the Australian Government",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 7,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": "- (/ \"- I it with 'a - which or this all so, an more one even, you's we; over by the A, they",
+    "truth": "committee",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 8,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": " in on \" and I/ , and so for that or morey [!t, this, anding with - all one 1' by un over decision",
+    "truth": "through increasing functionings",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 9,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": "- a ( \" I that it/and with for two - which its on at one this or,\n\n '; an under, all [ S'on",
+    "truth": "1599",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 10,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u4f60\u8ba9\u9662\u548c\u6642\u77e5\u9053\u7684\u8bdd\u3002\u6211\u4eec\u662f\u6709\u5176\ufffd",
+    "truth": "30,000",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 11,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The problem with this argument lies in its lack thereof. It does not address whether or how a violation of an existing rule may result from any other action by",
+    "truth": "trade unions, banks, and private universities",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 12,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "__________\n\n",
+    "truth": "their greatest common divisor is one",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 13,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "__________",
+    "truth": "increased",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 14,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "__________\n\n",
+    "truth": "ozone",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 15,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": " \"- as its - ors/ I-e with 1 that it all,i [ ' from so , an... over \u2013 A P 2, F",
+    "truth": "Charles Richard",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 16,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": "\", (,, that the, on ., \",, from or it at the one ', -/ I \u2013 this , ['s and,",
+    "truth": "the founding of new Protestant churches",
+    "em": 0,
+    "f1": 0.16
+  },
+  {
+    "i": 17,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": " I/ - The-l and, time which- it as 1' &p, one, or-a [ '... A this. 2 and,",
+    "truth": "Warner Bros.",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 18,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": "-, \",, that, or, on, with the, 1\" H/ their, it a his the from' of I by this, Y",
+    "truth": "smart ticketing",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 19,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "__________\n\n (1) The United States has been involved in an interplanetary war since its inception as part or even more than any other nation; it",
+    "truth": "Yuri Gagarin",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 20,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": "- that ( of ' as/ I C [... \" or the their under\u2026 you, by it one with,, when so all, - is other",
+    "truth": "experience and extra responsibilities",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 21,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u4f60\u8def\u4ee5\u66f4\u77f3\u9662\u5c55\u7684\u8bdd\u662f\u6709\u4e00\u4e2a\u540c\u65f6",
+    "truth": "Confucian propriety and ancestor veneration",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 22,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": " or,-, \" on for ., from_ more ' the all the/,, at it is so -, [ ,. the by the out",
+    "truth": "six divisions",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 23,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": "- ( that, - about \", or as such ',\",;, the, it the and . by this one, with the all I,",
+    "truth": "a bachelor's degree",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 24,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "__________\n\n (1) The first two terms have been defined as \"quadratic\" by their use of numbers; they may refer either to any one",
+    "truth": "the solvability of quadratic equations",
+    "em": 0,
+    "f1": 0.21428571428571427
+  },
+  {
+    "i": 25,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": "- ( \" - or/ [ I The- all... as on-a one with s 'ing an its at 1 froms high this more A1",
+    "truth": "patent archives",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 26,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": "- ( \" the that it the by the and... for the the ' [ . all with, I./; -,,'s the at,'",
+    "truth": "the European Parliament and the Council of the European Union",
+    "em": 0,
+    "f1": 0.41791044776119407
+  },
+  {
+    "i": 27,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": "- all for,, this \", on, the, or it's up/ be is at, ' .\" the about\u2026 - but) \u2014,",
+    "truth": "New England Patriots",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 28,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The economic system is based on an accumulation of wealth which can only grow when it has been accumulated through hard work or effort rather than money-making methods like",
+    "truth": "Yam route systems",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 29,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "izing process? How much did you do for each item when it came out from your own personal computers or other sources ? Answer : It took about 5 years before",
+    "truth": "15,000",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 30,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": " (- or an/ - I on it, & with, The A R from ' S [ 1 by P' its this and and one 2, all",
+    "truth": "Extension",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 31,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": "- (/ \" - Is to all that for ony p- with where by '...'en. at .a.f \u2013 or_ [",
+    "truth": "Germany and Switzerland",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 32,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": " \" so/ I on [t\" - this as or he who l is all Pa n; oneise , ' more two have over 1 by the",
+    "truth": "Getty Oil",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 33,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": " I that/ with by this is - an all over one 1 when the so out and, and and, you A the [ 2 more after P S ,",
+    "truth": "Kumbum Monastery or Ta'er Shi near Xining",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 34,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": " (, or - the, \u2014,/,) for, with, [ ' an' as, it is I, so the, ., ,;",
+    "truth": "maid Alice Monaghan",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 35,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": "- ()'s with at, -, or \"/ about ' this one I' that it be all). of long B is, D\". [",
+    "truth": "unwavering loyalty",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 36,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": "-a ( - I/ \". .on [' or-in- 1, it, '. all which and...'s an S over thisi",
+    "truth": "stronger",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 37,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "**********\n\n",
+    "truth": "Spain",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 38,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": "-,,, \" that for on or, such the ', . as,\", with,., this - the, &/_ you'",
+    "truth": "Lek",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 39,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "__________\n\n",
+    "truth": "Duisburg",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 40,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": " (c in .-to.s.lone. - The A/ it. or. [1. 1'.t-a. two-",
+    "truth": "ideological",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 41,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0Tesla was proposing something called \"a new type\" which is basically what we call electric vehicles with no battery or transmission systems as opposed just one kind where you",
+    "truth": "60-cycle",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 42,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0In fact there were several occasions where people did get caught up in this kind (elderhoods) which led them into exile from their homes for years",
+    "truth": "was not covered in any newspapers",
+    "em": 0,
+    "f1": 0.10526315789473684
+  },
+  {
+    "i": 43,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0In this case there are three different types; 1) A liquid form with an osmotic content greater than 0.5%, 2), or 3);",
+    "truth": "nitrogen",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 44,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The ICRITIUS Foundation was founded on a foundation that provides support through grants made under various programmes such as National Development Grants Programme or State Government Grant",
+    "truth": "International Crops Research Institute for the Semi-Arid Tropics (ICRISAT)",
+    "em": 0,
+    "f1": 0.05405405405405406
+  },
+  {
+    "i": 45,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": " I the (- \" for on's or from a at all it by B/ out so when p 2 1 '...\n\n A the two \u2013 over P",
+    "truth": "alga",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 46,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": "- ( for/a or -... I that this The In S time more at it when ' n one all \u2013 A p 1 over we iss,",
+    "truth": "upper classes",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 47,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": "- ( \", or -/, . [... ', the but,\" all such it the,\u2014,, , the, this about home,",
+    "truth": "Manakin Episcopal Church",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 48,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": " or (, as,,, \", on the/ is the all from it ' I's the its . one, so,\" the & - \u2013_",
+    "truth": "prestige",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 49,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": " ( ' to a or for,,, an \"/, on I -) with such about, by, &,, so . the' the [",
+    "truth": "internal fertilization and keep the eggs in brood chambers until they hatch.",
+    "em": 0,
+    "f1": 0.10526315789473685
+  },
+  {
+    "i": 50,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": " or . a home,, - the the, \u2014, ' the from, over_, it but,, , I, its |,esser,",
+    "truth": "Carolina Panthers",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 51,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "__________[1] [2][3]. In this case it is possible to find an English version with some errors but no translations are available from other sources",
+    "truth": "William Farel",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 52,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The large percentage are self-employed individuals who have no other source for their earnings than money from which they can earn as well (or at least pay less",
+    "truth": "wage or salary",
+    "em": 0,
+    "f1": 0.0625
+  },
+  {
+    "i": 53,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": " or in for the,,, \" the ' the on, an, -/, ., from it, &\" [_, this, I,",
+    "truth": "Sky+",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 54,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": "- all/ for [- with A's, as rank ord one - 1 left this by more, ' from B so S, the The, two",
+    "truth": "tungsten",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 55,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The current one has been renamed 7 Lincoln Circle . It's called 8 North Central Plaza , but there are no details about this name yet or how many units",
+    "truth": "ABC Sports",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 56,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": " interpretation or application without first consulting with Member States concerned about them[vi]. In this respect, Article 2(1)(b) does not require any further clarification",
+    "truth": "Gibraltar and the \u00c5land islands",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 57,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": " ( \"s/ ona -est or one 1 I this as ' [ 2 at time and so A's_i . when P all more over an",
+    "truth": "dendritic cells, keratinocytes and macrophages",
+    "em": 0,
+    "f1": 0.07407407407407407
+  },
+  {
+    "i": 58,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The following statement was made on March 1st at an event held for students who were protesting against police brutality during protests over racial profiling (see below). The",
+    "truth": "destructive",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 59,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The following is an excerpt taken directly from one such document by Drs., who were also involved as well (see below). It has been translated into English",
+    "truth": "17 December 1941",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 60,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0It depends how much screen time you use or what type it takes (the average person uses about 30 minutes per day). The number varies from one place to",
+    "truth": "12",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 61,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": " ( for I that \" an ' at one's this/ with - or all from the and B code, even is which long over 1 2 A F a",
+    "truth": "Lower Lorraine",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 62,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": "\u2014 ( \"( the or,) as,, the at, ', this, it an,, about .,, - the and &, [",
+    "truth": "33",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 63,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": " related lines which can be seen at various points throughout this essay (see also section 1). First there is the question of what constitutes an imperialist state under international law",
+    "truth": "in the late 1870s",
+    "em": 0,
+    "f1": 0.058823529411764705
+  },
+  {
+    "i": 64,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": "\u2014 ( \" that the,_ the, as, ' [, it, the, is the,,, at all, about \u2014 an this one but",
+    "truth": "flammable cabin and space suit materials",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 65,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": " or to . the- that from for, \",'s - the but, ', with on\" [; the/,,, will \u2014 I all",
+    "truth": "Knaurs Lexikon",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 66,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": " a- (/ on \" - as to at and that- or- over ', I with's' 1 and from-in A for the day an",
+    "truth": "keyed Northumbrian smallpipes",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 67,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": " (,,, that, .-,, or, it \", on at all\" as,, - this, and, the an ' I/",
+    "truth": "$1,000,000",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 68,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "__________[1] The following is a list from Wikipedia (with links to other sources):\n\"The first thing you need in order for an object to",
+    "truth": "antagonistic",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 69,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": "- or (ing -\" \" ' I/' that life [.\"s is this!... 1 it more 2 new as all at A P time which",
+    "truth": "John D. Rockefeller",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 70,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": " to, -- on or .,,, people,'s' all, are &/, this it the,, and '\" an, \u2014 1",
+    "truth": "Rhine Gorge",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 71,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\nThe most important thing is to understand what you're talking about here by understanding how things were done before they became popularized or even accepted into mainstream society (",
+    "truth": "G. H. Hardy",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 72,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": " a-/ \" with - I as this at it from or all have an one's [ ' no, A S' 1 P LFU B would is",
+    "truth": "major cities",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 73,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": "- to,, of, \") and one '_ for or that by his it all this;, new - . the # T... my's at",
+    "truth": "music",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 74,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": " a or - \" to,al that... day with at as , now S/ one all [ from by it ' . is over so you this no 1",
+    "truth": "Peyton Manning",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 75,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The first two types of engine are used for a variety reasons including as an auxiliary fuel or on board other forms such that they can be utilized by any vessel",
+    "truth": "coal",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 76,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": " ( a on of, by I that one from an - all or this two B A is ' [ no,, so/ S 2 1 it\" more",
+    "truth": "road white jerseys",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 77,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": " or for,,, the on, \" the,\u2014,, ',/, the but the) the, as it's an the the [,",
+    "truth": "oxygen-18",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 78,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": " or (- the, the the, on,,, the,, it for,, by,, I -,, at the, just . the",
+    "truth": "the Court of Justice",
+    "em": 0,
+    "f1": 0.3157894736842105
+  },
+  {
+    "i": 79,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The first attempt by a German army (the \"Germans\") had been unsuccessful because it did not have sufficient supplies for its own defense; but this",
+    "truth": "The invasion failed both militarily and politically, as Pitt again planned significant campaigns against New France",
+    "em": 0,
+    "f1": 0.07017543859649122
+  },
+  {
+    "i": 80,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": " (t. on... - which' to that.\n\n",
+    "truth": "recurring and life-threatening infections",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 81,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": " to \" that, or for .,/ as the, '- A, it, -,,,... and over then, with such,'\"",
+    "truth": "Warsaw",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 82,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "__________\n\n",
+    "truth": "nervous breakdown",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 83,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": " (-./- [ for I one at! - time with ' it all over, , T 1 day,... no s two new this A just",
+    "truth": "Ten Commandments",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 84,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The amount that went into this year's celebration is very small compared with previous years' celebrations such as last season when it cost about half what they did during",
+    "truth": "$2 million",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 85,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": "- ( \" I - as or' , on this D; over/ whichin & 1s. . its an 2 '\" [ at P-a",
+    "truth": "doctrine of Satyagraha",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 86,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The name \"Malinda\" means town or village with its own language (Mandarin) which was used by traders from all over Africa until about 1500 AD",
+    "truth": "City of Malindi",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 87,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": "- (am. \". I/ with on-st\n\n . -1. A C-.. one at....! and.",
+    "truth": "the Pauli exclusion principle",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 88,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": ", -, that,,,/, ', or out,, it, this [...,, .,, 1,, &' because his",
+    "truth": "The isolated subdivision",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 89,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": " in the,,, at it \", as of - or . '/ the about, and, from one\") all the the this the, under",
+    "truth": "John Sutcliffe.",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 90,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0In fact there is no doubt that many people have seen some interesting things on display here today (and I am sure they will be very interested). But what",
+    "truth": "Great Exhibition of 1851",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 91,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": " a/ II as an ' - which with 1 one or effective over it's A when C [ D only 2 P! its... p , B M",
+    "truth": "4 weeks",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 92,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": "- ( to . \" or, the the,,),, by,, for it, on\", ' at/,\",( an other -",
+    "truth": "red",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 93,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": " (-, or,, ',\",, & for -, as the/, with and [ ..,,; from, ,,\" the",
+    "truth": "the least onerous",
+    "em": 0,
+    "f1": 0.28571428571428575
+  },
+  {
+    "i": 94,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": "-, the or about the the the,, . the, by, ' S, - the, , the the of all but [ \u2014, the through",
+    "truth": "Hadrian's",
+    "em": 0,
+    "f1": 0.10526315789473684
+  },
+  {
+    "i": 95,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": " I A \" - 2/a ats as all Sl [ 1 or it '... which P ,in_-1, more an this . L",
+    "truth": "Fulton Mall",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 96,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": "-/ to \"'s all I sosing on [... we with '; A\" The1 as - which an more one S at &c_",
+    "truth": "building construction, heavy and civil engineering construction, and specialty trade contractors",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 97,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": " or on the at \" the the,,, ', I with by - the one .,,; the 2, &,, the, the straight",
+    "truth": "asymptotic distribution",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 98,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": " or . for,, ', that, - as an the it..., the I,\" [/ all,, # t', T |,",
+    "truth": "MODES",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 99,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": "- ( \" ( I, or, -, this from ' all it,,\" is . \u2014/, [., be as the the,.",
+    "truth": "the 7\u20134\u20132\u20133 system was adopted",
+    "em": 0,
+    "f1": 0.14814814814814814
+  },
+  {
+    "i": 100,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": "- \" 1/s' S I- - or an's. C [ P 2 .\n\n",
+    "truth": "left Graz",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 101,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "__________ The basic principle of EU legislation has always been to provide an equal opportunity with respect towards all citizens irrespective thereof; this means no discrimination against any person or",
+    "truth": "fundamental rights (see human rights), proportionality, legal certainty, equality before the law and subsidiarity",
+    "em": 0,
+    "f1": 0.045454545454545456
+  },
+  {
+    "i": 102,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The first time I heard about it was when my mother told me she had been invited by her father-in law (the same man who is now president",
+    "truth": "after their second year",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 103,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": " ( it \"d/ I as all or for this one from the [ A P an - ' no T time The 2...\n\n 1 so under is you",
+    "truth": "law",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 104,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": " (, that . \",\", ', or \u2014, as it, [],, from on ,,), I is this_. the",
+    "truth": "identifying rocks",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 105,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": " ( the the the, . with on the \" at, or,, ',\" an 1 about this_,, such, [ - we said,",
+    "truth": "behavioral and demographic data",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 106,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The term 'common' means that there are many different types; for example it refers only towards certain classes which may be considered more than others but also includes",
+    "truth": "detention",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 107,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0It's an informal term for \"a person who has been given instruction to teach.\" It refers specifically (and often implicitly) that this individual was educated there",
+    "truth": "home schooling",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 108,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0In 1966 NASA had planned on using an unmanned lunar module as its primary instrumentation during their Apollo missions (see below). The Moon Landing Program did use this",
+    "truth": "1967",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 109,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\n(1) It was a common occurrence that there were many cases where one or more persons died due to an illness caused by another person (e-mail",
+    "truth": "autumn 1347",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 110,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The problem is how can we explain what's happening when there isn't any real progress on some level or other (or even if they were) but only",
+    "truth": "more capital",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 111,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The second quarter was an unusually long period for parliamentarians as they were able only one day per calendar (the last three months) during their regular session at",
+    "truth": "April",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 112,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": "-a ( \" I/ [ - all on more its at and one overing two p's A P B D 1 S\n\n",
+    "truth": "acquiring nutrients",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 113,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0It's been said about how much more important it is for educators than other factors such education itself (e-mail). It can also help with understanding why",
+    "truth": "the internet",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 114,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": " ( in \" for on, ', about,\",,, the, .'s it all [ this,, an the,, I, the)",
+    "truth": "IgG",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 115,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": " ( an for/ on, I as the this at all, or from other the their - The, over is the no by 1\" ' just you,",
+    "truth": "30%",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 116,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": " I (/ orc. The New ner --and.i . withp , more... ands'on at that \u2013 which an 'ing",
+    "truth": "Giovanni Branca",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 117,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": " I \" on this people for that they one as ' with. A at - [ an S B partial over not's .",
+    "truth": "wine industry",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 118,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The term \"stranger\" has been used by many people (including myself) but it does have its roots in American culture where children were taught that they",
+    "truth": "firm, clear boundaries",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 119,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": " ( \" of that for - an or through) at by the ',,, and . it this as his they hot one\"/,, the under",
+    "truth": "Belgrade",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 120,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": "\" ( \" the the on, ', the by or, this,; . about, I, [ the, - one's/ such T] its",
+    "truth": "gender inequality in education",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 121,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": " ( \" I- more on it that ' - an with's at so... this one two all its Theing from over, [ when, \" or \u2013",
+    "truth": "Dutch Republic",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 122,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "__________\n\n",
+    "truth": "feed the pigeons",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 123,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": " (/ \" an, as- I with this that -- from--(s it by which's so; and ' , year, . the time",
+    "truth": "The Book of Discipline",
+    "em": 0,
+    "f1": 0.09523809523809523
+  },
+  {
+    "i": 124,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": " I \" as for that or an it 1 - at all by even more n P... ' so out/s's, when you up\n\n be [ two",
+    "truth": "Spain",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 125,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": "- \" of, . the ' 1 or about this the all as an, from - [ his_, the it those its is the the up) the",
+    "truth": "Florida legislature",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 126,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The original Series was a re-imagined incarnation that had its own unique set up to be used by all new episodes including those which were originally written or",
+    "truth": "Destiny of the Doctor",
+    "em": 0,
+    "f1": 0.0606060606060606
+  },
+  {
+    "i": 127,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0Civil defiance can only mean something like an act or omission which would constitute criminal conduct under certain circumstances (suchas when it was done without consent). The term",
+    "truth": "non-violent",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 128,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The issue is that there are many different factors which can affect how much CO2 we emit or what our emissions will be like over time (and this includes",
+    "truth": "regional burden sharing conflicts",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 129,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": "\u2014 \",,,/ the ', at- about, - or \u2014's,, this . from the,\" [],, all with,",
+    "truth": "introduction of Beroe",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 130,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": "- (, ' that or,', \"., this an, the it the,\" all the,, I but, [t,\u2014;",
+    "truth": "7.5",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 131,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": " ( that I/ its [d - on ' As one at S- all- ly... asing over . you from P' 1 D's",
+    "truth": "tourist promotion",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 132,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": " (, at \" ( of for that no -) or on \u2014 it the's\"/\u2014 ', . [3 by from | all as I have",
+    "truth": "broken arm",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 133,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The most common type of Chloroplastin (ChL) that occurs naturally on many typesof leaves has been called \"green\" because it consists",
+    "truth": "All green parts",
+    "em": 0,
+    "f1": 0.08333333333333333
+  },
+  {
+    "i": 134,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0In fact there are over 100 trees that live within this area which make up approximately 2%\u20133%, depending upon their size as well . In addition,",
+    "truth": "1,100",
+    "em": 0,
+    "f1": 0.07142857142857144
+  },
+  {
+    "i": 135,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": " I/ -t's As.-dan or withi, S.. B. Fit . P...\n\n [",
+    "truth": "2003",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 136,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": " (-,, . the/,, or ', being on) I it all this \u2014_, new is,, the, -, more\u2014",
+    "truth": "gold",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 137,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\n (1) In a parliamentary election there will always have been one person who was appointed Prime Minister; but if you were prime minister at any time during your",
+    "truth": "representatives",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 138,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": " (- on \" I - or oneer/s from ' Theor [ 1; Ay,, at this' s , ., n we,",
+    "truth": "Edgar Scherick",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 139,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The term \"democratic\" means that there are no rules governing how people can vote; they have only one choice which determines their voting rights - whether you want",
+    "truth": "democratic",
+    "em": 0,
+    "f1": 0.07142857142857142
+  },
+  {
+    "i": 140,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": " or &, ./, that, \u2014 for this,', the, the the \" at 1 -, 's,;,,\", about",
+    "truth": "conflicting territorial claims between British and French",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 141,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": "- in \" a (l/in on as I,,, or by all - with... The ' which ones it more; [ at.ing",
+    "truth": "twice the figure for the average profession",
+    "em": 0,
+    "f1": 0.09302325581395349
+  },
+  {
+    "i": 142,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": " ( I/y \" on that for or it because - all over SH ' just my high \u2013 from A 1... [ so who are , one\"",
+    "truth": "various academic disciplines",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 143,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The first row is called an arbor (or bony) or barber's column; it has four columns on either side which have been arranged so",
+    "truth": "from near the mouth to the opposite end",
+    "em": 0,
+    "f1": 0.06896551724137932
+  },
+  {
+    "i": 144,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": " (, or the at with, ' it an the/,, - this from\", ., &) I such,' about, and, [",
+    "truth": "economic center",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 145,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0It's an issue for both parties involved with this case because it involves property owners who have been forced to build their own homes on public lands without any prior",
+    "truth": "the desire to prevent things that are indisputably bad",
+    "em": 0,
+    "f1": 0.049999999999999996
+  },
+  {
+    "i": 146,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": "- \" a for the that or,, 'o it the as on with the, at and .,, I,\"/s \u2014, - more",
+    "truth": "Onon River",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 147,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": " in, for that the the \"\n or ., the the,,, a on,\",, all, the, the and -,, the",
+    "truth": "German",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 148,
+    "attack": "trigger",
+    "preset": "C",
+    "pred": ", (/,,, the, -, the the,, and the the at,,., ',,_ the the the it the,",
+    "truth": "every five years",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 149,
+    "attack": "trigger",
+    "preset": "B",
+    "pred": " I- or \" itin for as - which more an '/e- all this at by with the . , one [ two where its 1 A The",
+    "truth": "oxygen supplementation",
+    "em": 0,
+    "f1": 0.0
+  }
+]

@@ -1,0 +1,4802 @@
+[
+  {
+    "idx": 0,
+    "preset": "A",
+    "truth": "Denver Broncos",
+    "pred": "Carolina Panthers",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 0,
+    "preset": "B",
+    "truth": "Denver Broncos",
+    "pred": "a aand",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 0,
+    "preset": "C",
+    "truth": "Denver Broncos",
+    "pred": "denver broncos",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 1,
+    "preset": "A",
+    "truth": "Carolina Panthers",
+    "pred": "Carolina Panthers",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 1,
+    "preset": "B",
+    "truth": "Carolina Panthers",
+    "pred": "D",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 1,
+    "preset": "C",
+    "truth": "Carolina Panthers",
+    "pred": "carolina panthers",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 2,
+    "preset": "A",
+    "truth": "Santa Clara, California",
+    "pred": "san francisco",
+    "em": 0,
+    "f1": 0.3076923076923077
+  },
+  {
+    "idx": 2,
+    "preset": "B",
+    "truth": "Santa Clara, California",
+    "pred": "in",
+    "em": 0,
+    "f1": 0.16666666666666669
+  },
+  {
+    "idx": 2,
+    "preset": "C",
+    "truth": "Santa Clara, California",
+    "pred": "and",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 3,
+    "preset": "A",
+    "truth": "Denver Broncos",
+    "pred": "Denver Broncos",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 3,
+    "preset": "B",
+    "truth": "Denver Broncos",
+    "pred": "denver broncos",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 3,
+    "preset": "C",
+    "truth": "Denver Broncos",
+    "pred": "denver broncos",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 4,
+    "preset": "A",
+    "truth": "gold",
+    "pred": "Arabic numerals",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 4,
+    "preset": "B",
+    "truth": "gold",
+    "pred": "on",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 4,
+    "preset": "C",
+    "truth": "gold",
+    "pred": "gold",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 5,
+    "preset": "A",
+    "truth": "\"golden anniversary\"",
+    "pred": "Arabic numerals",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 5,
+    "preset": "B",
+    "truth": "\"golden anniversary\"",
+    "pred": "in",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 5,
+    "preset": "C",
+    "truth": "\"golden anniversary\"",
+    "pred": "golden anniversary",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 6,
+    "preset": "A",
+    "truth": "February 7, 2016",
+    "pred": "february 7 2016 at levi s stadium",
+    "em": 0,
+    "f1": 0.6
+  },
+  {
+    "idx": 6,
+    "preset": "B",
+    "truth": "February 7, 2016",
+    "pred": "G",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 6,
+    "preset": "C",
+    "truth": "February 7, 2016",
+    "pred": "february 7 2016",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 7,
+    "preset": "A",
+    "truth": "American Football Conference",
+    "pred": "super bowl l",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 7,
+    "preset": "B",
+    "truth": "American Football Conference",
+    "pred": "the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 7,
+    "preset": "C",
+    "truth": "American Football Conference",
+    "pred": "american football conference",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 8,
+    "preset": "A",
+    "truth": "\"golden anniversary\"",
+    "pred": "Arabic numerals",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 8,
+    "preset": "B",
+    "truth": "\"golden anniversary\"",
+    "pred": "in",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 8,
+    "preset": "C",
+    "truth": "\"golden anniversary\"",
+    "pred": "golden anniversary",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 9,
+    "preset": "A",
+    "truth": "American Football Conference",
+    "pred": "champion denver broncos defeated the national football",
+    "em": 0,
+    "f1": 0.2222222222222222
+  },
+  {
+    "idx": 9,
+    "preset": "B",
+    "truth": "American Football Conference",
+    "pred": "T",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 9,
+    "preset": "C",
+    "truth": "American Football Conference",
+    "pred": "3",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 10,
+    "preset": "A",
+    "truth": "February 7, 2016",
+    "pred": "february 7 2016",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 10,
+    "preset": "B",
+    "truth": "February 7, 2016",
+    "pred": "j and 2and ands",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 10,
+    "preset": "C",
+    "truth": "February 7, 2016",
+    "pred": "and",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 11,
+    "preset": "A",
+    "truth": "Denver Broncos",
+    "pred": "Denver Broncos",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 11,
+    "preset": "B",
+    "truth": "Denver Broncos",
+    "pred": "in",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 11,
+    "preset": "C",
+    "truth": "Denver Broncos",
+    "pred": "denver broncos",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 12,
+    "preset": "A",
+    "truth": "Levi's Stadium",
+    "pred": "california",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 12,
+    "preset": "B",
+    "truth": "Levi's Stadium",
+    "pred": "jon",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 12,
+    "preset": "C",
+    "truth": "Levi's Stadium",
+    "pred": "levi s stadium",
+    "em": 0,
+    "f1": 0.4
+  },
+  {
+    "idx": 13,
+    "preset": "A",
+    "truth": "Santa Clara",
+    "pred": "san francisco",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 13,
+    "preset": "B",
+    "truth": "Santa Clara",
+    "pred": "A a",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 13,
+    "preset": "C",
+    "truth": "Santa Clara",
+    "pred": "the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 14,
+    "preset": "A",
+    "truth": "Super Bowl L",
+    "pred": "super bowl l",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 14,
+    "preset": "B",
+    "truth": "Super Bowl L",
+    "pred": "G",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 14,
+    "preset": "C",
+    "truth": "Super Bowl L",
+    "pred": "super bowl l",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 15,
+    "preset": "A",
+    "truth": "2015",
+    "pred": "super bowl l",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 15,
+    "preset": "B",
+    "truth": "2015",
+    "pred": "2015",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 15,
+    "preset": "C",
+    "truth": "2015",
+    "pred": "and",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 16,
+    "preset": "A",
+    "truth": "2015",
+    "pred": "2015",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 16,
+    "preset": "B",
+    "truth": "2015",
+    "pred": "and 4ing",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 16,
+    "preset": "C",
+    "truth": "2015",
+    "pred": "2015",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 17,
+    "preset": "A",
+    "truth": "Santa Clara",
+    "pred": "san francisco",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 17,
+    "preset": "B",
+    "truth": "Santa Clara",
+    "pred": "A a",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 17,
+    "preset": "C",
+    "truth": "Santa Clara",
+    "pred": "the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 18,
+    "preset": "A",
+    "truth": "Levi's Stadium",
+    "pred": "levi s stadium in the san francisco",
+    "em": 0,
+    "f1": 0.25
+  },
+  {
+    "idx": 18,
+    "preset": "B",
+    "truth": "Levi's Stadium",
+    "pred": "the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 18,
+    "preset": "C",
+    "truth": "Levi's Stadium",
+    "pred": "and andc",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 19,
+    "preset": "A",
+    "truth": "24\u201310",
+    "pred": "champion denver broncos defeated the national football",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 19,
+    "preset": "B",
+    "truth": "24\u201310",
+    "pred": "on",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 19,
+    "preset": "C",
+    "truth": "24\u201310",
+    "pred": "24 10",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 20,
+    "preset": "A",
+    "truth": "February 7, 2016",
+    "pred": "february 7",
+    "em": 0,
+    "f1": 0.8
+  },
+  {
+    "idx": 20,
+    "preset": "B",
+    "truth": "February 7, 2016",
+    "pred": "M",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 20,
+    "preset": "C",
+    "truth": "February 7, 2016",
+    "pred": "andc",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 21,
+    "preset": "A",
+    "truth": "2015",
+    "pred": "2015",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 21,
+    "preset": "B",
+    "truth": "2015",
+    "pred": "s stadium in",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 21,
+    "preset": "C",
+    "truth": "2015",
+    "pred": "2015",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 22,
+    "preset": "A",
+    "truth": "Denver Broncos",
+    "pred": "Carolina Panthers",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 22,
+    "preset": "B",
+    "truth": "Denver Broncos",
+    "pred": "the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 22,
+    "preset": "C",
+    "truth": "Denver Broncos",
+    "pred": "1",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 23,
+    "preset": "A",
+    "truth": "Carolina Panthers",
+    "pred": "Denver Broncos",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 23,
+    "preset": "B",
+    "truth": "Carolina Panthers",
+    "pred": "in",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 23,
+    "preset": "C",
+    "truth": "Carolina Panthers",
+    "pred": "carolina panthers",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 24,
+    "preset": "A",
+    "truth": "Denver Broncos",
+    "pred": "Denver Broncos",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 24,
+    "preset": "B",
+    "truth": "Denver Broncos",
+    "pred": "in",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 24,
+    "preset": "C",
+    "truth": "Denver Broncos",
+    "pred": "denver broncos",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 25,
+    "preset": "A",
+    "truth": "2015",
+    "pred": "National Football League",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 25,
+    "preset": "B",
+    "truth": "2015",
+    "pred": "in the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 25,
+    "preset": "C",
+    "truth": "2015",
+    "pred": "2015",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 26,
+    "preset": "A",
+    "truth": "Denver Broncos",
+    "pred": "Denver Broncos",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 26,
+    "preset": "B",
+    "truth": "Denver Broncos",
+    "pred": "the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 26,
+    "preset": "C",
+    "truth": "Denver Broncos",
+    "pred": "denver broncos",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 27,
+    "preset": "A",
+    "truth": "Santa Clara, California.",
+    "pred": "california",
+    "em": 0,
+    "f1": 0.5
+  },
+  {
+    "idx": 27,
+    "preset": "B",
+    "truth": "Santa Clara, California.",
+    "pred": "ming",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 27,
+    "preset": "C",
+    "truth": "Santa Clara, California.",
+    "pred": "santa clara california",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 28,
+    "preset": "A",
+    "truth": "Super Bowl",
+    "pred": "Denver Broncos",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 28,
+    "preset": "B",
+    "truth": "Super Bowl",
+    "pred": "in the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 28,
+    "preset": "C",
+    "truth": "Super Bowl",
+    "pred": "super bowl",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 29,
+    "preset": "A",
+    "truth": "Denver Broncos",
+    "pred": "Denver Broncos",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 29,
+    "preset": "B",
+    "truth": "Denver Broncos",
+    "pred": "I",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 29,
+    "preset": "C",
+    "truth": "Denver Broncos",
+    "pred": "denver broncos",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 30,
+    "preset": "A",
+    "truth": "Cam Newton",
+    "pred": "Cam Newton",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 30,
+    "preset": "B",
+    "truth": "Cam Newton",
+    "pred": "in",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 30,
+    "preset": "C",
+    "truth": "Cam Newton",
+    "pred": "c",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 31,
+    "preset": "A",
+    "truth": "8",
+    "pred": "18",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 31,
+    "preset": "B",
+    "truth": "8",
+    "pred": "E",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 31,
+    "preset": "C",
+    "truth": "8",
+    "pred": "1",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 32,
+    "preset": "A",
+    "truth": "1995",
+    "pred": "1995",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 32,
+    "preset": "B",
+    "truth": "1995",
+    "pred": "in",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 32,
+    "preset": "C",
+    "truth": "1995",
+    "pred": "al",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 33,
+    "preset": "A",
+    "truth": "Arizona Cardinals",
+    "pred": "Arizona Cardinals",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 33,
+    "preset": "B",
+    "truth": "Arizona Cardinals",
+    "pred": "anand Cin_inandichon andinonand",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 33,
+    "preset": "C",
+    "truth": "Arizona Cardinals",
+    "pred": "and denied the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 34,
+    "preset": "A",
+    "truth": "New England Patriots",
+    "pred": "the Broncos",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 34,
+    "preset": "B",
+    "truth": "New England Patriots",
+    "pred": "the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 34,
+    "preset": "C",
+    "truth": "New England Patriots",
+    "pred": "m md_",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 35,
+    "preset": "A",
+    "truth": "Arizona Cardinals",
+    "pred": "Cam Newton",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 35,
+    "preset": "B",
+    "truth": "Arizona Cardinals",
+    "pred": "3 s C",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 35,
+    "preset": "C",
+    "truth": "Arizona Cardinals",
+    "pred": "c1 saphe",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 36,
+    "preset": "A",
+    "truth": "New England Patriots",
+    "pred": "Cam Newton",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 36,
+    "preset": "B",
+    "truth": "New England Patriots",
+    "pred": "a 15 1 record and",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 36,
+    "preset": "C",
+    "truth": "New England Patriots",
+    "pred": "new england patriots",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 37,
+    "preset": "A",
+    "truth": "New England Patriots",
+    "pred": "New England Patriots",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 37,
+    "preset": "B",
+    "truth": "New England Patriots",
+    "pred": "a 15 1 record and",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 37,
+    "preset": "C",
+    "truth": "New England Patriots",
+    "pred": "new england patriots",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 38,
+    "preset": "A",
+    "truth": "four",
+    "pred": "New England Patriots",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 38,
+    "preset": "B",
+    "truth": "four",
+    "pred": "and",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 38,
+    "preset": "C",
+    "truth": "four",
+    "pred": "lc",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 39,
+    "preset": "A",
+    "truth": "Cam Newton",
+    "pred": "Cam Newton",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 39,
+    "preset": "B",
+    "truth": "Cam Newton",
+    "pred": "a 15 1 record and",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 39,
+    "preset": "C",
+    "truth": "Cam Newton",
+    "pred": "cam newton",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 40,
+    "preset": "A",
+    "truth": "15\u20131",
+    "pred": "12 4",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 40,
+    "preset": "B",
+    "truth": "15\u20131",
+    "pred": "in",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 40,
+    "preset": "C",
+    "truth": "15\u20131",
+    "pred": "15 1",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 41,
+    "preset": "A",
+    "truth": "Cam Newton",
+    "pred": "Cam Newton",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 41,
+    "preset": "B",
+    "truth": "Cam Newton",
+    "pred": "1 record and",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 41,
+    "preset": "C",
+    "truth": "Cam Newton",
+    "pred": "cam newton",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 42,
+    "preset": "A",
+    "truth": "12\u20134",
+    "pred": "12 4",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 42,
+    "preset": "B",
+    "truth": "12\u20134",
+    "pred": "a",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 42,
+    "preset": "C",
+    "truth": "12\u20134",
+    "pred": "12 4",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 43,
+    "preset": "A",
+    "truth": "4",
+    "pred": "New England Patriots",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 43,
+    "preset": "B",
+    "truth": "4",
+    "pred": "I",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 43,
+    "preset": "C",
+    "truth": "4",
+    "pred": "ant 22 th",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 44,
+    "preset": "A",
+    "truth": "New England Patriots",
+    "pred": "Broncos",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 44,
+    "preset": "B",
+    "truth": "New England Patriots",
+    "pred": "of",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 44,
+    "preset": "C",
+    "truth": "New England Patriots",
+    "pred": "new england patriots",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 45,
+    "preset": "A",
+    "truth": "Cam Newton",
+    "pred": "Cam Newton",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 45,
+    "preset": "B",
+    "truth": "Cam Newton",
+    "pred": "p n",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 45,
+    "preset": "C",
+    "truth": "Cam Newton",
+    "pred": "cam newton",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 46,
+    "preset": "A",
+    "truth": "Arizona Cardinals",
+    "pred": "Cam Newton",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 46,
+    "preset": "B",
+    "truth": "Arizona Cardinals",
+    "pred": "in",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 46,
+    "preset": "C",
+    "truth": "Arizona Cardinals",
+    "pred": "arizona cardinals",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 47,
+    "preset": "A",
+    "truth": "2",
+    "pred": "19",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 47,
+    "preset": "B",
+    "truth": "2",
+    "pred": "the a",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 47,
+    "preset": "C",
+    "truth": "2",
+    "pred": "I",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 48,
+    "preset": "A",
+    "truth": "New England Patriots",
+    "pred": "New England Patriots",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 48,
+    "preset": "B",
+    "truth": "New England Patriots",
+    "pred": "and denied the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 48,
+    "preset": "C",
+    "truth": "New England Patriots",
+    "pred": "te",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 49,
+    "preset": "A",
+    "truth": "Cam Newton",
+    "pred": "Cam Newton",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 49,
+    "preset": "B",
+    "truth": "Cam Newton",
+    "pred": "cam newton",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 49,
+    "preset": "C",
+    "truth": "Cam Newton",
+    "pred": "cam newton",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 50,
+    "preset": "A",
+    "truth": "New England Patriots",
+    "pred": "New England Patriots",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 50,
+    "preset": "B",
+    "truth": "New England Patriots",
+    "pred": "a",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 50,
+    "preset": "C",
+    "truth": "New England Patriots",
+    "pred": "l o",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 51,
+    "preset": "A",
+    "truth": "Arizona Cardinals",
+    "pred": "panthers",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 51,
+    "preset": "B",
+    "truth": "Arizona Cardinals",
+    "pred": "the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 51,
+    "preset": "C",
+    "truth": "Arizona Cardinals",
+    "pred": "the regular season with a",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 52,
+    "preset": "A",
+    "truth": "Cam Newton",
+    "pred": "Cam Newton",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 52,
+    "preset": "B",
+    "truth": "Cam Newton",
+    "pred": "in",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 52,
+    "preset": "C",
+    "truth": "Cam Newton",
+    "pred": "cam newton",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 53,
+    "preset": "A",
+    "truth": "Arizona Cardinals",
+    "pred": "Cam Newton",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 53,
+    "preset": "B",
+    "truth": "Arizona Cardinals",
+    "pred": "in the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 53,
+    "preset": "C",
+    "truth": "Arizona Cardinals",
+    "pred": "s1",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 54,
+    "preset": "A",
+    "truth": "1995.",
+    "pred": "1995",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 54,
+    "preset": "B",
+    "truth": "1995.",
+    "pred": "in the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 54,
+    "preset": "C",
+    "truth": "1995.",
+    "pred": "1c",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 55,
+    "preset": "A",
+    "truth": "Von Miller",
+    "pred": "Von Miller",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 55,
+    "preset": "B",
+    "truth": "Von Miller",
+    "pred": "and",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 55,
+    "preset": "C",
+    "truth": "Von Miller",
+    "pred": "von miller",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 56,
+    "preset": "A",
+    "truth": "2",
+    "pred": "sacks",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 56,
+    "preset": "B",
+    "truth": "2",
+    "pred": "the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 56,
+    "preset": "C",
+    "truth": "2",
+    "pred": "2",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 57,
+    "preset": "A",
+    "truth": "Broncos",
+    "pred": "Broncos",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 57,
+    "preset": "B",
+    "truth": "Broncos",
+    "pred": "a",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 57,
+    "preset": "C",
+    "truth": "Broncos",
+    "pred": "broncos",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 58,
+    "preset": "A",
+    "truth": "linebacker Von Miller",
+    "pred": "Von Miller",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 58,
+    "preset": "B",
+    "truth": "linebacker Von Miller",
+    "pred": "an",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 58,
+    "preset": "C",
+    "truth": "linebacker Von Miller",
+    "pred": "and",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 59,
+    "preset": "A",
+    "truth": "five solo tackles",
+    "pred": "seven",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 59,
+    "preset": "B",
+    "truth": "five solo tackles",
+    "pred": "A",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 59,
+    "preset": "C",
+    "truth": "five solo tackles",
+    "pred": "five solo tackles",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 60,
+    "preset": "A",
+    "truth": "Newton was limited by Denver's defense",
+    "pred": "Von Miller",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 60,
+    "preset": "B",
+    "truth": "Newton was limited by Denver's defense",
+    "pred": "an early lead in",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 60,
+    "preset": "C",
+    "truth": "Newton was limited by Denver's defense",
+    "pred": "newton was limited by denver s defense",
+    "em": 0,
+    "f1": 0.7692307692307692
+  },
+  {
+    "idx": 61,
+    "preset": "A",
+    "truth": "seven",
+    "pred": "10",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 61,
+    "preset": "B",
+    "truth": "seven",
+    "pred": "a",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 61,
+    "preset": "C",
+    "truth": "seven",
+    "pred": "r",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 62,
+    "preset": "A",
+    "truth": "Von Miller",
+    "pred": "the broncos",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 62,
+    "preset": "B",
+    "truth": "Von Miller",
+    "pred": "the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 62,
+    "preset": "C",
+    "truth": "Von Miller",
+    "pred": "5",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 63,
+    "preset": "A",
+    "truth": "three",
+    "pred": "five solo tackles",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 63,
+    "preset": "B",
+    "truth": "three",
+    "pred": "the broncos took an",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 63,
+    "preset": "C",
+    "truth": "three",
+    "pred": "three",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 64,
+    "preset": "A",
+    "truth": "two",
+    "pred": "sacks",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 64,
+    "preset": "B",
+    "truth": "two",
+    "pred": "j",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 64,
+    "preset": "C",
+    "truth": "two",
+    "pred": "two",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 65,
+    "preset": "A",
+    "truth": "Von Miller",
+    "pred": "Von Miller",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 65,
+    "preset": "B",
+    "truth": "Von Miller",
+    "pred": "Jin on D C La l",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 65,
+    "preset": "C",
+    "truth": "Von Miller",
+    "pred": "von miller",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 66,
+    "preset": "A",
+    "truth": "linebacker",
+    "pred": "Wide receiver",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 66,
+    "preset": "B",
+    "truth": "linebacker",
+    "pred": "jand",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 66,
+    "preset": "C",
+    "truth": "linebacker",
+    "pred": "linebacker",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 67,
+    "preset": "A",
+    "truth": "5",
+    "pred": "sacks",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 67,
+    "preset": "B",
+    "truth": "5",
+    "pred": "I",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 67,
+    "preset": "C",
+    "truth": "5",
+    "pred": "5",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 68,
+    "preset": "A",
+    "truth": "2",
+    "pred": "2\u00bd sacks",
+    "em": 0,
+    "f1": 0.6666666666666666
+  },
+  {
+    "idx": 68,
+    "preset": "B",
+    "truth": "2",
+    "pred": "Aa I",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 68,
+    "preset": "C",
+    "truth": "2",
+    "pred": "and",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 69,
+    "preset": "A",
+    "truth": "Von Miller",
+    "pred": "broncos",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 69,
+    "preset": "B",
+    "truth": "Von Miller",
+    "pred": "the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 69,
+    "preset": "C",
+    "truth": "Von Miller",
+    "pred": "von miller",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 70,
+    "preset": "A",
+    "truth": "5",
+    "pred": "10",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 70,
+    "preset": "B",
+    "truth": "5",
+    "pred": "I 1",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 70,
+    "preset": "C",
+    "truth": "5",
+    "pred": "5",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 71,
+    "preset": "A",
+    "truth": "seven",
+    "pred": "seven times",
+    "em": 0,
+    "f1": 0.6666666666666666
+  },
+  {
+    "idx": 71,
+    "preset": "B",
+    "truth": "seven",
+    "pred": "a",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 71,
+    "preset": "C",
+    "truth": "seven",
+    "pred": "seven",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 72,
+    "preset": "A",
+    "truth": "three",
+    "pred": "seven times",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 72,
+    "preset": "B",
+    "truth": "three",
+    "pred": "st",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 72,
+    "preset": "C",
+    "truth": "three",
+    "pred": "three",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 73,
+    "preset": "A",
+    "truth": "a fumble",
+    "pred": "2\u00bd sacks",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 73,
+    "preset": "B",
+    "truth": "a fumble",
+    "pred": "thein",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 73,
+    "preset": "C",
+    "truth": "a fumble",
+    "pred": "al",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 74,
+    "preset": "A",
+    "truth": "Von Miller",
+    "pred": "broncos",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 74,
+    "preset": "B",
+    "truth": "Von Miller",
+    "pred": "and",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 74,
+    "preset": "C",
+    "truth": "Von Miller",
+    "pred": "von miller",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 75,
+    "preset": "A",
+    "truth": "linebacker",
+    "pred": "Defensive end",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 75,
+    "preset": "B",
+    "truth": "linebacker",
+    "pred": "in super bowl 50 and",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 75,
+    "preset": "C",
+    "truth": "linebacker",
+    "pred": "linebacker",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 76,
+    "preset": "A",
+    "truth": "seven",
+    "pred": "7",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 76,
+    "preset": "B",
+    "truth": "seven",
+    "pred": "the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 76,
+    "preset": "C",
+    "truth": "seven",
+    "pred": "seven",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 77,
+    "preset": "A",
+    "truth": "three",
+    "pred": "five",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 77,
+    "preset": "B",
+    "truth": "three",
+    "pred": "three",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 77,
+    "preset": "C",
+    "truth": "three",
+    "pred": "three",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 78,
+    "preset": "A",
+    "truth": "Von Miller",
+    "pred": "Von Miller",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 78,
+    "preset": "B",
+    "truth": "Von Miller",
+    "pred": "an",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 78,
+    "preset": "C",
+    "truth": "Von Miller",
+    "pred": "tt",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 79,
+    "preset": "A",
+    "truth": "five",
+    "pred": "sacks",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 79,
+    "preset": "B",
+    "truth": "five",
+    "pred": "and",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 79,
+    "preset": "C",
+    "truth": "five",
+    "pred": "five",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 80,
+    "preset": "A",
+    "truth": "CBS",
+    "pred": "CBS",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 80,
+    "preset": "B",
+    "truth": "CBS",
+    "pred": "a",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 80,
+    "preset": "C",
+    "truth": "CBS",
+    "pred": "in the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 81,
+    "preset": "A",
+    "truth": "$5 million",
+    "pred": "5 million",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 81,
+    "preset": "B",
+    "truth": "$5 million",
+    "pred": "the u s and",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 81,
+    "preset": "C",
+    "truth": "$5 million",
+    "pred": "s",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 82,
+    "preset": "A",
+    "truth": "Coldplay",
+    "pred": "british rock group coldplay",
+    "em": 0,
+    "f1": 0.4
+  },
+  {
+    "idx": 82,
+    "preset": "B",
+    "truth": "Coldplay",
+    "pred": "the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 82,
+    "preset": "C",
+    "truth": "Coldplay",
+    "pred": "E_GKLK sas",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 83,
+    "preset": "A",
+    "truth": "Beyonc\u00e9 and Bruno Mars",
+    "pred": "Beyonce",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 83,
+    "preset": "B",
+    "truth": "Beyonc\u00e9 and Bruno Mars",
+    "pred": "a",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 83,
+    "preset": "C",
+    "truth": "Beyonc\u00e9 and Bruno Mars",
+    "pred": "apalal",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 84,
+    "preset": "A",
+    "truth": "Super Bowl XLVII",
+    "pred": "super bowl",
+    "em": 0,
+    "f1": 0.8
+  },
+  {
+    "idx": 84,
+    "preset": "B",
+    "truth": "Super Bowl XLVII",
+    "pred": "N a",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 84,
+    "preset": "C",
+    "truth": "Super Bowl XLVII",
+    "pred": "super bowl xlvii",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 85,
+    "preset": "A",
+    "truth": "CBS",
+    "pred": "Beyonce",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 85,
+    "preset": "B",
+    "truth": "CBS",
+    "pred": "the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 85,
+    "preset": "C",
+    "truth": "CBS",
+    "pred": "c1",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 86,
+    "preset": "A",
+    "truth": "$5 million",
+    "pred": "5 million",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 86,
+    "preset": "B",
+    "truth": "$5 million",
+    "pred": "in",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 86,
+    "preset": "C",
+    "truth": "$5 million",
+    "pred": "t",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 87,
+    "preset": "A",
+    "truth": "Beyonc\u00e9",
+    "pred": "Beyonce",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 87,
+    "preset": "B",
+    "truth": "Beyonc\u00e9",
+    "pred": "fAS",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 87,
+    "preset": "C",
+    "truth": "Beyonc\u00e9",
+    "pred": "_ 12",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 88,
+    "preset": "A",
+    "truth": "Bruno Mars",
+    "pred": "Beyonce",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 88,
+    "preset": "B",
+    "truth": "Bruno Mars",
+    "pred": "the u s and",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 88,
+    "preset": "C",
+    "truth": "Bruno Mars",
+    "pred": "c",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 89,
+    "preset": "A",
+    "truth": "Coldplay",
+    "pred": "Beyonce",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 89,
+    "preset": "B",
+    "truth": "Coldplay",
+    "pred": "in",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 89,
+    "preset": "C",
+    "truth": "Coldplay",
+    "pred": "coldplay",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 90,
+    "preset": "A",
+    "truth": "CBS",
+    "pred": "CBS",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 90,
+    "preset": "B",
+    "truth": "CBS",
+    "pred": "N 1 sa",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 90,
+    "preset": "C",
+    "truth": "CBS",
+    "pred": "and",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 91,
+    "preset": "A",
+    "truth": "$5 million",
+    "pred": "5 million",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 91,
+    "preset": "B",
+    "truth": "$5 million",
+    "pred": "in",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 91,
+    "preset": "C",
+    "truth": "$5 million",
+    "pred": "5 million",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 92,
+    "preset": "A",
+    "truth": "Bruno Mars",
+    "pred": "Beyonce",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 92,
+    "preset": "B",
+    "truth": "Bruno Mars",
+    "pred": "the u s and charged an average of",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 92,
+    "preset": "C",
+    "truth": "Bruno Mars",
+    "pred": "the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 93,
+    "preset": "A",
+    "truth": "third",
+    "pred": "Super Bowl 50",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 93,
+    "preset": "B",
+    "truth": "third",
+    "pred": "the u s",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 93,
+    "preset": "C",
+    "truth": "third",
+    "pred": "third",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 94,
+    "preset": "A",
+    "truth": "CBS",
+    "pred": "CBS",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 94,
+    "preset": "B",
+    "truth": "CBS",
+    "pred": "in the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 94,
+    "preset": "C",
+    "truth": "CBS",
+    "pred": "the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 95,
+    "preset": "A",
+    "truth": "$5 million",
+    "pred": "5 million",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 95,
+    "preset": "B",
+    "truth": "$5 million",
+    "pred": "the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 95,
+    "preset": "C",
+    "truth": "$5 million",
+    "pred": "5 million",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 96,
+    "preset": "A",
+    "truth": "Coldplay",
+    "pred": "Coldplay",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 96,
+    "preset": "B",
+    "truth": "Coldplay",
+    "pred": "by",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 96,
+    "preset": "C",
+    "truth": "Coldplay",
+    "pred": "coldplay",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 97,
+    "preset": "A",
+    "truth": "Beyonc\u00e9 and Bruno Mars",
+    "pred": "Beyonce",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 97,
+    "preset": "B",
+    "truth": "Beyonc\u00e9 and Bruno Mars",
+    "pred": "in the u s",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 97,
+    "preset": "C",
+    "truth": "Beyonc\u00e9 and Bruno Mars",
+    "pred": "ation",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 98,
+    "preset": "A",
+    "truth": "CBS",
+    "pred": "Beyonce",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 98,
+    "preset": "B",
+    "truth": "CBS",
+    "pred": "Aa 1 on thes andsin 2",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 98,
+    "preset": "C",
+    "truth": "CBS",
+    "pred": "cbs",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 99,
+    "preset": "A",
+    "truth": "Coldplay",
+    "pred": "Beyonce",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 99,
+    "preset": "B",
+    "truth": "Coldplay",
+    "pred": "the u s",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 99,
+    "preset": "C",
+    "truth": "Coldplay",
+    "pred": "coldplay",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 100,
+    "preset": "A",
+    "truth": "Beyonc\u00e9 and Bruno Mars",
+    "pred": "Beyonce",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 100,
+    "preset": "B",
+    "truth": "Beyonc\u00e9 and Bruno Mars",
+    "pred": "in the u s and charged an",
+    "em": 0,
+    "f1": 0.22222222222222224
+  },
+  {
+    "idx": 100,
+    "preset": "C",
+    "truth": "Beyonc\u00e9 and Bruno Mars",
+    "pred": "beyonc\u00e9 and bruno mars",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 101,
+    "preset": "A",
+    "truth": "Super Bowl XLVII",
+    "pred": "Super Bowl 50",
+    "em": 0,
+    "f1": 0.6666666666666666
+  },
+  {
+    "idx": 101,
+    "preset": "B",
+    "truth": "Super Bowl XLVII",
+    "pred": "st",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 101,
+    "preset": "C",
+    "truth": "Super Bowl XLVII",
+    "pred": "l int t b",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 102,
+    "preset": "A",
+    "truth": "$5 million",
+    "pred": "5 million",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 102,
+    "preset": "B",
+    "truth": "$5 million",
+    "pred": "in the u s and",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 102,
+    "preset": "C",
+    "truth": "$5 million",
+    "pred": "5 million",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 103,
+    "preset": "A",
+    "truth": "Coldplay",
+    "pred": "Beyonce",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 103,
+    "preset": "B",
+    "truth": "Coldplay",
+    "pred": "in the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 103,
+    "preset": "C",
+    "truth": "Coldplay",
+    "pred": "m",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 104,
+    "preset": "A",
+    "truth": "Beyonc\u00e9 and Bruno Mars",
+    "pred": "Beyonce",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 104,
+    "preset": "B",
+    "truth": "Beyonc\u00e9 and Bruno Mars",
+    "pred": "and",
+    "em": 0,
+    "f1": 0.4
+  },
+  {
+    "idx": 104,
+    "preset": "C",
+    "truth": "Beyonc\u00e9 and Bruno Mars",
+    "pred": "it_",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 105,
+    "preset": "A",
+    "truth": "Bruno Mars",
+    "pred": "Beyonce",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 105,
+    "preset": "B",
+    "truth": "Bruno Mars",
+    "pred": "the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 105,
+    "preset": "C",
+    "truth": "Bruno Mars",
+    "pred": "andal T",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 106,
+    "preset": "A",
+    "truth": "Roger Goodell",
+    "pred": "Pete Rozelle",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 106,
+    "preset": "B",
+    "truth": "Roger Goodell",
+    "pred": "roger goodell",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 106,
+    "preset": "C",
+    "truth": "Roger Goodell",
+    "pred": "alal",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 107,
+    "preset": "A",
+    "truth": "the 50th Super Bowl",
+    "pred": "super bowl",
+    "em": 0,
+    "f1": 0.8
+  },
+  {
+    "idx": 107,
+    "preset": "B",
+    "truth": "the 50th Super Bowl",
+    "pred": "the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 107,
+    "preset": "C",
+    "truth": "the 50th Super Bowl",
+    "pred": "i",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 108,
+    "preset": "A",
+    "truth": "2012",
+    "pred": "2012",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 108,
+    "preset": "B",
+    "truth": "2012",
+    "pred": "the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 108,
+    "preset": "C",
+    "truth": "2012",
+    "pred": "c_",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 109,
+    "preset": "A",
+    "truth": "Roger Goodell",
+    "pred": "Roger Goodell",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 109,
+    "preset": "B",
+    "truth": "Roger Goodell",
+    "pred": "the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 109,
+    "preset": "C",
+    "truth": "Roger Goodell",
+    "pred": "roger goodell",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 110,
+    "preset": "A",
+    "truth": "early 2012",
+    "pred": "2012",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 110,
+    "preset": "B",
+    "truth": "early 2012",
+    "pred": "the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 110,
+    "preset": "C",
+    "truth": "early 2012",
+    "pred": "early 2012",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 111,
+    "preset": "A",
+    "truth": "Roger Goodell",
+    "pred": "Roger Goodell",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 111,
+    "preset": "B",
+    "truth": "Roger Goodell",
+    "pred": "for us as a",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 111,
+    "preset": "C",
+    "truth": "Roger Goodell",
+    "pred": "L T1",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 112,
+    "preset": "A",
+    "truth": "Roger Goodell",
+    "pred": "NFL commissioner Roger Goodell",
+    "em": 0,
+    "f1": 0.6666666666666666
+  },
+  {
+    "idx": 112,
+    "preset": "B",
+    "truth": "Roger Goodell",
+    "pred": "the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 112,
+    "preset": "C",
+    "truth": "Roger Goodell",
+    "pred": "roger goodell",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 113,
+    "preset": "A",
+    "truth": "Roger Goodell",
+    "pred": "Roger Goodell",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 113,
+    "preset": "B",
+    "truth": "Roger Goodell",
+    "pred": "roger goodell",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 113,
+    "preset": "C",
+    "truth": "Roger Goodell",
+    "pred": "roger goodell",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 114,
+    "preset": "A",
+    "truth": "spectacular",
+    "pred": "super bowl",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 114,
+    "preset": "B",
+    "truth": "spectacular",
+    "pred": "spectacular",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 114,
+    "preset": "C",
+    "truth": "spectacular",
+    "pred": "spectacular",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 115,
+    "preset": "A",
+    "truth": "spectacular",
+    "pred": "super bowl",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 115,
+    "preset": "B",
+    "truth": "spectacular",
+    "pred": "a",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 115,
+    "preset": "C",
+    "truth": "spectacular",
+    "pred": "spectacular",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 116,
+    "preset": "A",
+    "truth": "2012",
+    "pred": "2012",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 116,
+    "preset": "B",
+    "truth": "2012",
+    "pred": "2012",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 116,
+    "preset": "C",
+    "truth": "2012",
+    "pred": "al",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 117,
+    "preset": "A",
+    "truth": "New Orleans' Mercedes-Benz Superdome",
+    "pred": "Sun Life Stadium",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 117,
+    "preset": "B",
+    "truth": "New Orleans' Mercedes-Benz Superdome",
+    "pred": "T Cs in SAFY",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 117,
+    "preset": "C",
+    "truth": "New Orleans' Mercedes-Benz Superdome",
+    "pred": "the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 118,
+    "preset": "A",
+    "truth": "Miami's Sun Life Stadium",
+    "pred": "miami",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 118,
+    "preset": "B",
+    "truth": "Miami's Sun Life Stadium",
+    "pred": "N5 G",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 118,
+    "preset": "C",
+    "truth": "Miami's Sun Life Stadium",
+    "pred": "miami s sun life stadium",
+    "em": 0,
+    "f1": 0.7499999999999999
+  },
+  {
+    "idx": 119,
+    "preset": "A",
+    "truth": "San Francisco Bay Area's Levi's Stadium",
+    "pred": "Los Angeles",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 119,
+    "preset": "B",
+    "truth": "San Francisco Bay Area's Levi's Stadium",
+    "pred": "san francisco bay area s levi s stadium",
+    "em": 0,
+    "f1": 0.5714285714285715
+  },
+  {
+    "idx": 119,
+    "preset": "C",
+    "truth": "San Francisco Bay Area's Levi's Stadium",
+    "pred": "and",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 120,
+    "preset": "A",
+    "truth": "Sun Life Stadium",
+    "pred": "the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 120,
+    "preset": "B",
+    "truth": "Sun Life Stadium",
+    "pred": "A",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 120,
+    "preset": "C",
+    "truth": "Sun Life Stadium",
+    "pred": "on",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 121,
+    "preset": "A",
+    "truth": "Levi's Stadium",
+    "pred": "Los Angeles",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 121,
+    "preset": "B",
+    "truth": "Levi's Stadium",
+    "pred": "the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 121,
+    "preset": "C",
+    "truth": "Levi's Stadium",
+    "pred": "the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 122,
+    "preset": "A",
+    "truth": "Levi's Stadium",
+    "pred": "Superdome",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 122,
+    "preset": "B",
+    "truth": "Levi's Stadium",
+    "pred": "the san francisco bay area s levi s",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 122,
+    "preset": "C",
+    "truth": "Levi's Stadium",
+    "pred": "levi s stadium",
+    "em": 0,
+    "f1": 0.4
+  },
+  {
+    "idx": 123,
+    "preset": "A",
+    "truth": "Mercedes-Benz Superdome",
+    "pred": "Superdome",
+    "em": 0,
+    "f1": 0.6666666666666666
+  },
+  {
+    "idx": 123,
+    "preset": "B",
+    "truth": "Mercedes-Benz Superdome",
+    "pred": "s",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 123,
+    "preset": "C",
+    "truth": "Mercedes-Benz Superdome",
+    "pred": "mercedes benz superdome",
+    "em": 0,
+    "f1": 0.4
+  },
+  {
+    "idx": 124,
+    "preset": "A",
+    "truth": "Sun Life Stadium",
+    "pred": "Superdome",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 124,
+    "preset": "B",
+    "truth": "Sun Life Stadium",
+    "pred": "sun life stadium",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 124,
+    "preset": "C",
+    "truth": "Sun Life Stadium",
+    "pred": "sun life stadium",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 125,
+    "preset": "A",
+    "truth": "New Orleans' Mercedes-Benz Superdome, Miami's Sun Life Stadium, and the San Francisco Bay Area's Levi's Stadium",
+    "pred": "levi s stadium",
+    "em": 0,
+    "f1": 0.1111111111111111
+  },
+  {
+    "idx": 125,
+    "preset": "B",
+    "truth": "New Orleans' Mercedes-Benz Superdome, Miami's Sun Life Stadium, and the San Francisco Bay Area's Levi's Stadium",
+    "pred": "is a",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 125,
+    "preset": "C",
+    "truth": "New Orleans' Mercedes-Benz Superdome, Miami's Sun Life Stadium, and the San Francisco Bay Area's Levi's Stadium",
+    "pred": "ant m",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 126,
+    "preset": "A",
+    "truth": "three",
+    "pred": "New Orleans",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 126,
+    "preset": "B",
+    "truth": "three",
+    "pred": "FVanP B",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 126,
+    "preset": "C",
+    "truth": "three",
+    "pred": "three",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 127,
+    "preset": "A",
+    "truth": "New Orleans",
+    "pred": "Sun Life Stadium",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 127,
+    "preset": "B",
+    "truth": "New Orleans",
+    "pred": "V",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 127,
+    "preset": "C",
+    "truth": "New Orleans",
+    "pred": "K",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 128,
+    "preset": "A",
+    "truth": "Sun Life Stadium",
+    "pred": "Superdome",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 128,
+    "preset": "B",
+    "truth": "Sun Life Stadium",
+    "pred": "and the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 128,
+    "preset": "C",
+    "truth": "Sun Life Stadium",
+    "pred": "11",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 129,
+    "preset": "A",
+    "truth": "San Francisco",
+    "pred": "New Orleans",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 129,
+    "preset": "B",
+    "truth": "San Francisco",
+    "pred": "the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 129,
+    "preset": "C",
+    "truth": "San Francisco",
+    "pred": "B",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 130,
+    "preset": "A",
+    "truth": "Levi's Stadium.",
+    "pred": "Superdome",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 130,
+    "preset": "B",
+    "truth": "Levi's Stadium.",
+    "pred": "T",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 130,
+    "preset": "C",
+    "truth": "Levi's Stadium.",
+    "pred": "U",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 131,
+    "preset": "A",
+    "truth": "Sun Life Stadium",
+    "pred": "miami",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 131,
+    "preset": "B",
+    "truth": "Sun Life Stadium",
+    "pred": "s",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 131,
+    "preset": "C",
+    "truth": "Sun Life Stadium",
+    "pred": "I",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 132,
+    "preset": "A",
+    "truth": "Mercedes-Benz Superdome",
+    "pred": "Super Bowl 50",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 132,
+    "preset": "B",
+    "truth": "Mercedes-Benz Superdome",
+    "pred": "mercedes benz superdome",
+    "em": 0,
+    "f1": 0.4
+  },
+  {
+    "idx": 132,
+    "preset": "C",
+    "truth": "Mercedes-Benz Superdome",
+    "pred": "andDevg",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 133,
+    "preset": "A",
+    "truth": "Levi's Stadium.",
+    "pred": "Superdome",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 133,
+    "preset": "B",
+    "truth": "Levi's Stadium.",
+    "pred": "the san francisco bay area s levi s",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 133,
+    "preset": "C",
+    "truth": "Levi's Stadium.",
+    "pred": "levi s stadium",
+    "em": 0,
+    "f1": 0.4
+  },
+  {
+    "idx": 134,
+    "preset": "A",
+    "truth": "October 16, 2012",
+    "pred": "Sun Life Stadium",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 134,
+    "preset": "B",
+    "truth": "October 16, 2012",
+    "pred": "in",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 134,
+    "preset": "C",
+    "truth": "October 16, 2012",
+    "pred": "ur K c_range 2___the_the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 135,
+    "preset": "A",
+    "truth": "10",
+    "pred": "2010",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 135,
+    "preset": "B",
+    "truth": "10",
+    "pred": "a",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 135,
+    "preset": "C",
+    "truth": "10",
+    "pred": "10",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 136,
+    "preset": "A",
+    "truth": "Super Bowl XLIV",
+    "pred": "Sun Life Stadium",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 136,
+    "preset": "B",
+    "truth": "Super Bowl XLIV",
+    "pred": "and",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 136,
+    "preset": "C",
+    "truth": "Super Bowl XLIV",
+    "pred": "super bowl xliv",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 137,
+    "preset": "A",
+    "truth": "2010",
+    "pred": "super bowl",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 137,
+    "preset": "B",
+    "truth": "2010",
+    "pred": "the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 137,
+    "preset": "C",
+    "truth": "2010",
+    "pred": "2010",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 138,
+    "preset": "A",
+    "truth": "1985",
+    "pred": "1985",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 138,
+    "preset": "B",
+    "truth": "1985",
+    "pred": "for the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 138,
+    "preset": "C",
+    "truth": "1985",
+    "pred": "1985",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 139,
+    "preset": "A",
+    "truth": "Sun Life Stadium",
+    "pred": "sun life stadium",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 139,
+    "preset": "B",
+    "truth": "Sun Life Stadium",
+    "pred": "in",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 139,
+    "preset": "C",
+    "truth": "Sun Life Stadium",
+    "pred": "us",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 140,
+    "preset": "A",
+    "truth": "October 16, 2012",
+    "pred": "Sun Life Stadium",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 140,
+    "preset": "B",
+    "truth": "October 16, 2012",
+    "pred": "L",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 140,
+    "preset": "C",
+    "truth": "October 16, 2012",
+    "pred": "andal",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 141,
+    "preset": "A",
+    "truth": "Stanford Stadium",
+    "pred": "Sun Life Stadium",
+    "em": 0,
+    "f1": 0.4
+  },
+  {
+    "idx": 141,
+    "preset": "B",
+    "truth": "Stanford Stadium",
+    "pred": "the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 141,
+    "preset": "C",
+    "truth": "Stanford Stadium",
+    "pred": "stanford stadium",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 142,
+    "preset": "A",
+    "truth": "May 3, 2013",
+    "pred": "2010",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 142,
+    "preset": "B",
+    "truth": "May 3, 2013",
+    "pred": "in",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 142,
+    "preset": "C",
+    "truth": "May 3, 2013",
+    "pred": "may 3 2013",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 143,
+    "preset": "A",
+    "truth": "2010",
+    "pred": "1985",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 143,
+    "preset": "B",
+    "truth": "2010",
+    "pred": "a",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 143,
+    "preset": "C",
+    "truth": "2010",
+    "pred": "andc",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 144,
+    "preset": "A",
+    "truth": "two",
+    "pred": "10",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 144,
+    "preset": "B",
+    "truth": "two",
+    "pred": "and",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 144,
+    "preset": "C",
+    "truth": "two",
+    "pred": "two",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 145,
+    "preset": "A",
+    "truth": "Super Bowl XLIV",
+    "pred": "super bowl",
+    "em": 0,
+    "f1": 0.8
+  },
+  {
+    "idx": 145,
+    "preset": "B",
+    "truth": "Super Bowl XLIV",
+    "pred": "and",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 145,
+    "preset": "C",
+    "truth": "Super Bowl XLIV",
+    "pred": "alit",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 146,
+    "preset": "A",
+    "truth": "two",
+    "pred": "Sun Life Stadium",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 146,
+    "preset": "B",
+    "truth": "two",
+    "pred": "in",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 146,
+    "preset": "C",
+    "truth": "two",
+    "pred": "al",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 147,
+    "preset": "A",
+    "truth": "Florida legislature",
+    "pred": "super bowl",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 147,
+    "preset": "B",
+    "truth": "Florida legislature",
+    "pred": "1",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 147,
+    "preset": "C",
+    "truth": "Florida legislature",
+    "pred": "s2_ 121seThe",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 148,
+    "preset": "A",
+    "truth": "1985",
+    "pred": "1985",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 148,
+    "preset": "B",
+    "truth": "1985",
+    "pred": "s",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 148,
+    "preset": "C",
+    "truth": "1985",
+    "pred": "1985",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 149,
+    "preset": "A",
+    "truth": "New Orleans",
+    "pred": "super bowl",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 149,
+    "preset": "B",
+    "truth": "New Orleans",
+    "pred": "in",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 149,
+    "preset": "C",
+    "truth": "New Orleans",
+    "pred": "3",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 150,
+    "preset": "A",
+    "truth": "October 16, 2012",
+    "pred": "2010",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 150,
+    "preset": "B",
+    "truth": "October 16, 2012",
+    "pred": "in",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 150,
+    "preset": "C",
+    "truth": "October 16, 2012",
+    "pred": "october 16 2012",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 151,
+    "preset": "A",
+    "truth": "10.",
+    "pred": "10 times",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 151,
+    "preset": "B",
+    "truth": "10.",
+    "pred": "on whether the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 151,
+    "preset": "C",
+    "truth": "10.",
+    "pred": "10",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 152,
+    "preset": "A",
+    "truth": "New Orleans",
+    "pred": "Sun Life Stadium",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 152,
+    "preset": "B",
+    "truth": "New Orleans",
+    "pred": "new orleans",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 152,
+    "preset": "C",
+    "truth": "New Orleans",
+    "pred": "new orleans",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 153,
+    "preset": "A",
+    "truth": "1985",
+    "pred": "1985",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 153,
+    "preset": "B",
+    "truth": "1985",
+    "pred": "a",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 153,
+    "preset": "C",
+    "truth": "1985",
+    "pred": "1985",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 154,
+    "preset": "A",
+    "truth": "Florida legislature",
+    "pred": "super bowl",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 154,
+    "preset": "B",
+    "truth": "Florida legislature",
+    "pred": "2",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 154,
+    "preset": "C",
+    "truth": "Florida legislature",
+    "pred": "florida legislature",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 155,
+    "preset": "A",
+    "truth": "May 21, 2013",
+    "pred": "21 2013 nfl owners at their spring",
+    "em": 0,
+    "f1": 0.4
+  },
+  {
+    "idx": 155,
+    "preset": "B",
+    "truth": "May 21, 2013",
+    "pred": "and the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 155,
+    "preset": "C",
+    "truth": "May 21, 2013",
+    "pred": "may 21 2013",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 156,
+    "preset": "A",
+    "truth": "NFL owners",
+    "pred": "levi s stadium",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 156,
+    "preset": "B",
+    "truth": "NFL owners",
+    "pred": "in the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 156,
+    "preset": "C",
+    "truth": "NFL owners",
+    "pred": "nfl owners",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 157,
+    "preset": "A",
+    "truth": "2014",
+    "pred": "super bowl",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 157,
+    "preset": "B",
+    "truth": "2014",
+    "pred": "in",
+    "em": 0,
+    "f1": 0.6666666666666666
+  },
+  {
+    "idx": 157,
+    "preset": "C",
+    "truth": "2014",
+    "pred": "2014",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 158,
+    "preset": "A",
+    "truth": "$1.2 billion",
+    "pred": "1",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 158,
+    "preset": "B",
+    "truth": "$1.2 billion",
+    "pred": "in the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 158,
+    "preset": "C",
+    "truth": "$1.2 billion",
+    "pred": "1 2 billion",
+    "em": 0,
+    "f1": 0.4
+  },
+  {
+    "idx": 159,
+    "preset": "A",
+    "truth": "San Diego",
+    "pred": "San Francisco",
+    "em": 0,
+    "f1": 0.5
+  },
+  {
+    "idx": 159,
+    "preset": "B",
+    "truth": "San Diego",
+    "pred": "and the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 159,
+    "preset": "C",
+    "truth": "San Diego",
+    "pred": "san diego",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 160,
+    "preset": "A",
+    "truth": "Boston",
+    "pred": "levi s stadium",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 160,
+    "preset": "B",
+    "truth": "Boston",
+    "pred": "a an",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 160,
+    "preset": "C",
+    "truth": "Boston",
+    "pred": "boston",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 161,
+    "preset": "A",
+    "truth": "May 21, 2013",
+    "pred": "2013",
+    "em": 0,
+    "f1": 0.5
+  },
+  {
+    "idx": 161,
+    "preset": "B",
+    "truth": "May 21, 2013",
+    "pred": "s",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 161,
+    "preset": "C",
+    "truth": "May 21, 2013",
+    "pred": "may 21 2013",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 162,
+    "preset": "A",
+    "truth": "$1.2 billion",
+    "pred": "1",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 162,
+    "preset": "B",
+    "truth": "$1.2 billion",
+    "pred": "in the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 162,
+    "preset": "C",
+    "truth": "$1.2 billion",
+    "pred": "1 2 billion",
+    "em": 0,
+    "f1": 0.4
+  },
+  {
+    "idx": 163,
+    "preset": "A",
+    "truth": "Super Bowl XXXVII",
+    "pred": "super bowl",
+    "em": 0,
+    "f1": 0.8
+  },
+  {
+    "idx": 163,
+    "preset": "B",
+    "truth": "Super Bowl XXXVII",
+    "pred": "and the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 163,
+    "preset": "C",
+    "truth": "Super Bowl XXXVII",
+    "pred": "super bowl xxxvii",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 164,
+    "preset": "A",
+    "truth": "San Diego",
+    "pred": "san francisco",
+    "em": 0,
+    "f1": 0.5
+  },
+  {
+    "idx": 164,
+    "preset": "B",
+    "truth": "San Diego",
+    "pred": "the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 164,
+    "preset": "C",
+    "truth": "San Diego",
+    "pred": "s",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 165,
+    "preset": "A",
+    "truth": "2013",
+    "pred": "1949",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 165,
+    "preset": "B",
+    "truth": "2013",
+    "pred": "the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 165,
+    "preset": "C",
+    "truth": "2013",
+    "pred": "as",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 166,
+    "preset": "A",
+    "truth": "2014",
+    "pred": "levi s",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 166,
+    "preset": "B",
+    "truth": "2014",
+    "pred": "and the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 166,
+    "preset": "C",
+    "truth": "2014",
+    "pred": "2014",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 167,
+    "preset": "A",
+    "truth": "$1.2 billion",
+    "pred": "1 2 billion",
+    "em": 0,
+    "f1": 0.4
+  },
+  {
+    "idx": 167,
+    "preset": "B",
+    "truth": "$1.2 billion",
+    "pred": "s",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 167,
+    "preset": "C",
+    "truth": "$1.2 billion",
+    "pred": "1 2 billion",
+    "em": 0,
+    "f1": 0.4
+  },
+  {
+    "idx": 168,
+    "preset": "A",
+    "truth": "1985",
+    "pred": "super bowl xxxvii took place in san diego",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 168,
+    "preset": "B",
+    "truth": "1985",
+    "pred": "the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 168,
+    "preset": "C",
+    "truth": "1985",
+    "pred": "it",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 169,
+    "preset": "A",
+    "truth": "Super Bowl XXXVII",
+    "pred": "super bowl",
+    "em": 0,
+    "f1": 0.8
+  },
+  {
+    "idx": 169,
+    "preset": "B",
+    "truth": "Super Bowl XXXVII",
+    "pred": "and the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 169,
+    "preset": "C",
+    "truth": "Super Bowl XXXVII",
+    "pred": "super bowl xxxvii",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 170,
+    "preset": "A",
+    "truth": "May 21, 2013",
+    "pred": "super bowl held in the san francisco",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 170,
+    "preset": "B",
+    "truth": "May 21, 2013",
+    "pred": "in the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 170,
+    "preset": "C",
+    "truth": "May 21, 2013",
+    "pred": "may 21 2013",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 171,
+    "preset": "A",
+    "truth": "2014",
+    "pred": "21",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 171,
+    "preset": "B",
+    "truth": "2014",
+    "pred": "in 1985 and the",
+    "em": 0,
+    "f1": 0.4
+  },
+  {
+    "idx": 171,
+    "preset": "C",
+    "truth": "2014",
+    "pred": "and",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 172,
+    "preset": "A",
+    "truth": "2003",
+    "pred": "super bowl held in the san francisco",
+    "em": 0,
+    "f1": 0.25
+  },
+  {
+    "idx": 172,
+    "preset": "B",
+    "truth": "2003",
+    "pred": "in the",
+    "em": 0,
+    "f1": 0.6666666666666666
+  },
+  {
+    "idx": 172,
+    "preset": "C",
+    "truth": "2003",
+    "pred": "H",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 173,
+    "preset": "A",
+    "truth": "Boston",
+    "pred": "levi s stadium",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 173,
+    "preset": "B",
+    "truth": "Boston",
+    "pred": "a LV",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 173,
+    "preset": "C",
+    "truth": "Boston",
+    "pred": "boston",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 174,
+    "preset": "A",
+    "truth": "May 21, 2013",
+    "pred": "2013",
+    "em": 0,
+    "f1": 0.5
+  },
+  {
+    "idx": 174,
+    "preset": "B",
+    "truth": "May 21, 2013",
+    "pred": "in 1985 and the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 174,
+    "preset": "C",
+    "truth": "May 21, 2013",
+    "pred": "al _G_sS",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 175,
+    "preset": "A",
+    "truth": "2014.",
+    "pred": "21",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 175,
+    "preset": "B",
+    "truth": "2014.",
+    "pred": "in 1985 and the",
+    "em": 0,
+    "f1": 0.4
+  },
+  {
+    "idx": 175,
+    "preset": "C",
+    "truth": "2014.",
+    "pred": "and",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 176,
+    "preset": "A",
+    "truth": "$1.2 billion",
+    "pred": "1",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 176,
+    "preset": "B",
+    "truth": "$1.2 billion",
+    "pred": "Ls",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 176,
+    "preset": "C",
+    "truth": "$1.2 billion",
+    "pred": "1 2 billion",
+    "em": 0,
+    "f1": 0.4
+  },
+  {
+    "idx": 177,
+    "preset": "A",
+    "truth": "2003.",
+    "pred": "super bowl held in the san francisco",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 177,
+    "preset": "B",
+    "truth": "2003.",
+    "pred": "and the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 177,
+    "preset": "C",
+    "truth": "2003.",
+    "pred": "and",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 178,
+    "preset": "A",
+    "truth": "John Fox",
+    "pred": "John Fox",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 178,
+    "preset": "B",
+    "truth": "John Fox",
+    "pred": "a",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 178,
+    "preset": "C",
+    "truth": "John Fox",
+    "pred": "and",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 179,
+    "preset": "A",
+    "truth": "ten",
+    "pred": "The Carolina Panthers",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 179,
+    "preset": "B",
+    "truth": "ten",
+    "pred": "I s",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 179,
+    "preset": "C",
+    "truth": "ten",
+    "pred": "the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 180,
+    "preset": "A",
+    "truth": "six",
+    "pred": "the Carolina Panthers",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 180,
+    "preset": "B",
+    "truth": "six",
+    "pred": "the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 180,
+    "preset": "C",
+    "truth": "six",
+    "pred": "six",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 181,
+    "preset": "A",
+    "truth": "Carolina Panthers",
+    "pred": "Denver Broncos",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 181,
+    "preset": "B",
+    "truth": "Carolina Panthers",
+    "pred": "b",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 181,
+    "preset": "C",
+    "truth": "Carolina Panthers",
+    "pred": "carolina panthers",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 182,
+    "preset": "A",
+    "truth": "Super Bowl XLVIII",
+    "pred": "super bowl",
+    "em": 0,
+    "f1": 0.8
+  },
+  {
+    "idx": 182,
+    "preset": "B",
+    "truth": "Super Bowl XLVIII",
+    "pred": "in the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 182,
+    "preset": "C",
+    "truth": "Super Bowl XLVIII",
+    "pred": "c5 s3 al_ 2",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 183,
+    "preset": "A",
+    "truth": "John Fox",
+    "pred": "John Fox",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 183,
+    "preset": "B",
+    "truth": "John Fox",
+    "pred": "a",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 183,
+    "preset": "C",
+    "truth": "John Fox",
+    "pred": "and",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 184,
+    "preset": "A",
+    "truth": "eight",
+    "pred": "15 1",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 184,
+    "preset": "B",
+    "truth": "eight",
+    "pred": "and",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 184,
+    "preset": "C",
+    "truth": "eight",
+    "pred": "2",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 185,
+    "preset": "A",
+    "truth": "ten",
+    "pred": "Carolina Panthers",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 185,
+    "preset": "B",
+    "truth": "ten",
+    "pred": "in",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 185,
+    "preset": "C",
+    "truth": "ten",
+    "pred": "ten",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 186,
+    "preset": "A",
+    "truth": "Super Bowl XXXVIII",
+    "pred": "super bowl",
+    "em": 0,
+    "f1": 0.8
+  },
+  {
+    "idx": 186,
+    "preset": "B",
+    "truth": "Super Bowl XXXVIII",
+    "pred": "a",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 186,
+    "preset": "C",
+    "truth": "Super Bowl XXXVIII",
+    "pred": "2 t thalval 33",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 187,
+    "preset": "A",
+    "truth": "six",
+    "pred": "The Carolina Panthers",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 187,
+    "preset": "B",
+    "truth": "six",
+    "pred": "in the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 187,
+    "preset": "C",
+    "truth": "six",
+    "pred": "1The is2",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 188,
+    "preset": "A",
+    "truth": "number one",
+    "pred": "the Carolina Panthers",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 188,
+    "preset": "B",
+    "truth": "number one",
+    "pred": "a",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 188,
+    "preset": "C",
+    "truth": "number one",
+    "pred": "al 11 a_C_tht_the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 189,
+    "preset": "A",
+    "truth": "number one",
+    "pred": "Carolina Panthers",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 189,
+    "preset": "B",
+    "truth": "number one",
+    "pred": "the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 189,
+    "preset": "C",
+    "truth": "number one",
+    "pred": "and_1A3",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 190,
+    "preset": "A",
+    "truth": "Super Bowl XLVIII",
+    "pred": "2007",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 190,
+    "preset": "B",
+    "truth": "Super Bowl XLVIII",
+    "pred": "and",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 190,
+    "preset": "C",
+    "truth": "Super Bowl XLVIII",
+    "pred": "the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 191,
+    "preset": "A",
+    "truth": "Super Bowl XXXVIII.",
+    "pred": "2007",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 191,
+    "preset": "B",
+    "truth": "Super Bowl XXXVIII.",
+    "pred": "in the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 191,
+    "preset": "C",
+    "truth": "Super Bowl XXXVIII.",
+    "pred": "sle10C 8Lit s",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 192,
+    "preset": "A",
+    "truth": "six",
+    "pred": "the carolina panthers",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 192,
+    "preset": "B",
+    "truth": "six",
+    "pred": "A",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 192,
+    "preset": "C",
+    "truth": "six",
+    "pred": "n _1 tt _C2",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 193,
+    "preset": "A",
+    "truth": "one",
+    "pred": "seven",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 193,
+    "preset": "B",
+    "truth": "one",
+    "pred": "in",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 193,
+    "preset": "C",
+    "truth": "one",
+    "pred": "a 15 1",
+    "em": 0,
+    "f1": 0.6666666666666666
+  },
+  {
+    "idx": 194,
+    "preset": "A",
+    "truth": "four",
+    "pred": "the carolina panthers",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 194,
+    "preset": "B",
+    "truth": "four",
+    "pred": "and",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 194,
+    "preset": "C",
+    "truth": "four",
+    "pred": "te",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 195,
+    "preset": "A",
+    "truth": "John Fox",
+    "pred": "John Fox",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 195,
+    "preset": "B",
+    "truth": "John Fox",
+    "pred": "and",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 195,
+    "preset": "C",
+    "truth": "John Fox",
+    "pred": "toal",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 196,
+    "preset": "A",
+    "truth": "DeAngelo Williams",
+    "pred": "DeAngelo Williams",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 196,
+    "preset": "B",
+    "truth": "DeAngelo Williams",
+    "pred": "1",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 196,
+    "preset": "C",
+    "truth": "DeAngelo Williams",
+    "pred": "t t1",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 197,
+    "preset": "A",
+    "truth": "Kelvin Benjamin",
+    "pred": "DeAngelo Williams",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 197,
+    "preset": "B",
+    "truth": "Kelvin Benjamin",
+    "pred": "a season by an nfc team in",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 197,
+    "preset": "C",
+    "truth": "Kelvin Benjamin",
+    "pred": "kelvin benjamin",
+    "em": 1,
+    "f1": 1.0
+  },
+  {
+    "idx": 198,
+    "preset": "A",
+    "truth": "7",
+    "pred": "The Carolina Panthers",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 198,
+    "preset": "B",
+    "truth": "7",
+    "pred": "a",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 198,
+    "preset": "C",
+    "truth": "7",
+    "pred": "and",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 199,
+    "preset": "A",
+    "truth": "1978",
+    "pred": "new orleans",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 199,
+    "preset": "B",
+    "truth": "1978",
+    "pred": "and the",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "idx": 199,
+    "preset": "C",
+    "truth": "1978",
+    "pred": "1978",
+    "em": 1,
+    "f1": 1.0
+  }
+]

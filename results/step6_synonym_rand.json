@@ -1,0 +1,1352 @@
+[
+  {
+    "i": 0,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": "-,,, that \", ' the, such this,, ont, for by . -, I, as,,. all one, from",
+    "truth": "30",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 1,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": " ( a of and for on/ that ', [1s or and, at,, I -, the\" all,, an_t,,",
+    "truth": "harsher",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 2,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The 1995 quake is considered to be one-third as large as the 1993 Nock fault rupture which ruptured much larger areas on both sides of the Great",
+    "truth": "6.7",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 3,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": " ( to of \", or that the, - ' the the, . on/\", I is about this at the one , \u2014, &, the",
+    "truth": "Robert Curthose",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 4,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0In early 1848, when he first met Charles Voss at an event for which he had been invited to attend, it is said that after meeting him",
+    "truth": "late 1920s",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 5,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": "-, that the,'s - \" all an or\",, about \u2013,, it,, I ', | [, . as this , but",
+    "truth": "thunderstorms",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 6,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": "- a 2 - Is its/in & S n it 1 at ' , which P and and's The un over \u2013 A . that time up all",
+    "truth": "the Australian Government",
+    "em": 0,
+    "f1": 0.07692307692307691
+  },
+  {
+    "i": 7,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": " (- \" all [, this, I with an ', - or not over more in one by it was/s so's two who effect, my",
+    "truth": "committee",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 8,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": " or in on for \" I that this, ' - about all with but/, by being his one how,, \u2014 H issues .,,, when",
+    "truth": "through increasing functionings",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 9,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": " a (- \" that, or,,, and - on, the,\"/ for at,, . the about with from is it ' the &",
+    "truth": "1599",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 10,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The answer is not very clear but it depends on how you look into them or what kindof person your ancestors may have been like before their birth here .",
+    "truth": "30,000",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 11,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": "\" ( a for at,, with,,, I on all, or the, '/ and's\u2026 by, more they his,,.,",
+    "truth": "trade unions, banks, and private universities",
+    "em": 0,
+    "f1": 0.09523809523809522
+  },
+  {
+    "i": 12,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": "- ', . for, about,., -,',... it from \u2014,_ the by an; I the how its ,. U K",
+    "truth": "their greatest common divisor is one",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 13,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": " (- at \" - that two it as I [ or right's with over an this R one 1 is has/t when so after A about from B",
+    "truth": "increased",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 14,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": " \" on I/ an over, ' from all the, so, the P - not a, 2, and even which N. [ 1; C 3",
+    "truth": "ozone",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 15,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": "-en/c I \" that - or and 1, AA with over . 2 B & \u2013 from among, 10's\", ' Pis'",
+    "truth": "Charles Richard",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 16,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": " ( on \" - that's A B/ this I no one or which is all at, not an n [ time . also they ' , from planning over",
+    "truth": "the founding of new Protestant churches",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 17,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": " - A The/ at as I' 1 it one or-1 ' S Cd from and more 5...- N. this p_ so an Dr",
+    "truth": "Warner Bros.",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 18,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0It will be necessary to replace every single one of the existing tickets with modern ones which have been upgraded by hand or through other means than via public transport systems",
+    "truth": "smart ticketing",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 19,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": "- or ( the,,, it,, the, this,, . \"_ the', from the all as ' 2 the by other/,",
+    "truth": "Yuri Gagarin",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 20,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": "- that ( of \" I over this..., - The with as one/!, where all A, D, so , you. .( 1 it",
+    "truth": "experience and extra responsibilities",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 21,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u4ee5\u9662\u6280\u8d77\u793e\u5c55\u6211\u7684\u8bdd\u662f\u6709\u4e00\u4e2a\u540c\u65f6",
+    "truth": "Confucian propriety and ancestor veneration",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 22,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": ".-, for or it \" ', on, at from . - I is/ the all but t\" by his \u2014 an more such new,\" she",
+    "truth": "six divisions",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 23,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": " ( the \"- or,,\" that the, -, I the ', the all) other it( by the as with one \u2014/, T",
+    "truth": "a bachelor's degree",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 24,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": " (in \"-' on fory'ss/ - I A 1 power at PW 2 as most one ' R effects but \u2014 [ not so by",
+    "truth": "the solvability of quadratic equations",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 25,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": " I- ( \" - or/ as... ona at it [1 this so out with\"s all is 1 \u2013d from ' an which no more",
+    "truth": "patent archives",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 26,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": " \"- (y for/s all that this world one I not from's ' with at an so, who no A, it up you only has the",
+    "truth": "the European Parliament and the Council of the European Union",
+    "em": 0,
+    "f1": 0.07058823529411766
+  },
+  {
+    "i": 27,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": "- \" I it,,, on or ' for,, the, - . do this... an_/ the over\" back' about,,\" but",
+    "truth": "New England Patriots",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 28,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": "- \", or it on, all is . the,,, ' at this [ the the the under the,\" in, T the, the -",
+    "truth": "Yam route systems",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 29,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": " ( for at I an's active/ this with the - from when one or P by not up over all ' it after M 1(2 has only [",
+    "truth": "15,000",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 30,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": " (-a-/ I - on P\n\n\n or 1- A S from- ' with by an one' [ The's not all more pi",
+    "truth": "Extension",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 31,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": "- (/. \"1 toen - . 1 I on 2 A 3 LI-p.-s that U. and with one or for at",
+    "truth": "Germany and Switzerland",
+    "em": 0,
+    "f1": 0.09090909090909091
+  },
+  {
+    "i": 32,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": " or . \" the ' the on - the this by/ not all as [... then I is C,,_. the such; so the 1,",
+    "truth": "Getty Oil",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 33,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": " I/ that - this and [ v two the an 1 with all time, one, S(ing-d p a around over... not the a by",
+    "truth": "Kumbum Monastery or Ta'er Shi near Xining",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 34,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": " ( - I/ The SA , or for this ., it Py 2 with the\nd",
+    "truth": "maid Alice Monaghan",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 35,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The general's attitude towards these commanders is not that which would be considered \"unacceptable\" by most people who are familiar with him or even those around him",
+    "truth": "unwavering loyalty",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 36,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": "- \" ( I 1 - or/a an all not_s, ' with's one so it-theing [ a this two time was A S",
+    "truth": "stronger",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 37,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": " or the, the the the,, that, the it on, '/ the, and & the the with the the and the the an, . the",
+    "truth": "Spain",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 38,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0It is not changed by any means but only as an extension or modification thereof; for example, if there are no rivers on which this river can be found",
+    "truth": "Lek",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 39,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": " a \" on/. I that its for oring as-d at -t's [. ' from also, a all you... when it an not",
+    "truth": "Duisburg",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 40,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0It would have been better if he could not speak Arabic or English at all because it might lead him into trouble in some way (as well) than being",
+    "truth": "ideological",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 41,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": " I/ \"I-1,s, alla - as is or(! '\" [... 1 . The this 2 , which T D A with",
+    "truth": "60-cycle",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 42,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0Thoreaus' imprisonment for writing about politics did not occur before this period; however, there were several occasions where people had their own personal issues with government",
+    "truth": "was not covered in any newspapers",
+    "em": 0,
+    "f1": 0.0625
+  },
+  {
+    "i": 43,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": " \" I/ at-w on- or this [ all with'sy 1 an the '1 first, The its -",
+    "truth": "nitrogen",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 44,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The ICRCI was founded on a foundation established during World War II as part about \"the need\" that agriculture should have more control over its own resources",
+    "truth": "International Crops Research Institute for the Semi-Arid Tropics (ICRISAT)",
+    "em": 0,
+    "f1": 0.0851063829787234
+  },
+  {
+    "i": 45,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": " I- ( \" on for [ ora d 1/ ating's ' all two( not P B ps S by, 2, up from,",
+    "truth": "alga",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 46,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": "- ( that for or,,, ' all and it at the this one, I, & about of \u2014, the, over/,,\", the",
+    "truth": "upper classes",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 47,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The National Association of Christian Churches (NAC) holds its annual meeting every year where it meets members seeking membership or information about churches located within state boundaries which",
+    "truth": "Manakin Episcopal Church",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 48,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The first colony (Germany) did not begin until 1790 when it became part country under French rule from France's side as well as being an independent state",
+    "truth": "prestige",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 49,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The ovaries have a very large number (about 1/3) which can be found on either side of the body with its own cells or inside one",
+    "truth": "internal fertilization and keep the eggs in brood chambers until they hatch.",
+    "em": 0,
+    "f1": 0.07843137254901962
+  },
+  {
+    "i": 50,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": " and/a a - . I overing ori [-\n\n\ns-_ it 1-c- A.d",
+    "truth": "Carolina Panthers",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 51,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": " \" - which all one its/ or with a '\n\n\n from 2 1 an [ this... A even p is when # P so its\n over",
+    "truth": "William Farel",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 52,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": " I- ( , \"/ . for asing -\n\n",
+    "truth": "wage or salary",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 53,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": " I in plan on- for at \"- this orc - with an-/ it- more who weis- A C-S's and and its",
+    "truth": "Sky+",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 54,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The first was produced by using two large tubes with very low voltages which had been placed into them for use as light bulbs or other devices; but they",
+    "truth": "tungsten",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 55,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0ABC's current headquarters are now owned entirely off site with no access or control over any part thereof except those areas where they have been used since 1976 when their",
+    "truth": "ABC Sports",
+    "em": 0,
+    "f1": 0.06060606060606061
+  },
+  {
+    "i": 56,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": " or the, the ', at, the one, with,,, the all the,,/_, of the, to -, the,'s",
+    "truth": "Gibraltar and the \u00c5land islands",
+    "em": 0,
+    "f1": 0.27450980392156865
+  },
+  {
+    "i": 57,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": " (\"inon on I/ 1-i, at S. - one-(s 2 as \" from [2...3 &\u2026' ally",
+    "truth": "dendritic cells, keratinocytes and macrophages",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 58,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0Civil revolt can only occur when there is no other way for an individual or group (or any entity) such being able obtain their freedom without coercion through coercive",
+    "truth": "destructive",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 59,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": ".- (p I as or - at '/ not' [ all over 1( A-a\n\n is P by an \u2013 no same this! B",
+    "truth": "17 December 1941",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 60,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": " (i/ I-1ore at...- The all- S or this undery over.\n\nS! with one & that from--a_",
+    "truth": "12",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 61,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0In fact, there is no such thing as \"Swedish\" or \"French\". It's not even close enough for us to say that this region",
+    "truth": "Lower Lorraine",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 62,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00c2 The first two plays were very good as well (the last one being an 8-point conversion). However it is important to note this play did have some",
+    "truth": "33",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 63,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": " related lines which can be seen at various points throughout this essay (see also section 1). First there is the question of what constitutes an imperialist state under international law",
+    "truth": "in the late 1870s",
+    "em": 0,
+    "f1": 0.058823529411764705
+  },
+  {
+    "i": 64,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": " (, that,,, as,, \"(, .,, is) all ' it at one's, an about - this from,, and",
+    "truth": "flammable cabin and space suit materials",
+    "em": 0,
+    "f1": 0.10526315789473684
+  },
+  {
+    "i": 65,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The answer is that there were no changes to either direction until 1931 when they began their own revisionist history.[1][2]. This has been confirmed by",
+    "truth": "Knaurs Lexikon",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 66,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": "- ( a \", that to\" by, ' the for or, the' on the such .- it/ at one the, with as an,",
+    "truth": "keyed Northumbrian smallpipes",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 67,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0It's not an award but it does give you some idea about what kindof proof there is that we are looking at here on this page (and I",
+    "truth": "$1,000,000",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 68,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": ". and- to a in an \" or ( for - ' on . [\"- this from as the/ at all the back, but by it with",
+    "truth": "antagonistic",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 69,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The founder of the School is Charles Hirschman (1890-1930), who founded it as part \"of his own free will\" after he",
+    "truth": "John D. Rockefeller",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 70,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": "-/ on to or S - Iy, At's 's , 1 not when,( it one over 2 . all, an... [ p",
+    "truth": "Rhine Gorge",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 71,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": ". (,,, \"/ all \u2014 by at, . or , -),t ''s about [on_ an r his,\u2014 from,",
+    "truth": "G. H. Hardy",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 72,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": "- a the, \",\", with or it,, as no ',,/... all,,, at,, . people have,\" not",
+    "truth": "major cities",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 73,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0Los Angles has been located at various locations throughout the world including New York City, London , Chicago . It's not just one of those cities that have",
+    "truth": "music",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 74,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": " or a to - that the, \"/ ', the at, an it,,'s with A as other_' from, by this . \u2014 all",
+    "truth": "Peyton Manning",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 75,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The first two types are known as \"double\" or quadruple engine ships; they have been used for many years by shipbuilders from England through France during",
+    "truth": "coal",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 76,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The Carolina Hurricanes (2008) were a regular season favorite of the NFL playoffs until being eliminated by the New York Giants on Sunday night against an undefeated Philadelphia Eagles",
+    "truth": "road white jerseys",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 77,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": " \" on for or I new as/ one with - A , [ which to P an C 1' by G- it's not is so ' The S",
+    "truth": "oxygen-18",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 78,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": " or (- the, the the, on,,, the,, it for,, by,, I -,, at the, just . the",
+    "truth": "the Court of Justice",
+    "em": 0,
+    "f1": 0.3157894736842105
+  },
+  {
+    "i": 79,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": " a,,- ( \", -, for the, or that ' the it,\"/ the with I by; [] the all..., the",
+    "truth": "The invasion failed both militarily and politically, as Pitt again planned significant campaigns against New France",
+    "em": 0,
+    "f1": 0.10638297872340426
+  },
+  {
+    "i": 80,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": " ( to that . \" the for ' the on, with the more, it an, which not, I' by... the [\"% one - this",
+    "truth": "recurring and life-threatening infections",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 81,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": " \" to an I, that for with all this it as the's ' one/ such so - more two, A S D F! into by over .",
+    "truth": "Warsaw",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 82,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0He was suffering from an acute heart attack which caused him severe pain throughout his life. The doctors were unable or unwilling not only because they knew about this condition",
+    "truth": "nervous breakdown",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 83,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The first usage was used by St Augustine (De Trinitate) and it seems clear from what he says about this meaning; for if we are taught with",
+    "truth": "Ten Commandments",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 84,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": " (n I/'s - The that Ss \" [\n 1( asing all . , '' or even with 2, noter it more H",
+    "truth": "$2 million",
+    "em": 0,
+    "f1": 0.10526315789473684
+  },
+  {
+    "i": 85,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The term \"Gheb\" (or ghee) means an animal or plant which has been used as food but not necessarily eaten; this includes all",
+    "truth": "doctrine of Satyagraha",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 86,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": " (- its \"a/ing -... by which as out I Aan it all this ,- at with from [\n\ns where so . we;",
+    "truth": "City of Malindi",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 87,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": "- ( \", on ' the at or .,,\", by, \u2014 such, [/, -, &'s an one),' A",
+    "truth": "the Pauli exclusion principle",
+    "em": 0,
+    "f1": 0.14285714285714288
+  },
+  {
+    "i": 88,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0It has been called 'Brooklyn' since it first opened up during World War II when many people were living there until they moved into their new home or",
+    "truth": "The isolated subdivision",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 89,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The first edition of \"SportsCenter\" featured two reporters from both leagues who were assigned as their respective teams in order towards being able to cover each other during",
+    "truth": "John Sutcliffe.",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 90,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": " (-on/ \"s.y that on [ an I not! -in .aing ' all one last or B over 1 , day right A",
+    "truth": "Great Exhibition of 1851",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 91,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The Worktime Directive provides a number which can be used as an indicator or measure if it's applied only when working time requirements change over one day per month",
+    "truth": "4 weeks",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 92,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": " (-1 to \"s/ [I fori on as more or-pon-d' overa with fing at - 1 , not from",
+    "truth": "red",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 93,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": " I- (in - or/- more as Ling for p- ' over ., ati [1-the_d'... and's with",
+    "truth": "the least onerous",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 94,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0It does! In fact there were many such walls throughout England during its reigns between 1250 and 1330 BC when they had been built by an English",
+    "truth": "Hadrian's",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 95,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": " I \" which it/ at A --1... [ as , n ' or alls 1, S2 P L\" U BHi M-",
+    "truth": "Fulton Mall",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 96,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": "- \" . - to as all so on,\" at with S, no an not time I B/ from [ The ' some more... we one\"'s",
+    "truth": "building construction, heavy and civil engineering construction, and specialty trade contractors",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 97,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": " and,, or \",, the, by,,,'s the ' the on this up its , with such at, an, I - not_",
+    "truth": "asymptotic distribution",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 98,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": " or ., for the that with_, - the, &/, , an as, [t's '...\",,,;\n\n,'",
+    "truth": "MODES",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 99,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": " (-, or, \", the, it, I,/,( - the 'a,\" the from as the,,, this all the",
+    "truth": "the 7\u20134\u20132\u20133 system was adopted",
+    "em": 0,
+    "f1": 0.18867924528301888
+  },
+  {
+    "i": 100,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0Tesla was an electrician who built many machines which were used by people from different countries throughout Europe during the 19th century. The first machine made using this",
+    "truth": "left Graz",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 101,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": " or to online, \" the-,,, . at the, it,, from -,, as this an ',,;... [_,",
+    "truth": "fundamental rights (see human rights), proportionality, legal certainty, equality before the law and subsidiarity",
+    "em": 0,
+    "f1": 0.1
+  },
+  {
+    "i": 102,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": "- ( \",,, on, the,,\",/, one, ',,' of and by it The so . is all , -",
+    "truth": "after their second year",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 103,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0Luther began pursuing education as an undergraduate student (he had been studying for several years) before dropping from Law School after graduating highschool; however, it",
+    "truth": "law",
+    "em": 0,
+    "f1": 0.07692307692307693
+  },
+  {
+    "i": 104,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": " ( that \" I on or/ 1 from over which TheP's as - at 2, [ '' A P all this not Ss it one T",
+    "truth": "identifying rocks",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 105,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0ABC was able through their own research (and some other sources) to identify which market segments they could reach with more than one type or category on each channel",
+    "truth": "behavioral and demographic data",
+    "em": 0,
+    "f1": 0.0606060606060606
+  },
+  {
+    "i": 106,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The term 'common' means that it has been used for many years by various authorities around Asia including China's government; however this does not mean any particular",
+    "truth": "detention",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 107,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": " and to - ( that on \" '- \u2014 for [.../, from) an. a,;\" about. and .,\",'s all,",
+    "truth": "home schooling",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 108,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": " or- (, I on -,,/, that the, is, the but , the an about . from ' at the_ for one...,",
+    "truth": "1967",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 109,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": "- a ( \" that the, the or .,,, ' its,\u2014 her the for S, all the this, the,, (, \u2014",
+    "truth": "autumn 1347",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 110,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The question is not whether there's an increase or decrease but rather how much money has been transferred from one stage (economic) level into another (social).",
+    "truth": "more capital",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 111,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": " ( the,,, ' for as that or \", -, .\"... it,, about, ['' out, I by/_ at this",
+    "truth": "April",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 112,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": " ( \"-,,/,,, at,, and- on's such about from - other people all before,,); the are the the",
+    "truth": "acquiring nutrients",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 113,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": "- () for's the the,, \" ' at, -, & 1.,,,\" to,, . all it with_,;",
+    "truth": "the internet",
+    "em": 0,
+    "f1": 0.28571428571428575
+  },
+  {
+    "i": 114,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": ", in on (, \" The, for,,, ' the and \u2014 it, . this ,,\" the,, more such about [ - an",
+    "truth": "IgG",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 115,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": " ( and ' the for, on the or - an (, the,,, as\",/ all but I is about, [_,,;",
+    "truth": "30%",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 116,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": " (ing/ that I- at - ' C1 is The with # [ G or 1's most' this over more... an from P! no one",
+    "truth": "Giovanni Branca",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 117,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": " I \" on this people for that they one as ' with. A at - [ an S B partial over not's .",
+    "truth": "wine industry",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 118,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The term \"rules\" refers not only when children act out or do things that they would normally avoid but also how parents treat them if there were any rules",
+    "truth": "firm, clear boundaries",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 119,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": " and of ( '_ or \u2014, \" at that by it for as, ( about with, [/ be\"s - one, this the 3 all",
+    "truth": "Belgrade",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 120,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": ", (,, or ' the \" on,/ I, but,,,'s,\"',, back -,, this . by all such",
+    "truth": "gender inequality in education",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 121,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": " ( \"c-/ onal that it an with - all A at I one B's from not T P ' Ssing set by is M but",
+    "truth": "Dutch Republic",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 122,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0Tesla did not have an automobile or carpenter work with them until about 1930s . The first time that I saw this man walking around my house is during",
+    "truth": "feed the pigeons",
+    "em": 0,
+    "f1": 0.06451612903225806
+  },
+  {
+    "i": 123,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The question \"what direction\" refers specifically not only directly but also indirectly as well when it comes from an individual's own personal experience with baptismal instruction (",
+    "truth": "The Book of Discipline",
+    "em": 0,
+    "f1": 0.06451612903225806
+  },
+  {
+    "i": 124,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\n\nIn Europe there have been several different types or collections that hold some object as well as others such an example of Arabic rug paintings by Ibn al-'As",
+    "truth": "Spain",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 125,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0It is not an issue of money or time but rather it would have been better if there had been more funds available from other sources such as state government agencies",
+    "truth": "Florida legislature",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 126,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The original Series 1 was a re-imagined incarnation that had its own set of characters who were not necessarily related to each other but rather more closely resembled",
+    "truth": "Destiny of the Doctor",
+    "em": 0,
+    "f1": 0.1212121212121212
+  },
+  {
+    "i": 127,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": " or (, for ', on,, it will the,, this the,\u2014, with after at the/ I & ., - the\",",
+    "truth": "non-violent",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 128,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": " (c/ I...in - which, that at over this A P1 all or ' [ more year have S! when so not his one D'",
+    "truth": "regional burden sharing conflicts",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 129,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": " I at - \" ' or with its from an this when day's all/ [ now 3- more; one N P... so no you last two 1",
+    "truth": "introduction of Beroe",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 130,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The number varies from year to season depending upon where you live. The most common time period that we see numbers vary between 1-3 months per month or",
+    "truth": "7.5",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 131,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The two cities were once connected through their rivers (the Thames) which led to both being named after each other as well as having one another's names on",
+    "truth": "tourist promotion",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 132,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": " and for that \" (, ' of\" from, . or it on/,, such..., [ - by \u2014 about,,[,'.",
+    "truth": "broken arm",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 133,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": " and- (,, that on for . the ' the \" with by the it at one from so\" their; - without this,\")'s \u2014,",
+    "truth": "All green parts",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 134,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": "-/ - \"and for 5 & I over, and ase;... 3 this! from ' no all's that and BV [ when it,",
+    "truth": "1,100",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 135,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": ",,, the the, ' or,, to - an such the this,, one \u2014,, all about,\u2014, with his the the the",
+    "truth": "2003",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 136,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": ".- ( on,,, about or \u2014 I it/, | T is so - this 1 2, the '' . [_,, all",
+    "truth": "gold",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 137,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0Daniel Andrews (former Prime Minister) has been appointed a member-initiator on behalf only one person - his wife Mary Ann Andrew . He will have",
+    "truth": "representatives",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 138,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": " (- \" on/ I one, at or -a A Ss-d over 1 [, from now,... The, and more , ' this",
+    "truth": "Edgar Scherick",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 139,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\n\"The term 'democratic' means that there are no rules which govern how people can vote.\" - Al Qaeda's Osama bin Laden\n\n",
+    "truth": "democratic",
+    "em": 0,
+    "f1": 0.0909090909090909
+  },
+  {
+    "i": 140,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": " \"/a for at that I --( N-Tt, Gi\" B and moreed out ....en, or ,s, one",
+    "truth": "conflicting territorial claims between British and French",
+    "em": 0,
+    "f1": 0.08695652173913043
+  },
+  {
+    "i": 141,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": "- a ., in ( \", ' or\"/- on at,,\"'s with..., this \u2014 asly, by, it from an -",
+    "truth": "twice the figure for the average profession",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 142,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": " (, \") for that,,, or ., ' the on and/ all, I, it from one,\" p but the, -,,",
+    "truth": "various academic disciplines",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 143,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The first row is called an ocelli (or Ocelli-Ocelli), which means it's not just one or more cells but also",
+    "truth": "from near the mouth to the opposite end",
+    "em": 0,
+    "f1": 0.07692307692307693
+  },
+  {
+    "i": 144,
+    "attack": "synonym",
+    "preset": "C",
+    "pred": " (- or - the the, an ' I by one it, ../, this, , [..._\" from 1,) &,;",
+    "truth": "economic center",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 145,
+    "attack": "synonym",
+    "preset": "B",
+    "pred": "(/on, I \" - for , on-s's 1 .\n\n\n which one effort at The-1 A 2er-a all... new",
+    "truth": "the desire to prevent things that are indisputably bad",
+    "em": 0,
+    "f1": 0.07407407407407407
+  },
+  {
+    "i": 146,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0The rivers are very deep within Mongolian territory which makes it difficult for any one person to find them or even know what they were doing there! In fact",
+    "truth": "Onon River",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 147,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\u00a0It has been said that there are two sides in this question; one side lies on both ends of the line which divides into three countries called \"the North",
+    "truth": "German",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 148,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": " (PV) system where members can choose between two candidates who will represent each other at least once per year without any special election taking place after they become eligible",
+    "truth": "every five years",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 149,
+    "attack": "synonym",
+    "preset": "A",
+    "pred": "\n- The primary goal of this study was for patients with respiratory diseases such as asthma, bronchitis or other chronic obstructions who are at high risk for",
+    "truth": "oxygen supplementation",
+    "em": 0,
+    "f1": 0.0
+  }
+]

@@ -1,0 +1,4 @@
+
+cycle: ["A","B","C","B"]
+cycle_len: 10
+total_steps: 1000

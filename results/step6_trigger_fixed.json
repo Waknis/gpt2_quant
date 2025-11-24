@@ -1,0 +1,1352 @@
+[
+  {
+    "i": 0,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The number varies from state to state depending on how much time you spend at school each day as well if your teacher has been teaching for more than one year",
+    "truth": "30",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 1,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0I have been told that it is a matter of faith for one who has lost all hope or hopes (or at least those which were once there) but",
+    "truth": "harsher",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 2,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The 1995 quake is one of the largest ever recorded on record (the first to occur since 1892). In fact it occurred just before 9 p .m",
+    "truth": "6.7",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 3,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0It is very difficult to say who did this or why but I think that we can all agree on one thing - there were many castles of great importance at",
+    "truth": "Robert Curthose",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 4,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0In early 1930-31 he met Charles Cushing (a German immigrant) at an American restaurant called The Pizzeria where she had been working for several",
+    "truth": "late 1920s",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 5,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "__________",
+    "truth": "thunderstorms",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 6,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The Department of Health does pay a fee per prescription that may be used only at pharmacies where there is no other way to obtain medication than through licensed medical practitioners",
+    "truth": "the Australian Government",
+    "em": 0,
+    "f1": 0.0588235294117647
+  },
+  {
+    "i": 7,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The main function or functions are held by members who have been appointed under an Act (or otherwise) which has passed through parliament but does nothing more important then",
+    "truth": "committee",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 8,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u3008What does this mean for us in terms that we can use our abilities or what kind they will be ableto accomplish?\"",
+    "truth": "through increasing functionings",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 9,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The English Empire is a colonial power that has been created through conquest from England (and other countries) with its own colonies which are now under occupation or control",
+    "truth": "1599",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 10,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u4f60\u8ba9\u9662\u548c\u6642\u77e5\u9053\u7684\u8bdd\u3002\u6211\u4eec\u662f\u6709\u5176\ufffd",
+    "truth": "30,000",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 11,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The problem with this argument lies in its lack thereof. It does not address whether or how a violation of an existing rule may result from any other action by",
+    "truth": "trade unions, banks, and private universities",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 12,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "__________\n\n",
+    "truth": "their greatest common divisor is one",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 13,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "__________",
+    "truth": "increased",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 14,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "__________\n\n",
+    "truth": "ozone",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 15,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "__________\n\n",
+    "truth": "Charles Richard",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 16,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0In fact it is clear that this prohibition did nothing more than prevent any further development of Christian doctrine or practice on earth; rather, its purpose had been merely",
+    "truth": "the founding of new Protestant churches",
+    "em": 0,
+    "f1": 0.05714285714285715
+  },
+  {
+    "i": 17,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The first installment is based upon an original script written by George Lucas as well; it has been adapted into several films including The Empire Strikes Back , Star Wars",
+    "truth": "Warner Bros.",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 18,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0It will be interesting if we can find out what exactly this means when it comes time on how these changes take place or whether they have been implemented yet again",
+    "truth": "smart ticketing",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 19,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "__________\n\n (1) The United States has been involved in an interplanetary war since its inception as part or even more than any other nation; it",
+    "truth": "Yuri Gagarin",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 20,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The salary ranges are based upon what is required of them by law (and therefore cannot change). The average wage per year varies widely across states with varying degrees",
+    "truth": "experience and extra responsibilities",
+    "em": 0,
+    "f1": 0.0606060606060606
+  },
+  {
+    "i": 21,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u4f60\u8def\u4ee5\u66f4\u77f3\u9662\u5c55\u7684\u8bdd\u662f\u6709\u4e00\u4e2a\u540c\u65f6",
+    "truth": "Confucian propriety and ancestor veneration",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 22,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The number of stations is based on how much money they have made from their broadcast networks over time; however, there are no numbers for each station or channel",
+    "truth": "six divisions",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 23,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The following is what I would say if you asked me about your qualifications as well as how many years are required by law or practice (or both). The",
+    "truth": "a bachelor's degree",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 24,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "__________\n\n (1) The first two terms have been defined as \"quadratic\" by their use of numbers; they may refer either to any one",
+    "truth": "the solvability of quadratic equations",
+    "em": 0,
+    "f1": 0.21428571428571427
+  },
+  {
+    "i": 25,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "__________\n\n (1) The first inventor was an American named William H. Smith who patented several electric cars which he sold at auction on eBay as well .",
+    "truth": "patent archives",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 26,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "__________ Answer: In order for an Article (Article) to be considered by the legislative authorities it must first come into force within one year after its adoption from",
+    "truth": "the European Parliament and the Council of the European Union",
+    "em": 0,
+    "f1": 0.06382978723404255
+  },
+  {
+    "i": 27,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0I am going back on this topic because I think it is important for us to be able say what we are doing right now when you look at our team",
+    "truth": "New England Patriots",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 28,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The economic system is based on an accumulation of wealth which can only grow when it has been accumulated through hard work or effort rather than money-making methods like",
+    "truth": "Yam route systems",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 29,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "izing process? How much did you do for each item when it came out from your own personal computers or other sources ? Answer : It took about 5 years before",
+    "truth": "15,000",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 30,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\n (1) The term 'rock unit' refers only when it means something other then an individual or group with its own structure but does not mean anything else",
+    "truth": "Extension",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 31,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0In all cases there was no known source for these items or their origin but it seems that they may have been manufactured by some other country with different laws than",
+    "truth": "Germany and Switzerland",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 32,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The following is my response on this subject as well as some other questions I have received about how much money was made by CBS News during 1985/86;",
+    "truth": "Getty Oil",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 33,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u4ee5\u9664\u679c\u8a00\u77f3\u5c55\u7684\u8bdd\u662f\u6709\u5176\u5b9a\u4f20\u4e3a\ufffd",
+    "truth": "Kumbum Monastery or Ta'er Shi near Xining",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 34,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The following is an excerpt from my book The Secret Life Of An American Scientist (New York : Harper & Row , 1999). It contains some interesting information about",
+    "truth": "maid Alice Monaghan",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 35,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The Mongols gave him no authority over any part or people except those who would be loyal subjects under General Ghizi's rule (the latter being considered",
+    "truth": "unwavering loyalty",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 36,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The main difference between these two systemologies lies in how they have been used by both parties (and indeed each party has its own set). In this case",
+    "truth": "stronger",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 37,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "**********\n\n",
+    "truth": "Spain",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 38,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "__________\n\n",
+    "truth": "Lek",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 39,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "__________\n\n",
+    "truth": "Duisburg",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 40,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0I am sure you will find it difficult in your mind if this has been said before or after reading about Muhammad IQB (the son) who died",
+    "truth": "ideological",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 41,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0Tesla was proposing something called \"a new type\" which is basically what we call electric vehicles with no battery or transmission systems as opposed just one kind where you",
+    "truth": "60-cycle",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 42,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0In fact there were several occasions where people did get caught up in this kind (elderhoods) which led them into exile from their homes for years",
+    "truth": "was not covered in any newspapers",
+    "em": 0,
+    "f1": 0.10526315789473684
+  },
+  {
+    "i": 43,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0In this case there are three different types; 1) A liquid form with an osmotic content greater than 0.5%, 2), or 3);",
+    "truth": "nitrogen",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 44,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The ICRITIUS Foundation was founded on a foundation that provides support through grants made under various programmes such as National Development Grants Programme or State Government Grant",
+    "truth": "International Crops Research Institute for the Semi-Arid Tropics (ICRISAT)",
+    "em": 0,
+    "f1": 0.05405405405405406
+  },
+  {
+    "i": 45,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0I am sure you will find it interesting how many different types there are among all living things! I would love for your help if we can get some answers",
+    "truth": "alga",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 46,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The French Revolution is still ongoing today (1523) but it has become more difficult to see how this could be considered part or parcel for revolution if there",
+    "truth": "upper classes",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 47,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "__________ Answer: I am sorry if you have been asked this but it's true there are many churches which hold religious ceremonies or events held during times of peace",
+    "truth": "Manakin Episcopal Church",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 48,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The first colony is called \"New Guinea\" (or Ngu) because it has been established as an independent state since 1789 when its name became part",
+    "truth": "prestige",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 49,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The female's ovaries have a small number (about 1/3) which can be used to produce offspring for herself or another male who will then take",
+    "truth": "internal fertilization and keep the eggs in brood chambers until they hatch.",
+    "em": 0,
+    "f1": 0.05128205128205128
+  },
+  {
+    "i": 50,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The AFC champions were a national championship contender from 1995 through 1997 when they won three consecutive titles over New England Patriots quarterback Tom Brady who had just completed his first",
+    "truth": "Carolina Panthers",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 51,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "__________[1] [2][3]. In this case it is possible to find an English version with some errors but no translations are available from other sources",
+    "truth": "William Farel",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 52,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The large percentage are self-employed individuals who have no other source for their earnings than money from which they can earn as well (or at least pay less",
+    "truth": "wage or salary",
+    "em": 0,
+    "f1": 0.0625
+  },
+  {
+    "i": 53,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The term \"personal\" refers only in relation with its own product or services which have been developed for it's purpose at least once before being used on any",
+    "truth": "Sky+",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 54,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0I am sure you know how much more powerful they could be than any other type or form of energy source available today! The only thing we need now for",
+    "truth": "tungsten",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 55,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The current one has been renamed 7 Lincoln Circle . It's called 8 North Central Plaza , but there are no details about this name yet or how many units",
+    "truth": "ABC Sports",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 56,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": " interpretation or application without first consulting with Member States concerned about them[vi]. In this respect, Article 2(1)(b) does not require any further clarification",
+    "truth": "Gibraltar and the \u00c5land islands",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 57,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The most important thing about this topic will be how many different types exist on earth (and even more so when you consider all these various kinds of molecules).",
+    "truth": "dendritic cells, keratinocytes and macrophages",
+    "em": 0,
+    "f1": 0.0588235294117647
+  },
+  {
+    "i": 58,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The following statement was made on March 1st at an event held for students who were protesting against police brutality during protests over racial profiling (see below). The",
+    "truth": "destructive",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 59,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The following is an excerpt taken directly from one such document by Drs., who were also involved as well (see below). It has been translated into English",
+    "truth": "17 December 1941",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 60,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0It depends how much screen time you use or what type it takes (the average person uses about 30 minutes per day). The number varies from one place to",
+    "truth": "12",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 61,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0In this case, we have two rivers that flow from one place (the River Leipzig) into another (the Lake Schlossen). This is",
+    "truth": "Lower Lorraine",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 62,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The first half started out as an easy one at times (the Bears were able only two plays later), then it became more difficult when there wasn't much",
+    "truth": "33",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 63,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": " related lines which can be seen at various points throughout this essay (see also section 1). First there is the question of what constitutes an imperialist state under international law",
+    "truth": "in the late 1870s",
+    "em": 0,
+    "f1": 0.058823529411764705
+  },
+  {
+    "i": 64,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The block III crewmembers wore an outer shell that had been replaced after their first mission as part \"of course\" from this point forward (the original version",
+    "truth": "flammable cabin and space suit materials",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 65,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The term \"change\" is used to describe changes that occur over time.[1][2]. It refers only when there are no known causes for such an",
+    "truth": "Knaurs Lexikon",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 66,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0I have no idea what he invented but I know that it was a very interesting invention which is why we are so fond to hear about him! He has",
+    "truth": "keyed Northumbrian smallpipes",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 67,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\nP = NP (or \"p\" or \"n\")\n\n",
+    "truth": "$1,000,000",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 68,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "__________[1] The following is a list from Wikipedia (with links to other sources):\n\"The first thing you need in order for an object to",
+    "truth": "antagonistic",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 69,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "__________ The School is founded as follows : A group of students who are interested primarily or exclusively at their own expense (i) have been invited into the program",
+    "truth": "John D. Rockefeller",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 70,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The Great River has been flowing since it formed on top to form the valley below where we are now located today. This part of the world's great rivers",
+    "truth": "Rhine Gorge",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 71,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\nThe most important thing is to understand what you're talking about here by understanding how things were done before they became popularized or even accepted into mainstream society (",
+    "truth": "G. H. Hardy",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 72,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\n-The market is a very important part; it's what makes us successful as people who are able or willing enough to make money from television shows we watch",
+    "truth": "major cities",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 73,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0In fact, it's all about entertainment media that has been based in Southern California for over 50 years now. It was founded by John Diefenb",
+    "truth": "music",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 74,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The most valuable player is always a man or woman with whom you have an intimate relationship . The greatest players are those men whose lives will be forever changed by",
+    "truth": "Peyton Manning",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 75,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The first two types of engine are used for a variety reasons including as an auxiliary fuel or on board other forms such that they can be utilized by any vessel",
+    "truth": "coal",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 76,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The Patriots were a regular season favorite on Sunday night against New England (the first of two games that will be played this year). It is possible it could",
+    "truth": "road white jerseys",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 77,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The amount of carbon dioxide is very small compared with other forms such as nitrogen or phosphorus which have been found on Earth's surface for many billions upon trillions times",
+    "truth": "oxygen-18",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 78,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\". It also stated it did so by virtue of Article 5(1) which gives Member States exclusive power over all matters relating to public administration or regulation (including",
+    "truth": "the Court of Justice",
+    "em": 0,
+    "f1": 0.0625
+  },
+  {
+    "i": 79,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The first attempt by a German army (the \"Germans\") had been unsuccessful because it did not have sufficient supplies for its own defense; but this",
+    "truth": "The invasion failed both militarily and politically, as Pitt again planned significant campaigns against New France",
+    "em": 0,
+    "f1": 0.07017543859649122
+  },
+  {
+    "i": 80,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "__________",
+    "truth": "recurring and life-threatening infections",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 81,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u021br\u0105d\u017aska\u0142a zw\u00f3czych wie komorodnyczna \u017cejn",
+    "truth": "Warsaw",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 82,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "__________\n\n",
+    "truth": "nervous breakdown",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 83,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "__________; I am sure you have heard this one before from many people who are familiar with it (see below). It was said by St John Chrysost",
+    "truth": "Ten Commandments",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 84,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The amount that went into this year's celebration is very small compared with previous years' celebrations such as last season when it cost about half what they did during",
+    "truth": "$2 million",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 85,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The term \"Ghanda\" has been used as an expression of popular sentiment or even just general usage since at least 17th century when there were many",
+    "truth": "doctrine of Satyagraha",
+    "em": 0,
+    "f1": 0.06896551724137931
+  },
+  {
+    "i": 86,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The name \"Malinda\" means town or village with its own language (Mandarin) which was used by traders from all over Africa until about 1500 AD",
+    "truth": "City of Malindi",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 87,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "__________[Citations need citation.]",
+    "truth": "the Pauli exclusion principle",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 88,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0In fact it has been called 'Brooklyn' since 1892 when there were many other names that have come up over recent decades such Asbury Park or",
+    "truth": "The isolated subdivision",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 89,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0I am in no way affiliated or associated directly nor did I ever receive any money from it whatsoever as part thereof; however, my name is Joe Dolan",
+    "truth": "John Sutcliffe.",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 90,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0In fact there is no doubt that many people have seen some interesting things on display here today (and I am sure they will be very interested). But what",
+    "truth": "Great Exhibition of 1851",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 91,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The Worktime Directive provides a basic right which can be applied only if it applies equally across members or even within one Member State as well as among others;",
+    "truth": "4 weeks",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 92,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0I am using this as an example to show how you can use your own knowledge on what type or species it's possible to get from plants with different types",
+    "truth": "red",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 93,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The right decision should have been taken at all times where possible but only if no other means were available for achieving the objective which has already been achieved or even",
+    "truth": "the least onerous",
+    "em": 0,
+    "f1": 0.1081081081081081
+  },
+  {
+    "i": 94,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0I am sorry but I cannot say so because there were no such pieces found by me when my excavations began last year or during any time since then!",
+    "truth": "Hadrian's",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 95,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The name is changed because it would have been better if we had known what they were called then when I started working there as an engineer at my father's",
+    "truth": "Fulton Mall",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 96,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "__________ The two types of buildings which constitute an industrial category include those used to construct large-scale commercial structures such as hotels, restaurants etc. These type units",
+    "truth": "building construction, heavy and civil engineering construction, and specialty trade contractors",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 97,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0It depends on what kind(s)of data you want to use with your model or how many times they were used by other models[1]. It",
+    "truth": "asymptotic distribution",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 98,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0It's all about how you use it for your own personal purposes or as an educational tool that can help others find information they need when searching through their collections",
+    "truth": "MODES",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 99,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The basic idea is simple; we are all born with one set or another (or both). We have different needs as well as differences between our parents'",
+    "truth": "the 7\u20134\u20132\u20133 system was adopted",
+    "em": 0,
+    "f1": 0.05714285714285714
+  },
+  {
+    "i": 100,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0Tesla was an engineer who made many inventions which were used by other inventors such Assembler's Workshops or \"Makers' Workshop\" etc.",
+    "truth": "left Graz",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 101,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "__________ The basic principle of EU legislation has always been to provide an equal opportunity with respect towards all citizens irrespective thereof; this means no discrimination against any person or",
+    "truth": "fundamental rights (see human rights), proportionality, legal certainty, equality before the law and subsidiarity",
+    "em": 0,
+    "f1": 0.045454545454545456
+  },
+  {
+    "i": 102,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The first time I heard about it was when my mother told me she had been invited by her father-in law (the same man who is now president",
+    "truth": "after their second year",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 103,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0Luther began studying mathematics as early or later than any other student ever before (and then again). The first time I saw this book is when it came",
+    "truth": "law",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 104,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The most important thing is that they have been used as instruments on which we study all kinds (including meteorites) from various angles around the globe! The",
+    "truth": "identifying rocks",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 105,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0ABC started with an initial set up on television (TV) which was then expanded into other media including radio/broadcast TV programs such \"The Tonight Show",
+    "truth": "behavioral and demographic data",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 106,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The term 'common' means that there are many different types; for example it refers only towards certain classes which may be considered more than others but also includes",
+    "truth": "detention",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 107,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0It's an informal term for \"a person who has been given instruction to teach.\" It refers specifically (and often implicitly) that this individual was educated there",
+    "truth": "home schooling",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 108,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0In 1966 NASA had planned on using an unmanned lunar module as its primary instrumentation during their Apollo missions (see below). The Moon Landing Program did use this",
+    "truth": "1967",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 109,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\n(1) It was a common occurrence that there were many cases where one or more persons died due to an illness caused by another person (e-mail",
+    "truth": "autumn 1347",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 110,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The problem is how can we explain what's happening when there isn't any real progress on some level or other (or even if they were) but only",
+    "truth": "more capital",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 111,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The second quarter was an unusually long period for parliamentarians as they were able only one day per calendar (the last three months) during their regular session at",
+    "truth": "April",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 112,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The term \"phaga\" refers only one type (the organism) within its own cell line; hence there are many different types among organisms including bacteria,",
+    "truth": "acquiring nutrients",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 113,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0It's been said about how much more important it is for educators than other factors such education itself (e-mail). It can also help with understanding why",
+    "truth": "the internet",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 114,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The maternal immune system has been known for many years to produce an immunoglobulin (Ig) in response either to direct contact on her part through",
+    "truth": "IgG",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 115,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0It is very important to know how many times you have used this machine for your own personal purposes or as an example on other occasions when there are no known",
+    "truth": "30%",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 116,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0I have no idea who said that it is possible to use an electric motor with two wheels without having any mechanical parts or motors attached at all! I am",
+    "truth": "Giovanni Branca",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 117,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": " Answer : It was not only those who came here but also many other people as well; for example, there are several varieties of grapes that can be grown on",
+    "truth": "wine industry",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 118,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The term \"stranger\" has been used by many people (including myself) but it does have its roots in American culture where children were taught that they",
+    "truth": "firm, clear boundaries",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 119,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0Tesla is an American citizen who lived abroad for many years before moving back home with his family after he died of cancer at age 50. He has been living",
+    "truth": "Belgrade",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 120,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\n\nThe problem arises when we are talking about women's participation in society through their own choices or by other means such as marriage (marriage) etc., but",
+    "truth": "gender inequality in education",
+    "em": 0,
+    "f1": 0.06451612903225806
+  },
+  {
+    "i": 121,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "__________",
+    "truth": "Dutch Republic",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 122,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "__________\n\n",
+    "truth": "feed the pigeons",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 123,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The Local Church does NOT provide members with an instruction manual that includes instructions regarding baptismal participation (see below). It also DOESN'T include information concerning",
+    "truth": "The Book of Discipline",
+    "em": 0,
+    "f1": 0.06666666666666668
+  },
+  {
+    "i": 124,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u0644\u0627 \u064a\u062d\u0645\u062f \u0628\u0646 \u0627\u0644\u0642\u0648\u0627\u062a \u0648\u0627\u0644\u062a\u064a\u0631\u0629 \u0645\u0639\u0647\u0628 ? : \"I am",
+    "truth": "Spain",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 125,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0It is an interesting topic because it seems like there are many different entities involved as well. For example, if you look at all of them they have been",
+    "truth": "Florida legislature",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 126,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The original Series was a re-imagined incarnation that had its own unique set up to be used by all new episodes including those which were originally written or",
+    "truth": "Destiny of the Doctor",
+    "em": 0,
+    "f1": 0.0606060606060606
+  },
+  {
+    "i": 127,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0Civil defiance can only mean something like an act or omission which would constitute criminal conduct under certain circumstances (suchas when it was done without consent). The term",
+    "truth": "non-violent",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 128,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The issue is that there are many different factors which can affect how much CO2 we emit or what our emissions will be like over time (and this includes",
+    "truth": "regional burden sharing conflicts",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 129,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The above mentioned problems were caused by an increase or decrease from one species per year until at least 2000 years ago when there had been no more than 1 million",
+    "truth": "introduction of Beroe",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 130,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The number that comes out as \"private\" or even just one percent (or less) does not mean it means there are no children enrolled under this program",
+    "truth": "7.5",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 131,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The two cities were once separated as they both saw their share on one side (the north) while at other times there is no such thing between them except",
+    "truth": "tourist promotion",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 132,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0I'm going back on my word that I was injured while playing for Carolina last year (and it's true). The Panthers were able win their first game",
+    "truth": "broken arm",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 133,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The most common type of Chloroplastin (ChL) that occurs naturally on many typesof leaves has been called \"green\" because it consists",
+    "truth": "All green parts",
+    "em": 0,
+    "f1": 0.08333333333333333
+  },
+  {
+    "i": 134,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0In fact there are over 100 trees that live within this area which make up approximately 2%\u20133%, depending upon their size as well . In addition,",
+    "truth": "1,100",
+    "em": 0,
+    "f1": 0.07142857142857144
+  },
+  {
+    "i": 135,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0In late 2013 when we were still fighting against IS militants there are reports about an attack which took place near Baghdad's main airport where some people had gathered with",
+    "truth": "2003",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 136,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The number is used on all official logos (except those issued under certain circumstances) except when it appears only once or twice per year during regular season play;",
+    "truth": "gold",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 137,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\n (1) In a parliamentary election there will always have been one person who was appointed Prime Minister; but if you were prime minister at any time during your",
+    "truth": "representatives",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 138,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The first television program on this list is \"Broadway\" (1961). The second TV show aired at least once during its run from January 1st",
+    "truth": "Edgar Scherick",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 139,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The term \"democratic\" means that there are no rules governing how people can vote; they have only one choice which determines their voting rights - whether you want",
+    "truth": "democratic",
+    "em": 0,
+    "f1": 0.07142857142857142
+  },
+  {
+    "i": 140,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0In 1804 there had been an agreement for all nations that they should have their own separate territories at sea or under one flag; this would be done through",
+    "truth": "conflicting territorial claims between British and French",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 141,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The 43%. The 44% is a very high number but it's also quite low in terms (and I'm sure you can see why). It may",
+    "truth": "twice the figure for the average profession",
+    "em": 0,
+    "f1": 0.11764705882352941
+  },
+  {
+    "i": 142,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "__________ Question: _________________ Answer (1) : A student who has completed his or her degree program may choose one course from this list for which he",
+    "truth": "various academic disciplines",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 143,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The first row is called an arbor (or bony) or barber's column; it has four columns on either side which have been arranged so",
+    "truth": "from near the mouth to the opposite end",
+    "em": 0,
+    "f1": 0.06896551724137932
+  },
+  {
+    "i": 144,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The key difference between Northern California and SouthernCalifornia lies in its geography. In terms about which part or other of the country it encompasses, there are two main",
+    "truth": "economic center",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 145,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0It's an issue for both parties involved with this case because it involves property owners who have been forced to build their own homes on public lands without any prior",
+    "truth": "the desire to prevent things that are indisputably bad",
+    "em": 0,
+    "f1": 0.049999999999999996
+  },
+  {
+    "i": 146,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The rivers are very deep within this region which makes it difficult for any person who has been there or seen them find a spot that they can't see from",
+    "truth": "Onon River",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 147,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0I am in favor that there are no such borders; but I think they should be drawn on one side or the other for convenience. It would seem very",
+    "truth": "German",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 148,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": " (PV) system where members can choose between two candidates who will represent each other at least once per year without any special election taking place after they become eligible",
+    "truth": "every five years",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 149,
+    "attack": "trigger",
+    "preset": "A",
+    "pred": "\u00a0The primary goal of this article is for you as an individual to understand what it means when your health care provider uses \"oxygen\" or other medications which",
+    "truth": "oxygen supplementation",
+    "em": 0,
+    "f1": 0.06666666666666667
+  }
+]

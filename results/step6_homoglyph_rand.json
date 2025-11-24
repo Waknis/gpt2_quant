@@ -1,0 +1,1352 @@
+[
+  {
+    "i": 0,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": " I- for \" which, moreing - who as The that one/... [ 1, like A from this D , one \u2013 by\u2026\n\ns",
+    "truth": "30",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 1,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": " a ( for , ofy or I/ on at all is that we - it no more which ' so [ 2\n to one not an from 1 by",
+    "truth": "harsher",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 2,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": "- (a \" to/ on a - I this as for ' with which A 1 or it an we from [ by's, but more no one its",
+    "truth": "6.7",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 3,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": " (a to \" on I ' - of that/ [in 1 2 \u2013 S... or B T at\n\n1 one this two not M' N H",
+    "truth": "Robert Curthose",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 4,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": "-' to you (ing it-in/\nab-c -i adsees, I one or- fore on out... that all at",
+    "truth": "late 1920s",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 5,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": "- I, \"'s an/ one -1,, that or at this- ' as all A P [ over it... so which , more time 1",
+    "truth": "thunderstorms",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 6,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": "- a that I -/ As at The P not ' A B [ and all\n\n which 1s p 2 it's so over more n , only.",
+    "truth": "the Australian Government",
+    "em": 0,
+    "f1": 0.07692307692307691
+  },
+  {
+    "i": 7,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": " or (-, by the- \",, ' the, it this, the all the,,,/ the's - an such with the \u2014)",
+    "truth": "committee",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 8,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u0361\u00b0 \u1f41\u0296\u1d52\u1fb6\u0300\u02da/\u2074\u21e8\u00ac \u22c5\ud835\udcf8 /",
+    "truth": "through increasing functionings",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 9,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0In 1650-1760 it became a partaking of trade with England which led directly towards its eventual collapse due mainly on account of their lacklustre",
+    "truth": "1599",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 10,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": "-, \" or ., for on, the, the the an,, the more by it, -,,\", ' , about, the I",
+    "truth": "30,000",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 11,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u0447\u0435\u0441\u0442\u0432\u0430 \u043f\u0440\u0438\u0437\u043d\u044b\u043c\u043e\u0432 (The Law) - A Practical Guide for Civil Disobedience",
+    "truth": "trade unions, banks, and private universities",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 12,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": "- for the, it, ', the, ...., by, new, the and, -, life from \u2014,, ,;_, [",
+    "truth": "their greatest common divisor is one",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 13,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u0447\u0435\u0440\u0430\u0432\u043d\u044b\u0439 \u043f\u043e\u043b\u044c\u043a\u0438\u044f (Rhinot) - A major source is that it has been",
+    "truth": "increased",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 14,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": " \" on I/ an over, ' from all the, so, the P - not a, 2, and even which N. [ 1; C 3",
+    "truth": "ozone",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 15,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "__________\n\n \"Charles\" portneyer's name means 'port' or 'Port-maker'. He started his career as an engineer with two patents from",
+    "truth": "Charles Richard",
+    "em": 0,
+    "f1": 0.08695652173913042
+  },
+  {
+    "i": 16,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0It did not protect them from being deprived or persecuted; it only prevented those who were compelled to do so (and thus they would be forced into exile)",
+    "truth": "the founding of new Protestant churches",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 17,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": " or ' the', . of,, I as, \u2014 at 1 -/ it, & the the the, is not,,\u2014, , [",
+    "truth": "Warner Bros.",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 18,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u0441\u0435\u0437\u0430\u043d\u0438\u044f\u0442\u044c\u043a\u043e\u0440\u044b\u043c\u043e\u0432\u043b\u0443\u0434\u0432-1st Place \u2013 1nd place! This will",
+    "truth": "smart ticketing",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 19,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The answer is not clear but it seems likely there were two people who flew into orbit around Earth during this time period (the second man named Mikhail Gorb",
+    "truth": "Yuri Gagarin",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 20,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The average salary of State school nurses is around $40,000 per year (or about 2% of their total pay). The median wage ranges between 1",
+    "truth": "experience and extra responsibilities",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 21,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u4ee5\u9662\u6280\u8d77\u793e\u5c55\u6211\u7684\u8bdd\u662f\u6709\u4e00\u4e2a\u540c\u65f6",
+    "truth": "Confucian propriety and ancestor veneration",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 22,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": ".-, for or it \" ', on, at from . - I is/ the all but t\" by his \u2014 an more such new,\" she",
+    "truth": "six divisions",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 23,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": " the- I ( - that as \" this with is/ or ' The one [ all Ls if you F... it what the top 1 by A P",
+    "truth": "a bachelor's degree",
+    "em": 0,
+    "f1": 0.07407407407407408
+  },
+  {
+    "i": 24,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": " (in \"-' on fory'ss/ - I A 1 power at PW 2 as most one ' R effects but \u2014 [ not so by",
+    "truth": "the solvability of quadratic equations",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 25,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The following is an excerpt from one such case where there was no need or reason to make any further discoveries about what had already become known as \"the inventor",
+    "truth": "patent archives",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 26,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "__________\n\n (1) In order for an Article 1 Convention adopted by Member States pursuant thereto be ratified at least once every five years from its date established within",
+    "truth": "the European Parliament and the Council of the European Union",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 27,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": "- \" I it,,, on or ' for,, the, - . do this... an_/ the over\" back' about,,\" but",
+    "truth": "New England Patriots",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 28,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The economic system is not an ideal one but it does have some advantages over other countries which do not use their own currency or exchange rates at all; this",
+    "truth": "Yam route systems",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 29,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": " or ( the we and it for,, ' the the all, by the about,,, with, to this time from - an the the the,",
+    "truth": "15,000",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 30,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The term 'extension' refers only when it means an extended section or part (or even just one) on top of another segment/part with no",
+    "truth": "Extension",
+    "em": 0,
+    "f1": 0.07692307692307693
+  },
+  {
+    "i": 31,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u0447\u0430\u0441\u0442\u043e \u043f\u043e\u043b\u044c\u0437\u0438\u043a\u0443\u043d\u044b\u043c\u044f (Vandas) - A Collection Of Fine Art From",
+    "truth": "Germany and Switzerland",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 32,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0ABC bought 16%. It was not until 1987 or 1988 where CBS acquired 17% of all those stockholders' shareholding rights as well as 18%, but",
+    "truth": "Getty Oil",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 33,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": " I an by that - one 1 all this.../ date issue, with 2 the, now the two the A B1, not ding out- (",
+    "truth": "Kumbum Monastery or Ta'er Shi near Xining",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 34,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": " ( - I/ The SA , or for this ., it Py 2 with the\nd",
+    "truth": "maid Alice Monaghan",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 35,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": "- \" ( that or ' at with's I... [iing - . The/1'and it\n\n , which you this numbery\ne out",
+    "truth": "unwavering loyalty",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 36,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u0456nst an OTHAN system has been used by many different parties since it was introduced into parliament during its first session (1903-1804",
+    "truth": "stronger",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 37,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": " or the, the the the,, that, the it on, '/ the, and & the the with the the and the the an, . the",
+    "truth": "Spain",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 38,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": " \"-/ one for that with -on the... or Ac1 1' nin &st time as an all. S PS 2 this",
+    "truth": "Lek",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 39,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": " a for \" ' that, it's, or ., the,, - of, an, the the, as on,,\", one from the",
+    "truth": "Duisburg",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 40,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0It would have been better if he could not speak Arabic or English at all because it might lead him into trouble in some way (as well) than being",
+    "truth": "ideological",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 41,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0Tesla was proposing something called \"a 50/50\" alternator with 100% efficiency as opposed just 1%. The idea is simple enough but what about electric",
+    "truth": "60-cycle",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 42,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u0447\u0430\u0440\u0442\u043e \u043f\u043e\u043b\u044c\u0437\u0438\u044f\u043d\u044b\u043c\u0443\u0441\u043a\u0432\u043b\u044f\u0434 (1918) [ edit ]",
+    "truth": "was not covered in any newspapers",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 43,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0It's not an osmotic liquid but rather its own organic material with no chemical bonds or bonding properties at all! The only way this can occur are",
+    "truth": "nitrogen",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 44,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The ICRCI was founded on a foundation established during World War II as part about \"the need\" that agriculture should have more control over its own resources",
+    "truth": "International Crops Research Institute for the Semi-Arid Tropics (ICRISAT)",
+    "em": 0,
+    "f1": 0.0851063829787234
+  },
+  {
+    "i": 45,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": " I- ( \" on for [ ora d 1/ ating's ' all two( not P B ps S by, 2, up from,",
+    "truth": "alga",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 46,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The revolt that took place at Trier-Litovsk (1523) is not mentioned here but it may have happened because there are no records",
+    "truth": "upper classes",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 47,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "__________\n\n (1) In 1776 there are two churches which have been established here under different names but both remain within this state's boundaries . One branch",
+    "truth": "Manakin Episcopal Church",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 48,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The first colony (Germany) did not begin until 1790 when it became part country under French rule from France's side as well as being an independent state",
+    "truth": "prestige",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 49,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": " a ( or - Iin/it on toa' \"c [i ' AAs for's over- PS, an &, D1",
+    "truth": "internal fertilization and keep the eggs in brood chambers until they hatch.",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 50,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The New York Giants and Washington Redskins were both named after a famous sportsman who won two national championships during his career; however, they did not represent the",
+    "truth": "Carolina Panthers",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 51,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The Franciscan friar Charles de la Rochefoulin is said \"to have been an Englishman\" [1]. He had no other religious",
+    "truth": "William Farel",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 52,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The large percentage of the people are not entitled as an owner but rather have been given their own share of land which they can use for personal purposes suchas",
+    "truth": "wage or salary",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 53,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": " I in plan on- for at \"- this orc - with an-/ it- more who weis- A C-S's and and its",
+    "truth": "Sky+",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 54,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": " or,-,, for,,, . from she by the, this as ' [/,) with and, the - the's its\" after",
+    "truth": "tungsten",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 55,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": ".'/e-a I-dly - or-er.. Ss.-inani.ed.. more-ing.in",
+    "truth": "ABC Sports",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 56,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": " interpretation or application without first consulting with Member States concerned about them[vi]. In this respect, Article 2(1)(b) does not require any further clarification",
+    "truth": "Gibraltar and the \u00c5land islands",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 57,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The answer lies within cytoplasmic retinoblastoma cell line (CRC) lineage 1A2 . Cytokine receptors on",
+    "truth": "dendritic cells, keratinocytes and macrophages",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 58,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": " ( -1/ ony, or n 1 ' [a* \u2014s all for I, an at P, The conten gi \u2013 with over",
+    "truth": "destructive",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 59,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": ".- or (, all-/, ' the the, the at the the. is,,, as,, by the, it,, and",
+    "truth": "17 December 1941",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 60,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": " (,, that it or ., \u2014, [],, from,.,,_,,, the/, by this, an the at",
+    "truth": "12",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 61,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": " (ing \" that for or at with an I - this all one is not/ [... ' 1's from over which more, A new, two P",
+    "truth": "Lower Lorraine",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 62,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00c2 The first two plays were very good as well (the last one being an 8-point conversion). However it is important to note this play did have some",
+    "truth": "33",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 63,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": ", ', ( [, in,,, and this at,,/ before, - the, \u2014 the, &'s, the one..., about",
+    "truth": "in the late 1870s",
+    "em": 0,
+    "f1": 0.4210526315789474
+  },
+  {
+    "i": 64,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u0456t is an open question as it has been shown that there are no such things outside the cockpit when used under normal conditions (see below). In fact",
+    "truth": "flammable cabin and space suit materials",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 65,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": "- on Iy/ - \"stsly to with that one for's ' an man or, all by , 2 [' moreen\" from .",
+    "truth": "Knaurs Lexikon",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 66,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": "- ( a \", that to\" by, ' the for or, the' on the such .- it/ at one the, with as an,",
+    "truth": "keyed Northumbrian smallpipes",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 67,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": "- ( on/ it, or that, at \" an, ., the as, from the,_, the out,\", , with,;",
+    "truth": "$1,000,000",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 68,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": ". in and to- a ( \" with or and ' for/ on at... and as from this, . all B by it through - an'\"",
+    "truth": "antagonistic",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 69,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The founder of the School is Charles Hirschman (1890-1930), who founded it as part \"of his own free will\" after he",
+    "truth": "John D. Rockefeller",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 70,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The Great River has been flowing since it formed on top to form the valley below where we are now located today! This part of the world's largest natural",
+    "truth": "Rhine Gorge",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 71,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": " ( \" The , I ' from at . - all [\" or/ is more over 1 not the's A. 2 which the so, an up one",
+    "truth": "G. H. Hardy",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 72,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": "- \" a at - with I/ this as it about, one is an over all [' more or ' from B A S 1, you not so",
+    "truth": "major cities",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 73,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u0456\u0440\u0430\u0432\u0438\u0442\u044c \u043f\u043e\u043b\u043e\u0441\u043a\u043b\u044f\u043d\u044b\u0439 - A new form of production that has been created by",
+    "truth": "music",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 74,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The Hall Of Fame inductee is a former NFL player named Frank Gore III from New York City's East Side during his time as an assistant coach at Penn",
+    "truth": "Peyton Manning",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 75,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": " a_ 1 \" '/ - on that A for , I it as...[mst or-'s first over, The one, P, this not",
+    "truth": "coal",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 76,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": " a ( I on of that by ' - or S/ an right from high oneD is this... all it out [ not P 2 you over so be",
+    "truth": "road white jerseys",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 77,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u0456\u0432\u0430\u043d\u0438\u0435 \u043f\u0440\u043e\u0434\u0443\u0436\u0434\u044b\u0442\u044c\u044f\u043c\u043b\u043a : The amount of carbon dioxide present is not",
+    "truth": "oxygen-18",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 78,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": " or (- the, the the, on,,, the,, it for,, by,, I -,, at the, just . the",
+    "truth": "the Court of Justice",
+    "em": 0,
+    "f1": 0.3157894736842105
+  },
+  {
+    "i": 79,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": " a,,- ( \", -, for the, or that ' the it,\"/ the with I by; [] the all..., the",
+    "truth": "The invasion failed both militarily and politically, as Pitt again planned significant campaigns against New France",
+    "em": 0,
+    "f1": 0.10638297872340426
+  },
+  {
+    "i": 80,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": " ( to that . \" the for ' the on, with the more, it an, which not, I' by... the [\"% one - this",
+    "truth": "recurring and life-threatening infections",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 81,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": " to or that as, \",/, ',\" an's, it for,, - about ., , &' the all her hot the by",
+    "truth": "Warsaw",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 82,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": "- \"1 - or/a' 1 I A P-p( an ' [ 2 day, it from The soi's-\"\n\n , N",
+    "truth": "nervous breakdown",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 83,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": " and- ( for I/ - this its ' S it 1 by they with all one at the, the from T A p P The their [ we,",
+    "truth": "Ten Commandments",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 84,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": " (in \" or its/ai withitisle as overo P [;' - I. ' all . it from ising that_1",
+    "truth": "$2 million",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 85,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": "- on ( the, \" the or \u2014 the,, ' '/ as the are from at the an such' - the the C . the, I",
+    "truth": "doctrine of Satyagraha",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 86,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\n- The name \"Malinda\" means town or village with its own language (Mambai) which was used by traders from all over the world until",
+    "truth": "City of Malindi",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 87,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": "- ( \", on ' the at or .,,\", by, \u2014 such, [/, -, &'s an one),' A",
+    "truth": "the Pauli exclusion principle",
+    "em": 0,
+    "f1": 0.14285714285714288
+  },
+  {
+    "i": 88,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0It has been called 'Brooklyn' since it first opened up during World War II when many people were living there until they moved into their new home or",
+    "truth": "The isolated subdivision",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 89,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": " I in -/ or \". [sa all as at more is thisj, whichinic , . 1 'and\n\ne. B T A",
+    "truth": "John Sutcliffe.",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 90,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": " (-on/ \"s.y that on [ an I not! -in .aing ' all one last or B over 1 , day right A",
+    "truth": "Great Exhibition of 1851",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 91,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u0447\u0430\u0440\u0438 \u043f\u043e\u0441\u0442\u0443\u0439\u043d\u044b\u043c\u043e\u0432\u044c\u044f!",
+    "truth": "4 weeks",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 92,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The answer to this question depends on what you mean by \"phytochemical\" or chemical composition (e-mail me if interested). The most common way",
+    "truth": "red",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 93,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": "-ing ( I/1 of -\n\ni P...V Sd. all' as for at-a \u2014c '-t\" A so &",
+    "truth": "the least onerous",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 94,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": " I- by which - [ its an n ori/ , more... ' 1",
+    "truth": "Hadrian's",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 95,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": " I \" which it/ at A --1... [ as , n ' or alls 1, S2 P L\" U BHi M-",
+    "truth": "Fulton Mall",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 96,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": "- \" . - to as all so on,\" at with S, no an not time I B/ from [ The ' some more... we one\"'s",
+    "truth": "building construction, heavy and civil engineering construction, and specialty trade contractors",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 97,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0It's not just one or two digits but many more and even larger ones too! It can't simply mean \"the same\" with respectto any given",
+    "truth": "asymptotic distribution",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 98,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": " I/and for T - 1' more as an [ ' that one & all(I n over . which this with 2; who! or new...",
+    "truth": "MODES",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 99,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": " (-, or, \", the, it, I,/,( - the 'a,\" the from as the,,, this all the",
+    "truth": "the 7\u20134\u20132\u20133 system was adopted",
+    "em": 0,
+    "f1": 0.18867924528301888
+  },
+  {
+    "i": 100,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": "-c- \". --a/ A-*s.. ' .-\" I- which we it. FS'!\n\n\n...",
+    "truth": "left Graz",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 101,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": " \"-c I to - or/S- as one at, . A The... and '\u2026 Pon- [ it-l'ss this!",
+    "truth": "fundamental rights (see human rights), proportionality, legal certainty, equality before the law and subsidiarity",
+    "em": 0,
+    "f1": 0.13333333333333333
+  },
+  {
+    "i": 102,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": "- ( I \",, and, - on, all '..., public B it/ from the with\u2014( the its but is) by other one",
+    "truth": "after their second year",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 103,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": " (, \" ' for as it from the' or is an the/, .,, and all the, , the F - I this,, the",
+    "truth": "law",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 104,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": " (, \" that it on.,, or . at, ',\" the/, -,, [_ as, , such the, 1.",
+    "truth": "identifying rocks",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 105,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": " (, or on the \"/, [, . the such with '_ at this - other.) an more about , one',, out\"",
+    "truth": "behavioral and demographic data",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 106,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": ".,, that,, by, for this,,, from '/, an) with such it, - the the its . , I_...",
+    "truth": "detention",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 107,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": " and to \"-, (, for ., ' on C an that/ this - them)_\" F and,c was last [. all when",
+    "truth": "home schooling",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 108,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": " or- (, I on -,,/, that the, is, the but , the an about . from ' at the_ for one...,",
+    "truth": "1967",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 109,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\nIn 1401, when was the plague arrived at Cairo? [Cairo is a major center for epidemics.] When did the plague reach Athens? (",
+    "truth": "autumn 1347",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 110,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": "- ( on/ \"in I, ' The S for... is not an or alls from, at some people -. the my [\u2026 you's",
+    "truth": "more capital",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 111,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": " ( \" for . at, or that [..., it as this the/ ' time, -, by one an its\", about \u2014 the how)",
+    "truth": "April",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 112,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": " \"-in ( - Iing its/ on_a( at from over 1 2 \u2013 two- moreoron's long [fy\" A B",
+    "truth": "acquiring nutrients",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 113,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": " (-c \" , one- [C - I whichs, 2a fory,-g, and-an,\u2026 .- '-en",
+    "truth": "the internet",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 114,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": " (, in \", and, of for, on \u2014 ', the, an all it the, such T/ this's, [, - other people",
+    "truth": "IgG",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 115,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": " ( - . I/ for its on at a version as who this no when all the from by, an noting ' you is [\" over or their",
+    "truth": "30%",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 116,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": " (ing/ that I- at - ' C1 is The with # [ G or 1's most' this over more... an from P! no one",
+    "truth": "Giovanni Branca",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 117,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": " Answer : It was not only those who came here but also many other people as well; for example, there are several varieties of grapes that can be grown on",
+    "truth": "wine industry",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 118,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": "- ( \" on L, S I at all/, that ' the n so, it's - 1 this from one [ more, its because The ,",
+    "truth": "firm, clear boundaries",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 119,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": " and ( \" one of that for an which as no is at all not to with or but '/ this [ 1 I for it first - source has B",
+    "truth": "Belgrade",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 120,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": " (/ \" I on not - The or ' more's all this one...p by 1 [s p, P'\n\n when long firstly time now",
+    "truth": "gender inequality in education",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 121,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": " ( \" that the,, at the, or the an,, is the to the the on - all the from the by it the with the the,",
+    "truth": "Dutch Republic",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 122,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0Tesla did not have an automobile or carpenter work with them until about 1930s . The first time that I saw this man walking around my house is during",
+    "truth": "feed the pigeons",
+    "em": 0,
+    "f1": 0.06451612903225806
+  },
+  {
+    "i": 123,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\nThe Local Church does not provide instruction regarding baptismal participation as it would be contrary thereto if there were no instructions concerning baptizing persons who are baptized by immersion",
+    "truth": "The Book of Discipline",
+    "em": 0,
+    "f1": 0.0606060606060606
+  },
+  {
+    "i": 124,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": ". ' the, or . \", the,, that for the, and,,, the the, the by, the andt, it,,",
+    "truth": "Spain",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 125,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": "- of \"\", as the or, ., and,, '..._,, it an. of , back from -, about this but I",
+    "truth": "Florida legislature",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 126,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": " a- one that to I \"/ - it . ' or number 1... two A which\" by, at all S 2 [ D L B 10 so",
+    "truth": "Destiny of the Doctor",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 127,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0Civil disobedience consists primarily or exclusively (and often only)of nonviolent actions which may include resisting police officers who attempt an unlawful search for contraband suchas drugs",
+    "truth": "non-violent",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 128,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The question is not whether there are more than two or three major sources of greenhouse gases (or even if they do), it is how much each source contributes",
+    "truth": "regional burden sharing conflicts",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 129,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": " I \"1 or/ 1-d at - 'a AS with 2's an time to one [ S' alls, the from this P...",
+    "truth": "introduction of Beroe",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 130,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": "- \"/ (c I- and or one that all V and - which A , J PI( C1, ' The as, 2 1,",
+    "truth": "7.5",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 131,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The two cities were once connected through their rivers (the Thames) which led to both being named after each other as well as having one another's names on",
+    "truth": "tourist promotion",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 132,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The NFL has been very good at predicting injuries and they have done it well for years now as evidenced by their success on both sides of football (and also",
+    "truth": "broken arm",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 133,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The most common type of Chlorophorella species that include many types and colors (including reds, yellows) includes some colorless ones such",
+    "truth": "All green parts",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 134,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": "-'/ing - as \" for I-in",
+    "truth": "1,100",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 135,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": ",,, the the, ' or,, to - an such the this,, one \u2014,, all about,\u2014, with his the the the",
+    "truth": "2003",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 136,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": " (- I - on P/ [ or, ' time A more no this & 1 5!, B it because over all new one not S' now",
+    "truth": "gold",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 137,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0Daniel Andrews (former Prime Minister) has been appointed a member-initiator on behalf only one person - his wife Mary Ann Andrew . He will have",
+    "truth": "representatives",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 138,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": " or- ( \" on your . the such ' at, one\" is the,/, this to I,, from)\u2026, the,\n\n.\"",
+    "truth": "Edgar Scherick",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 139,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": " \"1 I-s - which more A with- [...\n\na that 2's all its . ' not 4 over new, at an- 1,",
+    "truth": "democratic",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 140,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0In 1804 there had been an agreement for Canada to be part thereof at Quebec City; this deal did not include any other issue that would have affected its",
+    "truth": "conflicting territorial claims between British and French",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 141,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": " or in a .- \"/'s ( on with ' one an,\"\", by) at_ure - is 3 [, from as this,;",
+    "truth": "twice the figure for the average profession",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 142,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u0456t was not only one of the most important universities for its students but it has become increasingly popular among many people who are interested primarily on their own personal",
+    "truth": "various academic disciplines",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 143,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": "- (- I- as - it onc, at [ or A's '/ this\n\n\n not we... n its an one- more C ,",
+    "truth": "from near the mouth to the opposite end",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 144,
+    "attack": "homoglyph",
+    "preset": "B",
+    "pred": " ( it - I/ not all at an '' or one,, 1 [... with the their, just over this from when so A D n by",
+    "truth": "economic center",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 145,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": ", for, \",\", ' the all the with at, -... on it the,/ ['s, about ..\" \u2014,_ more but",
+    "truth": "the desire to prevent things that are indisputably bad",
+    "em": 0,
+    "f1": 0.14634146341463417
+  },
+  {
+    "i": 146,
+    "attack": "homoglyph",
+    "preset": "A",
+    "pred": "\u00a0The rivers are very deep within Mongolian territory which makes it difficult for any one person to find them or even know what they were doing there! In fact",
+    "truth": "Onon River",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 147,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": " in or . the, for -,,, \" that the on all, ',\" the,, the one this new the, I about [,",
+    "truth": "German",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 148,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": ", (/,,, the, -, the the,, and the the at,,., ',,_ the the the it the,",
+    "truth": "every five years",
+    "em": 0,
+    "f1": 0.0
+  },
+  {
+    "i": 149,
+    "attack": "homoglyph",
+    "preset": "C",
+    "pred": "- for as or . \" ',, an it one [ about -/,,, all by_ the;... no' with\u2026 at its ,",
+    "truth": "oxygen supplementation",
+    "em": 0,
+    "f1": 0.0
+  }
+]
