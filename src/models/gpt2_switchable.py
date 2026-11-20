@@ -28,8 +28,7 @@ def replace_linear_with_lora(module: nn.Module, presets: dict, lora_rank: int, l
             setattr(module, name, new)
         elif isinstance(child, Conv1D):
             # Conv1D: nf=out_features, nx=in_features, weight shape is (nx, nf) = (in, out)
-            in_features = child.nx
-            out_features = child.nf
+            in_features, out_features = child.weight.shape
             new = LoRALinear(in_features, out_features, bias=True, w_bits=8, a_bits=8)
             with torch.no_grad():
                 # Conv1D weight is (in, out), nn.Linear weight is (out, in), so transpose
@@ -57,20 +56,20 @@ class SwitchableGPT2(nn.Module):
         rules = cfg.get("layers") if isinstance(cfg, dict) else None
         default_w = int(cfg.get("w_bits", 8)) if isinstance(cfg, dict) else 8
         default_a = int(cfg.get("a_bits", 8)) if isinstance(cfg, dict) else 8
-        if rules:
-            compiled = [(re.compile(r["pattern"]), int(r.get("w_bits", default_w)), int(r.get("a_bits", default_a))) for r in rules]
-            for name, module in self.inner.named_modules():
-                if hasattr(module, "set_bits"):
-                    for rgx, wb, ab in compiled:
-                        if rgx.search(name):
-                            module.set_bits(w_bits=wb, a_bits=ab)
-                            break
-                    else:
-                        module.set_bits(w_bits=default_w, a_bits=default_a)
-        else:
-            for m in self.inner.modules():
-                if hasattr(m, "set_bits"):
-                    m.set_bits(w_bits=default_w, a_bits=default_a)
+        compiled = [
+            (re.compile(rule["pattern"]), int(rule.get("w_bits", default_w)), int(rule.get("a_bits", default_a)))
+            for rule in (rules or [])
+        ]
+        for name, layer in self.inner.named_modules():
+            if not isinstance(layer, LoRALinear):
+                continue
+            # Configure each projection once. Its nested quantizer shares the same bits.
+            for pattern, w_bits, a_bits in compiled:
+                if pattern.search(name) or pattern.search(name + ".base"):
+                    layer.set_bits(w_bits=w_bits, a_bits=a_bits)
+                    break
+            else:
+                layer.set_bits(w_bits=default_w, a_bits=default_a)
 
     def _route_adapters(self, preset_name: str):
         for m in self.modules():
@@ -86,22 +85,17 @@ class SwitchableGPT2(nn.Module):
     def random_preset(self, rng: torch.Generator | None = None, weights: list[float] | None = None):
         keys = list(self.presets.keys())
         probs = torch.tensor(weights or [1.0/len(keys)]*len(keys))
-        idx = torch.multinomial(probs, 1).item()
+        idx = torch.multinomial(probs, 1, generator=rng).item()
         self.set_preset(keys[idx])
 
-    # Robust loader: migrate legacy keys and ignore extras
-    def load_state_dict(self, state_dict, strict: bool = True):
-        sd = dict(state_dict)
-        if "inner.lm_head.weight" in sd and "inner.lm_head.base.fc.weight" not in sd:
-            sd["inner.lm_head.base.fc.weight"] = sd.pop("inner.lm_head.weight")
-        if "inner.lm_head.bias" in sd and "inner.lm_head.base.fc.bias" not in sd:
-            sd["inner.lm_head.base.fc.bias"] = sd.pop("inner.lm_head.bias")
-        current = set(self.state_dict().keys())
-        filtered = {k: v for k, v in sd.items() if k in current}
-        missing = [k for k in current if k not in filtered]
-        unexpected = [k for k in sd.keys() if k not in current]
-        print(f"[SwitchableGPT2.load_state_dict] filtered unexpected={len(unexpected)} missing={len(missing)}")
-        return super().load_state_dict(filtered, strict=False)
+    def _load_from_state_dict(self, state_dict, prefix, *args):
+        # Older checkpoints wrapped the output head. GPT-2 now ties it to the embeddings.
+        legacy_key = prefix + "inner.lm_head.base.fc.weight"
+        if legacy_key in state_dict:
+            legacy_weight = state_dict.pop(legacy_key)
+            embedding = state_dict.get(prefix + "inner.transformer.wte.weight", legacy_weight)
+            state_dict.setdefault(prefix + "inner.lm_head.weight", embedding)
+        super()._load_from_state_dict(state_dict, prefix, *args)
 
     def forward(self, *args, **kwargs):
         return self.inner(*args, **kwargs)
