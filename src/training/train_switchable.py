@@ -6,6 +6,20 @@ from torch.optim import AdamW
 from src.models.gpt2_switchable import SwitchableGPT2
 from src.data.squad_dataset import SquadGPT2Dataset
 
+
+def answer_distillation_loss(student_logits, teacher_logits, labels, temperature):
+    """Mean teacher-to-student KL over logits that predict supervised answer tokens."""
+    targets = labels[:, 1:] != -100
+    student = student_logits[:, :-1][targets]
+    teacher = teacher_logits.detach()[:, :-1][targets]
+    loss = F.kl_div(
+        F.log_softmax(student / temperature, dim=-1),
+        F.softmax(teacher / temperature, dim=-1),
+        reduction="sum",
+    )
+    return loss * temperature ** 2 / max(1, student.shape[0])
+
+
 def seed_all(s):
     import numpy as np, random, torch
     random.seed(s); np.random.seed(s); torch.manual_seed(s)
@@ -109,12 +123,10 @@ def main():
 
         # === Cascade Distillation: Forward all presets and store outputs ===
         preset_outputs = {}
+        batch = {key: value.to(device) for key, value in batch.items()}
         for preset in keys_sorted:
             model.set_preset(preset)
-            output = model.inner(input_ids=batch["input_ids"].to(device),
-                                attention_mask=batch["attention_mask"].to(device),
-                                labels=batch["labels"].to(device))
-            preset_outputs[preset] = output
+            preset_outputs[preset] = model.inner(**batch)
 
         # === Compute loss for each preset with cascade distillation ===
         for preset in keys_sorted:
@@ -133,9 +145,7 @@ def main():
                     # Temperature-scaled KL divergence from higher bit-width
                     # SG(Q_j(ω)) = stop gradient on teacher logits
                     other_output = preset_outputs[other_preset]
-                    t_p = F.softmax(other_output.logits.detach() / T, dim=-1)
-                    s_logp = F.log_softmax(output.logits / T, dim=-1)
-                    kd_loss += F.kl_div(s_logp, t_p, reduction="batchmean") * (T * T)
+                    kd_loss += answer_distillation_loss(output.logits, other_output.logits, batch["labels"], T)
                     num_higher += 1
 
             # Average distillation loss from all higher bit-widths

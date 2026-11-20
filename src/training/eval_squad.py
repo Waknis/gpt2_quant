@@ -1,143 +1,124 @@
-"""
-Step 4: Evaluation of Different Quantization Configurations
-Paper Reference: SQuAD dataset evaluation standard
-- Exact Match (EM): Percentage of predictions matching ground truth exactly
-- F1 Score: Token-level F1 between prediction and ground truth
-- Context-aware answer extraction for better matching
-- Per-preset evaluation to compare different bit-width configurations
-"""
-import os, json, argparse, torch, re
+"""Generate answers under each precision preset and grade them against SQuAD v1 references."""
+import argparse
+from collections import Counter
+import json
+from pathlib import Path
+import re
+import string
+
+import torch
+from datasets import load_dataset
 from transformers import GPT2TokenizerFast
+
+from src.data.squad_dataset import encode_squad_example
 from src.models.gpt2_switchable import SwitchableGPT2
 
-def normalize_answer(s: str) -> str:
-    def remove_articles(text):
-        return re.sub(r"\b(a|an|the)\b", " ", text)
-    def white_space_fix(text):
-        return " ".join(text.split())
-    def remove_punc(text):
-        return re.sub(r"[^0-9a-zA-Z\s]", "", text)
-    def lower(text):
-        return text.lower()
-    return white_space_fix(remove_articles(remove_punc(lower(s))))
+
+MAX_NEW_TOKENS = 16
+PUNCTUATION = str.maketrans("", "", string.punctuation)
+
+
+def normalize_answer(text: str) -> str:
+    text = text.lower().translate(PUNCTUATION)
+    return " ".join(re.sub(r"\b(a|an|the)\b", " ", text).split())
+
 
 def em_max(pred: str, truths: list[str]) -> int:
-    npred = normalize_answer(pred)
-    return int(any(npred == normalize_answer(t) for t in truths))
+    normalized = normalize_answer(pred)
+    return int(bool(pred.strip()) and any(normalized == normalize_answer(t) for t in truths))
+
 
 def f1_max(pred: str, truths: list[str]) -> float:
-    npred = normalize_answer(pred)
-    p_tokens = npred.split()
-    if not p_tokens:
-        return 0.0
+    tokens = normalize_answer(pred).split()
+    counts = Counter(tokens)
     best = 0.0
-    for t in truths:
-        t_tokens = normalize_answer(t).split()
-        if not t_tokens:
-            best = max(best, 0.0)
-            continue
-        common = {}
-        for w in p_tokens:
-            if w in t_tokens:
-                common[w] = common.get(w, 0) + 1
-        num_same = sum(min(p_tokens.count(w), t_tokens.count(w)) for w in common.keys())
-        if num_same == 0:
-            continue
-        precision = num_same / len(p_tokens)
-        recall = num_same / len(t_tokens)
-        f1 = 2 * precision * recall / (precision + recall)
-        best = max(best, f1)
+    for truth in truths:
+        reference = normalize_answer(truth).split()
+        overlap = sum((counts & Counter(reference)).values())
+        if overlap:
+            best = max(best, 2 * overlap / (len(tokens) + len(reference)))
     return best
 
-TEMPLATE = "Context:\n{context}\n\nQuestion:\n{question}\n\nAnswer:"
+
+@torch.inference_mode()
+def evaluate(model, tokenizer, dataset, presets, device, max_len):
+    rows = []
+    for idx, example in enumerate(dataset):
+        encoded = encode_squad_example(
+            tokenizer, example["context"], example["question"], max_len - MAX_NEW_TOKENS,
+        )
+        ids = torch.tensor([encoded["prompt_ids"]], device=device)
+        mask = torch.ones_like(ids)
+        for preset in presets:
+            model.set_preset(preset)
+            output = model.inner.generate(
+                input_ids=ids, attention_mask=mask, max_new_tokens=MAX_NEW_TOKENS,
+                do_sample=False, pad_token_id=tokenizer.eos_token_id,
+                eos_token_id=tokenizer.eos_token_id, no_repeat_ngram_size=3,
+                repetition_penalty=1.02, num_beams=4, length_penalty=0.0,
+            )
+            raw = tokenizer.decode(output[0, ids.shape[1]:], skip_special_tokens=True)
+            pred = raw.strip()
+            truths = example["answers"]["text"]
+            rows.append({
+                "idx": idx, "id": example["id"], "preset": preset,
+                "truth": truths[0] if truths else "", "references": truths,
+                "pred_raw": raw, "pred": pred, "em": em_max(pred, truths), "f1": f1_max(pred, truths),
+            })
+    return rows
+
+
+def write_results(rows, path):
+    summary = {}
+    for row in rows:
+        stats = summary.setdefault(row["preset"], {"em": 0, "f1": 0.0, "count": 0})
+        stats["em"] += row["em"]
+        stats["f1"] += row["f1"]
+        stats["count"] += 1
+    for stats in summary.values():
+        stats["em"] /= stats["count"]
+        stats["f1"] /= stats["count"]
+        stats["scoring"] = "squad-v1.1-generated-answer-v1"
+
+    path.parent.mkdir(parents=True, exist_ok=True)
+    # Appending to the stem also keeps the files distinct for paths without a suffix.
+    summary_path = path.with_name(path.stem + ".summary.json")
+    path.write_text(json.dumps(rows, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    summary_path.write_text(json.dumps(summary, indent=2) + "\n", encoding="utf-8")
+    return summary
+
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--ckpt", type=str, required=True)
-    ap.add_argument("--preset", type=str, default=None)
+    ap.add_argument("--ckpt", required=True)
+    ap.add_argument("--preset", help="Evaluate only this preset (default: all)")
     ap.add_argument("--max_items", type=int, default=200)
-    ap.add_argument("--max_len", type=int, default=512)
-    ap.add_argument("--out", type=str, default="results/step4_eval.json")
-    ap.add_argument("--presets", type=str, default='{"A":{"w_bits":8,"a_bits":8},"B":{"w_bits":4,"a_bits":4},"C":{"w_bits":3,"a_bits":4}}')
+    ap.add_argument("--max_len", type=int, default=512, help="Token budget including the generated answer")
+    ap.add_argument("--out", type=Path, default=Path("results/step4_eval.json"))
+    ap.add_argument("--presets", default='{"A":{"w_bits":8,"a_bits":8},"B":{"w_bits":4,"a_bits":4},"C":{"w_bits":3,"a_bits":4}}')
+    ap.add_argument("--rank", type=int, default=8, help="LoRA rank used when training the checkpoint")
     args = ap.parse_args()
-
-    device = torch.device("mps" if torch.backends.mps.is_available() else ("cuda" if torch.cuda.is_available() else "cpu"))
-    tok = GPT2TokenizerFast.from_pretrained("gpt2"); tok.pad_token = tok.eos_token
-    from datasets import load_dataset
-    ds = load_dataset("rajpurkar/squad")["validation"].select(range(args.max_items))
-
     presets = json.loads(args.presets)
-    model = SwitchableGPT2("gpt2", presets=presets)
-    state = torch.load(args.ckpt, map_location="cpu")
-    model.load_state_dict(state, strict=False)
+    if not presets or (args.preset is not None and args.preset not in presets):
+        ap.error("select a preset defined in --presets")
+    if args.max_items <= 0 or args.max_len <= MAX_NEW_TOKENS:
+        ap.error(f"--max_items must be positive and --max_len must exceed {MAX_NEW_TOKENS}")
+    device = torch.device("mps" if torch.backends.mps.is_available() else
+                          "cuda" if torch.cuda.is_available() else "cpu")
+    tokenizer = GPT2TokenizerFast.from_pretrained("gpt2")
+    tokenizer.pad_token = tokenizer.eos_token
+    model = SwitchableGPT2("gpt2", presets=presets, lora_rank=args.rank)
+    if args.max_len > model.inner.config.n_positions:
+        ap.error(f"--max_len exceeds the model's context window ({model.inner.config.n_positions})")
+    model.load_state_dict(torch.load(args.ckpt, map_location="cpu", weights_only=True))
     model.to(device).eval()
-    try:
-        model.inner.config.pad_token_id = tok.eos_token_id
-    except Exception:
-        pass
-
-    rows = []
-    agg = {}
-    def normalize_pred(pred: str) -> str:
-        # take first line/sentence, shorten, strip punctuation
-        pred0 = pred.split("\n")[0]
-        pred0 = re.split(r"[\.\?!]", pred0)[0]
-        words = re.findall(r"\w+", pred0)
-        words = words[:8]
-        return " ".join(words)
-    def best_subspan_from_context(context: str, hint: str, max_n: int = 8) -> str:
-        ctx_toks = re.findall(r"\w+", context.lower())
-        hint_toks = re.findall(r"\w+", hint.lower())
-        if not hint_toks or not ctx_toks:
-            return hint
-        best = (0.0, "")
-        for n in range(1, max_n+1):
-            for i in range(0, max(0, len(ctx_toks)-n+1)):
-                span = ctx_toks[i:i+n]
-                common = set(span) & set(hint_toks)
-                if not common: continue
-                prec = sum(w in common for w in span)/len(span)
-                rec = sum(w in common for w in hint_toks)/len(hint_toks)
-                score = 0.0 if prec+rec==0 else 2*prec*rec/(prec+rec)
-                if score > best[0]:
-                    best = (score, " ".join(span))
-        return best[1] or hint
-    run_presets = [args.preset] if args.preset else list(presets.keys())
-    for i, r in enumerate(ds):
-        prompt = TEMPLATE.format(context=r["context"], question=r["question"]) + " "
-        truths = r["answers"]["text"] if r["answers"]["text"] else ["unknown"]
-        enc = tok(prompt, return_tensors="pt", add_special_tokens=False, truncation=True, max_length=args.max_len-32)
-        ids = enc["input_ids"].to(device); mask = enc["attention_mask"].to(device)
-        for p in run_presets:
-            model.set_preset(p)
-            out = model.inner.generate(
-                input_ids=ids, attention_mask=mask, max_new_tokens=16, do_sample=False,
-                pad_token_id=tok.eos_token_id, eos_token_id=tok.eos_token_id,
-                no_repeat_ngram_size=3, repetition_penalty=1.02,
-                num_beams=4, length_penalty=0.0
-            )
-            gen = out[0][ids.shape[1]:]
-            pred_raw = tok.decode(gen, skip_special_tokens=True)
-            pred_clean = normalize_pred(pred_raw)
-            ctx_lc = r["context"].lower()
-            if (not pred_clean) or (pred_clean.lower() not in ctx_lc):
-                hint = pred_clean if pred_clean else (truths[0] if truths else "")
-                pred_clean = best_subspan_from_context(r["context"], hint)
-            em = em_max(pred_clean, truths)
-            f1 = f1_max(pred_clean, truths)
-            rows.append({"idx": i, "preset": p, "truth": truths[0], "pred": pred_clean,
-                         "em": em, "f1": f1})
-            agg.setdefault(p, {"em_sum":0, "f1_sum":0.0, "n":0})
-            agg[p]["em_sum"] += em; agg[p]["f1_sum"] += f1; agg[p]["n"] += 1
-    os.makedirs(os.path.dirname(args.out) or ".", exist_ok=True)
-    with open(args.out, "w") as f: json.dump(rows, f, indent=2)
-    # write per-preset aggregates
-    summary = {}
-    for p, s in agg.items():
-        n = max(1, s["n"])
-        summary[p] = {"em": s["em_sum"]/n, "f1": s["f1_sum"]/n, "count": s["n"]}
-    with open(re.sub(r"\.json$", ".summary.json", args.out), "w") as f: json.dump(summary, f, indent=2)
+    dataset = load_dataset("rajpurkar/squad", split="validation")
+    dataset = dataset.select(range(min(args.max_items, len(dataset))))
+    selected = [args.preset] if args.preset is not None else list(presets)
+    rows = evaluate(model, tokenizer, dataset, selected, device, args.max_len)
+    summary = write_results(rows, args.out)
     print(f"Wrote {len(rows)} rows to {args.out} | summary: {summary}")
+
 
 if __name__ == "__main__":
     main()
